@@ -68,7 +68,7 @@
 
 ## Riferimenti
 
-- [Software Selection Record (SSR) - OpenRouter](ssr-adozione-openrouter.md)
+- [SSR - OpenRouter](ssr-adozione-openrouter.md)
 - [Report finale: sperimentazione OpenRouter](report-finale-openrouter.md)
 - [Offerta OpenRouter per Madisoft](https://docs.google.com/document/d/1UBShAQGmeq83RXyu8H53sxSQqabjQFiO)
 - [OpenRouter Documentation Portal](https://openrouter.ai/docs/)

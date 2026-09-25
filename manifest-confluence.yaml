@@ -134,18 +134,18 @@ artifacts:
     disposition: publish_page
     target_key: ssr_adozione_openrouter
     parent_ref: selezione_software
-    title: "Software Selection Record (SSR) - OpenRouter"
+    title: "SSR - OpenRouter"
     batch: openrouter_managed_pages
     maturity: ready_for_refinement
     publication_status: published
-    confluence_version: '2'
+    confluence_version: '4'
     content_id: "628260884"
     url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/628260884"
     published_body_path: snapshots-confluence/ssr_adozione_openrouter.html
-    published_body_sha256: c752b0aa67d37570ae8f2e7218a3645d4c9cc9213fa1c26f78565c28b38f27dd
+    published_body_sha256: 23a368e2664b6e103c177d358fe4f5113c48096257388d2495b339305e1200f3
     last_drift_check_at: '2026-09-25'
     last_published_at: '2026-09-25'
-    source_sha256: f8ae81b0161bf43ae3765c4f3034611ee0bccbabf9607323c62ac8a739779db6
+    source_sha256: da711e1aa30ca84d0fd085f78a4a00dc7bbfc671f7b1cf55741cce906935a55c
   - source: contenuti/pitch-adozione-openrouter.md
     kind: pitch
     disposition: publish_page
@@ -155,14 +155,14 @@ artifacts:
     batch: openrouter_managed_pages
     maturity: ready_for_refinement
     publication_status: published
-    confluence_version: '2'
+    confluence_version: '3'
     content_id: "629178369"
     url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/629178369"
     published_body_path: snapshots-confluence/pitch_adozione_openrouter.html
-    published_body_sha256: 43060d2e7f27930e39ea5ac98a8f49162e79d18153c71db6e81ce5ed50a5287d
+    published_body_sha256: 98bd169336aa02812f188abbfbe8eb9453f0063ab67840a4058f08d7ff1124ac
     last_drift_check_at: '2026-09-25'
     last_published_at: '2026-09-25'
-    source_sha256: e77509ebf9e940fca117e0d8962b6c327623674b5bbbf811e6404df1ed4b4ea0
+    source_sha256: aff70bcdc64fb19e41c4a761ce98ae5cf46a9e6bf88f897bb183fac70f5736fa
   - source: contenuti/report-finale-openrouter.md
     kind: report
     disposition: publish_page

@@ -1,11 +1,11 @@
-# Software Selection Record (SSR) - OpenRouter
+# SSR - OpenRouter
 
 ## Scheda documento
 
 | Campo | Valore |
 | :---- | :---- |
 | Codice documento | MAD.TIS.SSR.03 |
-| Titolo | Software Selection Record (SSR) - OpenRouter |
+| Titolo | SSR - OpenRouter |
 | Versione | 1.2 |
 | Data emissione | 10/07/2026 |
 | Ultimo aggiornamento | 25/09/2026 |
