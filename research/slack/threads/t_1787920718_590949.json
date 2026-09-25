@@ -1,0 +1,69 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1787920718.590949",
+      "thread_ts": "1787920718.590949",
+      "user": "U096LKSL2T0",
+      "text": "Mi si è freezato Meet",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZyhkP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mi si è freezato Meet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787920737.236429",
+      "thread_ts": "1787920718.590949",
+      "user": "U09P40E8LN6",
+      "text": "E' la connessione di montagna",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D/l6V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E' la connessione di montagna"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

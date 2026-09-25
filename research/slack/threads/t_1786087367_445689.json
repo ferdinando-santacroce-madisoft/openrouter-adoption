@@ -1,0 +1,213 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 6,
+  "messages": [
+    {
+      "ts": "1786087367.445689",
+      "thread_ts": "1786087367.445689",
+      "user": "U08F42UJQEP",
+      "text": "<@U08KA9A2BMZ> mi è arrivata una newsletter da swarmia che parla di integrazioni con l'IA. Non l'ho letta (te dirai \"allora cosa mi scrivi a fare\") però sarebbe da capire se va nella direzione delle cose che interessavano a te. Non so che integrazioni supporti swarmia oggi",
+      "type": "message",
+      "reply_count": 5,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8kfot",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                },
+                {
+                  "type": "text",
+                  "text": " mi è arrivata una newsletter da swarmia che parla di integrazioni con l'IA. Non l'ho letta (te dirai \"allora cosa mi scrivi a fare\") però sarebbe da capire se va nella direzione delle cose che interessavano a te. Non so che integrazioni supporti swarmia oggi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786088028.245769",
+      "thread_ts": "1786087367.445689",
+      "user": "U0AKR9GTN4U",
+      "text": "In effetti da un po' di metriche, alcune apparentemente interessanti, come queste ad esempio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZH9fY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "In effetti da un po' di metriche, alcune apparentemente interessanti, come queste ad esempio"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BNHFJ1WHH",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 21783,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNHFJ1WHH/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNHFJ1WHH/image.png",
+          "mode": "hosted"
+        },
+        {
+          "id": "F0BNMPHTKB8",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 25733,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNMPHTKB8/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNMPHTKB8/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786088052.320629",
+      "thread_ts": "1786087367.445689",
+      "user": "U08F42UJQEP",
+      "text": "swarmia?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YGzrn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "swarmia?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786088059.569309",
+      "thread_ts": "1786087367.445689",
+      "user": "U0AKR9GTN4U",
+      "text": "si",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WcoF/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786099499.680149",
+      "thread_ts": "1786087367.445689",
+      "user": "U08KA9A2BMZ",
+      "text": "Swarmia si integra con Claude e Github Copilot, per il resto forniscono delle API alle quali si può attaccare la propria harness al fine di avere statistiche. Credo si possano fare cose interessante ma serve qualcuno che le integri magari delegandolo ad un agente AI la scrittura dell’integrazione :wink:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2fiyD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Swarmia si integra con Claude e Github Copilot, per il resto forniscono delle API alle quali si può attaccare la propria harness al fine di avere statistiche. Credo si possano fare cose interessante ma serve qualcuno che le integri magari delegandolo ad un agente AI la scrittura dell’integrazione "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786099591.305929",
+      "thread_ts": "1786087367.445689",
+      "user": "U08F42UJQEP",
+      "text": "messa giù così per opencode sembra una cosa da plugin",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FzLs1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "messa giù così per opencode sembra una cosa da plugin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    }
+  ]
+}

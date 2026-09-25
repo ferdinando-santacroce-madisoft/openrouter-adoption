@@ -1,0 +1,94 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1784283675.768929",
+      "thread_ts": "1784283675.768929",
+      "user": "U096LKSL2T0",
+      "text": "Mi raccomando segnatevi le issue/attività che avete fatto con l'AI, segnatevi appunti su cosa l'AI vi ha aiutato a fare, cosa vi ha permesso di scoprire, dove vi ha accelerato, etc.\nGeneriamo dati per sostenere al causa, altrimenti la pacchia finisce subito :smile:",
+      "type": "message",
+      "reply_count": 1,
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6",
+            "U0AKR9GTN4U",
+            "U0ALTAL9GCA"
+          ],
+          "count": 3
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FE3Zx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mi raccomando segnatevi le issue/attività che avete fatto con l'AI, segnatevi appunti su cosa l'AI vi ha aiutato a fare, cosa vi ha permesso di scoprire, dove vi ha accelerato, etc.\nGeneriamo dati per sostenere al causa, altrimenti la pacchia finisce subito "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784283729.622979",
+      "thread_ts": "1784283675.768929",
+      "user": "U08F42UJQEP",
+      "text": "allora mi preparo il listone",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "muscle",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q/f1v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "allora mi preparo il listone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

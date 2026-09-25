@@ -1,0 +1,7 @@
+Action Scope,Value,% of Total
+multi_file_feature,21.007974,50.58
+single_file,13.539399,32.6
+entire_repository,5.283542,12.72
+snippet_code,1.452966,3.5
+Other,0.241332,0.58
+system_infrastructure,0.005985,0.01

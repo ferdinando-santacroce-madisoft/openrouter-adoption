@@ -1,0 +1,93 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 3,
+  "messages": [
+    {
+      "ts": "1784044567.051829",
+      "thread_ts": "1784044567.051829",
+      "user": "U096LKSL2T0",
+      "text": "ora ho incluso anche te e Anders nel guardrail",
+      "type": "message",
+      "reply_count": 2,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g7T6O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ora ho incluso anche te e Anders nel guardrail"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784044642.770289",
+      "thread_ts": "1784044567.051829",
+      "user": "U08F42UJQEP",
+      "text": "ok, comunque a livello di api key non si vede comunque, quindi non è indicativo il dato sull'api key",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J4OzB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok, comunque a livello di api key non si vede comunque, quindi non è indicativo il dato sull'api key"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784044706.207499",
+      "thread_ts": "1784044567.051829",
+      "user": "U096LKSL2T0",
+      "text": "eh, bisogna appunto studiarsi tutte 'ste config",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1l7p6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh, bisogna appunto studiarsi tutte 'ste config"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

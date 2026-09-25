@@ -1,0 +1,216 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 7,
+  "messages": [
+    {
+      "ts": "1784726591.099259",
+      "thread_ts": "1784726591.099259",
+      "user": "U08F42UJQEP",
+      "text": "Ho letto questo nella doc di opencode che sarebbe interessante <https://opencode.ai/docs/it/config/#comandi|opencode.ai/docs/it/config#…> che di fatto lavorerebbe come i prompt memorizzati di copilot. Fa un po' il seguito al discorso che faceva ieri Francesco di poter fare retrospettive sui prompt per vedere di condividerli con il resto del team visto che risiederebbero dentro al progetto.",
+      "type": "message",
+      "reply_count": 6,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KiiJ0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho letto questo nella doc di opencode che sarebbe interessante "
+                },
+                {
+                  "type": "link",
+                  "url": "https://opencode.ai/docs/it/config/#comandi",
+                  "text": "opencode.ai/docs/it/config#…",
+                  "truncated": true
+                },
+                {
+                  "type": "text",
+                  "text": " che di fatto lavorerebbe come i prompt memorizzati di copilot. Fa un po' il seguito al discorso che faceva ieri Francesco di poter fare retrospettive sui prompt per vedere di condividerli con il resto del team visto che risiederebbero dentro al progetto."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://social-cards.sst.dev/opencode-docs/Q29uZmlndXJhemlvbmU%3D.png?desc=Usa%20la%20configurazione%20JSON%20di%20OpenCode.",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 27672,
+          "from_url": "https://opencode.ai/docs/it/config/#comandi",
+          "service_icon": "https://opencode.ai/apple-touch-icon-v3.png",
+          "id": 1,
+          "original_url": "https://opencode.ai/docs/it/config/#comandi",
+          "fallback": "OpenCode: Configurazione",
+          "text": "Usa la configurazione JSON di OpenCode.",
+          "title": "Configurazione",
+          "title_link": "https://opencode.ai/docs/it/config/#comandi",
+          "service_name": "OpenCode"
+        }
+      ]
+    },
+    {
+      "ts": "1784733613.568099",
+      "thread_ts": "1784726591.099259",
+      "user": "U08KA9A2BMZ",
+      "text": "Queste mi sembrano più delle \"Macro\"",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R75Z6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Queste mi sembrano più delle \"Macro\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784733625.954029",
+      "thread_ts": "1784726591.099259",
+      "user": "U08KA9A2BMZ",
+      "text": "Però sicuramente è interessante",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c5cs7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Però sicuramente è interessante"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784733637.563429",
+      "thread_ts": "1784726591.099259",
+      "user": "U08F42UJQEP",
+      "text": "allora forse non ho capito cosa intendevi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xQ9MY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "allora forse non ho capito cosa intendevi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784733720.391309",
+      "thread_ts": "1784726591.099259",
+      "user": "U08KA9A2BMZ",
+      "text": "I Comandi è un modo per poter ripetere lo stesso prompt, quindi è sicuramente utile per permettere ad altri di riutilizzare prompt",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lMr73",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "I Comandi è un modo per poter ripetere lo stesso prompt, quindi è sicuramente utile per permettere ad altri di riutilizzare prompt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784733786.141149",
+      "thread_ts": "1784726591.099259",
+      "user": "U08KA9A2BMZ",
+      "text": "Il mio punto non era nel riutilizzo, ma nella \"conoscenza\". Sapere come tu hai risolto un problema con l'AI, mi permette di verificare il tuo lavoro, imparare dal tuo lavoro e anche riutilizzare a modo mio partendo dal tuo lavoro. Proprio come succede quando guardiamo codice scritto dagli altri.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IwIah",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Il mio punto non era nel riutilizzo, ma nella \"conoscenza\". Sapere come tu hai risolto un problema con l'AI, mi permette di verificare il tuo lavoro, imparare dal tuo lavoro e anche riutilizzare a modo mio partendo dal tuo lavoro. Proprio come succede quando guardiamo codice scritto dagli altri."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784733813.308779",
+      "thread_ts": "1784726591.099259",
+      "user": "U08F42UJQEP",
+      "text": "aaaaaaaaaaahhhhhh, ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RPfVO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aaaaaaaaaaahhhhhh, ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    }
+  ]
+}

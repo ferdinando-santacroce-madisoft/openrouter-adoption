@@ -1,0 +1,1418 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 46,
+  "messages": [
+    {
+      "ts": "1787727510.842339",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "<https://larsfaye.com/articles/ai-coding-will-prevent-expertise|larsfaye.com/articles/ai-coding-will-prevent-expertise>",
+      "type": "message",
+      "reply_count": 45,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+8JoA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+                  "text": "larsfaye.com/articles/ai-coding-will-prevent-expertise",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://larsfaye.com/opengraph-expertise.jpg",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 142085,
+          "from_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "service_icon": "https://larsfaye.com/apple-touch-icon.png",
+          "ts": 1784678400,
+          "id": 1,
+          "original_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "fallback": "AI Coding will Prevent Expertise | Lars Faye",
+          "text": "The need for ongoing friction in long-term skill formation.",
+          "title": "AI Coding will Prevent Expertise | Lars Faye",
+          "title_link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "service_name": "larsfaye.com"
+        }
+      ]
+    },
+    {
+      "ts": "1787728194.215929",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "mi è venuto il vomito solo leggendo la prima frase (che avevo sentito che aveva detto una cosa del genere ma non avevo mai letto il virgolettato)\n&gt; _\"We see a future where intelligence is a utility like electricity or water and people buy it from us on a meter and use it for whatever they want to use it for\" - *Sam Altman of OpenAI*_",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tOvEJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mi è venuto il vomito solo leggendo la prima frase (che avevo sentito che aveva detto una cosa del genere ma non avevo mai letto il virgolettato)\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\"We see a future where intelligence is a utility like electricity or water and people buy it from us on a meter and use it for whatever they want to use it for\" - ",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "Sam Altman of OpenAI",
+                  "style": {
+                    "bold": true,
+                    "italic": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728250.821269",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "eh ma leggi sotto ahahah",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w8Abr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh ma leggi sotto ahahah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728258.272209",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BTLMYV5UY",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 1434613,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BTLMYV5UY/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BTLMYV5UY/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787728540.974909",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "È la storia che si ripete, con ordini di magnitudo superiore. Io da bambino dovevo andare in biblioteca e consultare le enciclopedie per fare le ricerche che mi chiedeva la maestra; i GenZ le avranno fatte con Wikipedia, perdendo la possibilità  di acquisire capacità di ricerca e sintesi delle informazioni; i nostri figli chiederanno all'AI, ottenendo risultato con 0 sforzo, e maturando al contempo 0 skill :man-shrugging:\nPer la società attuale, l'AI è l'ennesimo colpo inferto al pensiero critico e alla crescita intellettuale.\nPer ora non ci penso, altrimenti mi viene l'angoscia :disappointed:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uhl9g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "È la storia che si ripete, con ordini di magnitudo superiore. Io da bambino dovevo andare in biblioteca e consultare le enciclopedie per fare le ricerche che mi chiedeva la maestra; i GenZ le avranno fatte con Wikipedia, perdendo la possibilità  di acquisire capacità di ricerca e sintesi delle informazioni; i nostri figli chiederanno all'AI, ottenendo risultato con 0 sforzo, e maturando al contempo 0 skill "
+                },
+                {
+                  "type": "emoji",
+                  "name": "man-shrugging",
+                  "unicode": "1f937-200d-2642-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": "\nPer la società attuale, l'AI è l'ennesimo colpo inferto al pensiero critico e alla crescita intellettuale.\nPer ora non ci penso, altrimenti mi viene l'angoscia "
+                },
+                {
+                  "type": "emoji",
+                  "name": "disappointed",
+                  "unicode": "1f61e"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728607.474559",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "Esattamente , chi sarà intelligente lo sfrutterà per imparare e velocizzare ciò che saa fare alla perfezione",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bOR6I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Esattamente , chi sarà intelligente lo sfrutterà per imparare e velocizzare ciò che saa fare alla perfezione"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728612.441669",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "penso sia la skill che dobbiamo maturare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mu8fW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "penso sia la skill che dobbiamo maturare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728772.319269",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "Questo è così dalla notte dei tempi comunque: tornando all'esempio dei compiti a scuola, copiare un team ti fa prendere il voto che vuoi magari, farlo da solo ti fa acquisire una competenza intellettuale. Non prendere scorciatoie ha fatto e farà sempre la differenza. La questione è educare in questo senso, tutt'altro che facile",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GK5Wx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Questo è così dalla notte dei tempi comunque: tornando all'esempio dei compiti a scuola, copiare un team ti fa prendere il voto che vuoi magari, farlo da solo ti fa acquisire una competenza intellettuale. Non prendere scorciatoie ha fatto e farà sempre la differenza. La questione è educare in questo senso, tutt'altro che facile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728881.386329",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "io spero nei benefici del calo demografico :smile:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vuYdP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io spero nei benefici del calo demografico "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728886.309459",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "e della selezione naturale",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rQq6r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e della selezione naturale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728934.601819",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "Sono fortunato ad avere un figlio che prompta su google home per farsi dare delle somme da risolvere",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "muscle",
+          "users": [
+            "U096LKSL2T0",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N6Cv9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sono fortunato ad avere un figlio che prompta su google home per farsi dare delle somme da risolvere"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728939.523119",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": ":smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QmSgQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728949.755039",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "loro due almeno per il momento sono salvi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "urhPF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "loro due almeno per il momento sono salvi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787729292.384129",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "però comunque anche le skill manageriali hanno bisogno di intelligenza e lì secondo me l'IA può accompagnare solo. Fare strategie, individuare i problemi e pensare a come risolverli, sono cose che solo un piccolo sotto insieme di programmatori fa e spesso perchè il programmatore è più concentrato a come scrivere il codice che sul problema che il codice deve risolvere. Non che sia sbagliato perchè è un aspetto a cui ho sempre tenuto in primis ed è il motivo per cui ho mandato il curriculum qua, però alle volte diventa una preoccupazione totalizzante e paralizzante.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FcusL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però comunque anche le skill manageriali hanno bisogno di intelligenza e lì secondo me l'IA può accompagnare solo. Fare strategie, individuare i problemi e pensare a come risolverli, sono cose che solo un piccolo sotto insieme di programmatori fa e spesso perchè il programmatore è più concentrato a come scrivere il codice che sul problema che il codice deve risolvere. Non che sia sbagliato perchè è un aspetto a cui ho sempre tenuto in primis ed è il motivo per cui ho mandato il curriculum qua, però alle volte diventa una preoccupazione totalizzante e paralizzante."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787729607.166079",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "Però bisogna anche capire dove siamo, cioè noi non sforniamo landing page e ci serve di andare veloci come la luce... l'AI ci dovrebbe servire solo per aumentare la qualità a mio parere e a comprendere meglio le cose",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IRdAc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Però bisogna anche capire dove siamo, cioè noi non sforniamo landing page e ci serve di andare veloci come la luce... l'AI ci dovrebbe servire solo per aumentare la qualità a mio parere e a comprendere meglio le cose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787729951.994839",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "È uno strumento: la puoi usare così, per accrescere la tua conoscenza e le tue competenze, e la puoi usare per sostituirti: sta all'individuo scegliere. E torno a dire, è così da anni oramai: ogni volta che ho fatto copia-incolla da StackOverflow sapevo che rischiavo, e ogni volta che mi sono letto libri e fatto coding kata sapevo che ne sarei uscito arricchito :smile:\nL'AI è \"solo\" miliardi di volte più rapida ed efficace nel farti prendere cattive abitudini... :smile:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7sE+U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "È uno strumento: la puoi usare così, per accrescere la tua conoscenza e le tue competenze, e la puoi usare per sostituirti: sta all'individuo scegliere. E torno a dire, è così da anni oramai: ogni volta che ho fatto copia-incolla da StackOverflow sapevo che rischiavo, e ogni volta che mi sono letto libri e fatto coding kata sapevo che ne sarei uscito arricchito "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": "\nL'AI è \"solo\" miliardi di volte più rapida ed efficace nel farti prendere cattive abitudini... "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787729987.529729",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "vero",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "28dLp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730492.891859",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "<@U09P40E8LN6> condivido al 100% quello che hai detto, per me l'IA è uno strumento che ti fa fare le cose di valore che prima non avevi tempo di fare perchè comprime i tempi, non è per me il picchio di Homer Simpson come mi sembra che certa gente lo viva.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yLppx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " condivido al 100% quello che hai detto, per me l'IA è uno strumento che ti fa fare le cose di valore che prima non avevi tempo di fare perchè comprime i tempi, non è per me il picchio di Homer Simpson come mi sembra che certa gente lo viva."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730570.725979",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "E' difficile cercare di non cascarci mai perchè come ha detto Nando è molto facile scivolare e prendere brutte abitudini , ( magari quando sei stanco , hai una giornata no etc .. una volta eravamo costretti comunque a cercare e leggere soluzioni ora è tutto immediato )",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rynGo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E' difficile cercare di non cascarci mai perchè come ha detto Nando è molto facile scivolare e prendere brutte abitudini , ( magari quando sei stanco , hai una giornata no etc .. una volta eravamo costretti comunque a cercare e leggere soluzioni ora è tutto immediato )"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730733.466289",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "Eh sì, proprio così purtroppo :neutral_face:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E7Bw7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Eh sì, proprio così purtroppo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "neutral_face",
+                  "unicode": "1f610"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730809.108369",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "però lì dovrebbero subentrare le dinamiche di team ad un certo punto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u6RVQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però lì dovrebbero subentrare le dinamiche di team ad un certo punto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730843.863059",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "cioè?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "181N8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730882.090629",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "cioè che c'è il gruppo che ha delle pratiche che evitano che il livello si abbassi all'inverosimile",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xHCjj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè che c'è il gruppo che ha delle pratiche che evitano che il livello si abbassi all'inverosimile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730963.628759",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "cioè se io un giorno uso l'ia a cazzo (come potrei lavorare a cazzo anche senza) è un problema relativo perchè comunque il resto del team non lo sta facendo e non è una pratica normalmente accettata anche se un giorno di merda lo si perdona a tutti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K0U0w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè se io un giorno uso l'ia a cazzo (come potrei lavorare a cazzo anche senza) è un problema relativo perchè comunque il resto del team non lo sta facendo e non è una pratica normalmente accettata anche se un giorno di merda lo si perdona a tutti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787730998.069379",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "eh secondo me sta cosa si risolve solo con le PR review umane",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+fYow",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh secondo me sta cosa si risolve solo con le PR review umane"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787731003.694499",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "come hai detto te è un fatto di abitudini",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oGHw0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "come hai detto te è un fatto di abitudini"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787731015.013699",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "ma infatti io le sto facendo anche all'agente",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CWgaP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma infatti io le sto facendo anche all'agente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787731029.675479",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "quindi di fatto adesso il codice ha 2 reviewer anzichè 1",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ts/5V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "quindi di fatto adesso il codice ha 2 reviewer anzichè 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787731048.496499",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "e una pianificazione fatta meglio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4v7t1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e una pianificazione fatta meglio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787731055.849509",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "perchè non vado in ansia che devo uscire",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7KJS9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè non vado in ansia che devo uscire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787731684.768269",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "<@U09P40E8LN6> ancora più che con le PR, si mitiga lavorando insieme. Con Davide abbiamo sviluppato 2 issue Prometeo con l'AI, senza toccare una riga: l'AI ha scritto codice, commenti su Jira, PR...\nEssendo in due però ci siamo fatti domande, ci siamo confrontati, abbiamo letto tutto quello che ha fatto l'AI per verificare i ragionamenti.\nQuando sei con un'altra persona sei meno tentato nel prendere scorciatoie; il navigator in pair programming ha proprio questo ruolo tra gli altri: aiutare il driver a rimanere focalizzato, a fare una cosa per volta, a non prendere scorciatoie che poi ti si rivoltano contro.\nSe l'AI fa da driver, così hai ben 2 navigator che la tengono in riga... :grin:\nQuesto per me è un buon modo di utilizzarla :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x/KkM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " ancora più che con le PR, si mitiga lavorando insieme. Con Davide abbiamo sviluppato 2 issue Prometeo con l'AI, senza toccare una riga: l'AI ha scritto codice, commenti su Jira, PR...\nEssendo in due però ci siamo fatti domande, ci siamo confrontati, abbiamo letto tutto quello che ha fatto l'AI per verificare i ragionamenti.\nQuando sei con un'altra persona sei meno tentato nel prendere scorciatoie; il navigator in pair programming ha proprio questo ruolo tra gli altri: aiutare il driver a rimanere focalizzato, a fare una cosa per volta, a non prendere scorciatoie che poi ti si rivoltano contro.\nSe l'AI fa da driver, così hai ben 2 navigator che la tengono in riga... "
+                },
+                {
+                  "type": "emoji",
+                  "name": "grin",
+                  "unicode": "1f601"
+                },
+                {
+                  "type": "text",
+                  "text": "\nQuesto per me è un buon modo di utilizzarla "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787731724.830539",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "Hai ragione , proviamolo!!",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wAp3R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Hai ragione , proviamolo!!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787732002.882539",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "comunque secondo me DOBBIAMO integrare l'mcp di atlassian o qualcosa che faccia da ponte tra il codice, la documentazione e le issue (non ho provato rovo), questo secondo me sarebbe un altro game changer: issue scritte al bacio e raffinate in team che diventano l'input per l'ia con uno o due umani che steerano e supervisionano. Darebbe anche molto il tempo di raffinare l'architettura, del tipo che se voglio cambiare un filo il pattern lo faccio e vedo cosa viene fuori. È una merda? Butto via e in 2 minuti rientro. È buono? Bene, tutta esperienza per le prossime volte",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FA2ZJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque secondo me DOBBIAMO integrare l'mcp di atlassian o qualcosa che faccia da ponte tra il codice, la documentazione e le issue (non ho provato rovo), questo secondo me sarebbe un altro game changer: issue scritte al bacio e raffinate in team che diventano l'input per l'ia con uno o due umani che steerano e supervisionano. Darebbe anche molto il tempo di raffinare l'architettura, del tipo che se voglio cambiare un filo il pattern lo faccio e vedo cosa viene fuori. È una merda? Butto via e in 2 minuti rientro. È buono? Bene, tutta esperienza per le prossime volte"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787732040.509579",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "chiaro che poi sopra ci deve essere l'umano che capisce quando il pattern è una merda e non compie un errore di fissazione",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s2T+4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "chiaro che poi sopra ci deve essere l'umano che capisce quando il pattern è una merda e non compie un errore di fissazione"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787732052.277519",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "solo perchè gli piace il pattern o lo ha letto sul libro",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JxKcK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "solo perchè gli piace il pattern o lo ha letto sul libro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787732067.158789",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "(e anche quella è una soft skill umana)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VY3zJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(e anche quella è una soft skill umana)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787732241.487779",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "ehi ehi, <@U096LKSL2T0> guarda che ti faccio le scenate di gelosia eh :smile: comunque ci sta fare una specie di gilda anche in questo senso per sperimentare un po'. Quella di TCPDF potremmo farla assieme ad esempio",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "kissing_heart",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SPaZJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ehi ehi, "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " guarda che ti faccio le scenate di gelosia eh "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": " comunque ci sta fare una specie di gilda anche in questo senso per sperimentare un po'. Quella di TCPDF potremmo farla assieme ad esempio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787732267.567799",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "",
+      "type": "message",
+      "files": [
+        {
+          "id": "F0BSWFDH0LC",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 921813,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSWFDH0LC/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSWFDH0LC/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787732269.795249",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "che è chore sul progetto e non è di dominio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AiAFM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "che è chore sul progetto e non è di dominio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787734714.746319",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "Vai, fissiamo la data: chiudiamo le 2 issue Prometeo e facciamo TCPDF.\nQuando preferite?\nPropongo giovedì 16:00-18:00 o venerdì, sia mattina che pomeriggio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+UR98",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vai, fissiamo la data: chiudiamo le 2 issue Prometeo e facciamo TCPDF.\nQuando preferite?\nPropongo giovedì 16:00-18:00 o venerdì, sia mattina che pomeriggio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787734794.212299",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "per me venerdì è meglio perchè voglio vedere come siamo messi con sta epic prima.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XGjta",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per me venerdì è meglio perchè voglio vedere come siamo messi con sta epic prima."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787735295.303259",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "altra roba che dovremmo fare è capire come estendere le sperimentazioni che ognuno sta fando sulla propria macchina perchè adesso che ci stiamo prendendo un po' la mano sono sempre meno giochini stupidi e sempre più cose serie.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qDHmz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "altra roba che dovremmo fare è capire come estendere le sperimentazioni che ognuno sta fando sulla propria macchina perchè adesso che ci stiamo prendendo un po' la mano sono sempre meno giochini stupidi e sempre più cose serie."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787735322.976559",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "Ne parliamo :+1:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9WX2m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ne parliamo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "+1",
+                  "unicode": "1f44d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787735329.712829",
+      "thread_ts": "1787727510.842339",
+      "user": "U08F42UJQEP",
+      "text": "ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "luWBi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787737500.824579",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "<@U09P40E8LN6> questo video racconta bene gli impatti che stiamo osservando, o per osservare a breve: <https://www.youtube.com/watch?v=zgJ-OWHE4I4|youtube.com/watch?v=…>",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3klAB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " questo video racconta bene gli impatti che stiamo osservando, o per osservare a breve: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.youtube.com/watch?v=zgJ-OWHE4I4",
+                  "text": "youtube.com/watch?v=…",
+                  "truncated": true,
+                  "unsafe": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://www.youtube.com/watch?v=zgJ-OWHE4I4",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/zgJ-OWHE4I4/hqdefault.jpg",
+          "thumb_width": 480,
+          "thumb_height": 360,
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zgJ-OWHE4I4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sprofondare non è approfondire - perché l&#39;AI comoda vi costa la competenza\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 225,
+          "id": 1,
+          "original_url": "https://www.youtube.com/watch?v=zgJ-OWHE4I4",
+          "fallback": "YouTube Video: Sprofondare non è approfondire - perché l'AI comoda vi costa la competenza",
+          "title": "Sprofondare non è approfondire - perché l'AI comoda vi costa la competenza",
+          "title_link": "https://www.youtube.com/watch?v=zgJ-OWHE4I4",
+          "author_name": "DeepAiUG",
+          "author_link": "https://www.youtube.com/@DeepAiUG",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ]
+    },
+    {
+      "ts": "1787751232.961129",
+      "thread_ts": "1787727510.842339",
+      "user": "U096LKSL2T0",
+      "text": "Invito mandato per venerdì pomeriggio (Pair/Mob Programming con l'AI). Se qualcun altro vuole aggregarsi mi faccia sapere :wink:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6",
+            "U08F42UJQEP"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cOAgB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Invito mandato per venerdì pomeriggio (Pair/Mob Programming con l'AI). Se qualcun altro vuole aggregarsi mi faccia sapere "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

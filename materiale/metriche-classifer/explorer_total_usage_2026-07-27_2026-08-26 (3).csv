@@ -1,0 +1,14 @@
+Work Type,Value,% of Total
+Feature development,12.099488,28.96
+Refactoring,10.122866,24.23
+Bug fixing,9.480858,22.69
+Unit test generation,3.439004,8.23
+Research & exploration,2.769786,6.63
+Code quality,2.19802,5.26
+Documentation,0.486754,1.17
+Migrations & upgrades,0.377261,0.9
+CI/CD & DevOps,0.334493,0.8
+Code review,0.280356,0.67
+Other,0.154824,0.37
+Security,0.027821,0.07
+Data & automation,0.00939,0.02

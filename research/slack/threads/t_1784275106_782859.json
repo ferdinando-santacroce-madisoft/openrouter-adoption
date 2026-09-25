@@ -1,0 +1,155 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 5,
+  "messages": [
+    {
+      "ts": "1784275106.782859",
+      "thread_ts": "1784275106.782859",
+      "user": "U0AKR9GTN4U",
+      "text": "Buongiorno, grazie :slightly_smiling_face:",
+      "type": "message",
+      "reply_count": 4,
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wXRwW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Buongiorno, grazie "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784275474.593429",
+      "thread_ts": "1784275106.782859",
+      "user": "U08F42UJQEP",
+      "text": "avvisaci appena accetti l'invito",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vFgPz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "avvisaci appena accetti l'invito"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784275533.735559",
+      "thread_ts": "1784275106.782859",
+      "user": "U0AKR9GTN4U",
+      "text": "fatto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jiYVw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fatto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784276245.672709",
+      "thread_ts": "1784275106.782859",
+      "user": "U08F42UJQEP",
+      "text": "t'aggiungetti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yB+Fj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "t'aggiungetti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784276688.460549",
+      "thread_ts": "1784275106.782859",
+      "user": "U0AKR9GTN4U",
+      "text": "la ringrazio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aCIUl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "la ringrazio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 11,
+  "messages": [
+    {
+      "ts": "1785923683.292259",
+      "thread_ts": "1785923683.292259",
+      "user": "U0B0ZPLKA3B",
+      "text": "ciao a tutti, a seguito della condivisione dei report di sicurezza da parte di Nando su openrouter, ho effettuato la <https://madisoft.atlassian.net/browse/IS-313|Valutazione sicurezza OpenRouter Enterprise> formulando la <https://madisoft.atlassian.net/wiki/spaces/TIS/pages/528023559/Qualifica+Fornitore+e+DPIA+-+OpenRouter+Enterprise|madisoft.atlassian.net/wiki/…/Qualifica+Fornitore+e+DPIA+-+OpenRouter+Enterprise>. Siamo quindi compliant (con riserva) per l'utilizzo dello strumento, di seguito alcune direttive da seguire *obbligatoriamente*:\n\n• *Data Residency*: Configurare esclusivamente l'utilizzo delle region in UE per l'elaborazione dei dati.\n• *Prevenzione Leak*: Configurare `.cbmignore` / `.gitignore` per escludere file `.env`, chiavi SSH, certificati e dati personali dal transito verso l'IA.\n• *Zero Data Retention*: Selezionare esclusivamente i modelli che supportano la ZDR contrattuale (nessuna conservazione dei payload).\nSe queste configurazioni si possono applicare direttamente \"a monte\" per tutti chiedo per favore a <@U096LKSL2T0> di procedere, in alternativa per chi lo sta utilizzando e utilizzerà in futuro please procedete in autonomia.\n\nInoltre, sarebbe utile valutare per il futuro il tema sandboxing per isolare l'esecuzione degli agenti dal file system locale.",
+      "type": "message",
+      "reply_count": 10,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c6ut8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ciao a tutti, a seguito della condivisione dei report di sicurezza da parte di Nando su openrouter, ho effettuato la "
+                },
+                {
+                  "type": "attachment_mention",
+                  "url": "https://madisoft.atlassian.net/browse/IS-313",
+                  "text": "Valutazione sicurezza OpenRouter Enterprise",
+                  "app_id": "A2RPP3NFR",
+                  "entity_id": "W:A2RPP3NFR:amlyYTplNjIzZWZmNC1iNTUyLTQ3ODYtODQ5NS0wYTY4MmYwMzdlZTJ8fDExNDAxfHxJUy0zMTM=",
+                  "icon_url": "https://product-integrations-cdn.atl-paas.net/jira-issuetype/large/new/task.png",
+                  "icon_name": "brand-jira-filled",
+                  "product_name": "Jira Cloud",
+                  "channel_id": "C0BH6EGF5GE",
+                  "ts": "1785923683.292259"
+                },
+                {
+                  "type": "text",
+                  "text": " formulando la "
+                },
+                {
+                  "type": "link",
+                  "url": "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/528023559/Qualifica+Fornitore+e+DPIA+-+OpenRouter+Enterprise",
+                  "text": "madisoft.atlassian.net/wiki/…/Qualifica+Fornitore+e+DPIA+-+OpenRouter+Enterprise",
+                  "truncated": true
+                },
+                {
+                  "type": "text",
+                  "text": ". Siamo quindi compliant (con riserva) per l'utilizzo dello strumento, di seguito alcune direttive da seguire "
+                },
+                {
+                  "type": "text",
+                  "text": "obbligatoriamente",
+                  "style": {
+                    "bold": true,
+                    "underline": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ":\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Data Residency",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Configurare esclusivamente l'utilizzo delle region in UE per l'elaborazione dei dati."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Prevenzione Leak",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Configurare "
+                    },
+                    {
+                      "type": "text",
+                      "text": ".cbmignore",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " / "
+                    },
+                    {
+                      "type": "text",
+                      "text": ".gitignore",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " per escludere file "
+                    },
+                    {
+                      "type": "text",
+                      "text": ".env",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": ", chiavi SSH, certificati e dati personali dal transito verso l'IA."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Zero Data Retention",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Selezionare esclusivamente i modelli che supportano la ZDR contrattuale (nessuna conservazione dei payload)."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nSe queste configurazioni si possono applicare direttamente \"a monte\" per tutti chiedo per favore a "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " di procedere, in alternativa per chi lo sta utilizzando e utilizzerà in futuro please procedete in autonomia.\n\nInoltre, sarebbe utile valutare per il futuro il tema sandboxing per isolare l'esecuzione degli agenti dal file system locale."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785923780.955209",
+      "thread_ts": "1785923683.292259",
+      "user": "U09P40E8LN6",
+      "text": "occhio allora credo si possa usare solo questi modelli :\n<https://openrouter.ai/models?region=eu|openrouter.ai/models?region=eu>",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c1M0Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "occhio allora credo si possa usare solo questi modelli :\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://openrouter.ai/models?region=eu",
+                  "text": "openrouter.ai/models?region=eu",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://openrouter.ai/dynamic-og?pathname=models&title=Compare+AI+Models%3A+Pricing%2C+Context+%26+Benchmarks&description=Compare+400%2B+LLMs+from+OpenAI%2C+Anthropic%2C+Google%2C+Meta+and+more+%E2%80%94+pricing%2C+context+length%2C+and+benchmarks+side+by+side%2C+all+through+one+API.&v=2",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 69639,
+          "from_url": "https://openrouter.ai/models?region=eu",
+          "service_icon": "https://openrouter.ai/favicon/glyph.png",
+          "id": 1,
+          "original_url": "https://openrouter.ai/models?region=eu",
+          "fallback": "OpenRouter: Compare AI Models: Pricing, Context &amp; Benchmarks | OpenRouter",
+          "text": "Compare 400+ LLMs from OpenAI, Anthropic, Google, Meta and more — pricing, context length, and benchmarks side by side, all through one API.",
+          "title": "Compare AI Models: Pricing, Context &amp; Benchmarks | OpenRouter",
+          "title_link": "https://openrouter.ai/models?region=eu",
+          "service_name": "OpenRouter"
+        }
+      ]
+    },
+    {
+      "ts": "1785923882.913029",
+      "thread_ts": "1785923683.292259",
+      "user": "U09P40E8LN6",
+      "text": "QUindi praticamente per essere compliant openrouter diventerebbe inutilizzabile , tutti gli esperiemnti che abbiamo fatto erano modelli che hanno provider fuori EU e non hanno residence in EU :rolling_on_the_floor_laughing:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iEPam",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "QUindi praticamente per essere compliant openrouter diventerebbe inutilizzabile , tutti gli esperiemnti che abbiamo fatto erano modelli che hanno provider fuori EU e non hanno residence in EU "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785923969.278229",
+      "thread_ts": "1785923683.292259",
+      "user": "U08F42UJQEP",
+      "text": "ma se sono zero data retention ha senso vincolarli alla eu? cioè se la data retention è zero la data residency c'è? Chiedo eh",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BV7s6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma se sono zero data retention ha senso vincolarli alla eu? cioè se la data retention è zero la data residency c'è? Chiedo eh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785924060.175699",
+      "thread_ts": "1785923683.292259",
+      "user": "U096LKSL2T0",
+      "text": "<@U09P40E8LN6> Poi ci guardo con attenzione",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KWEYC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " Poi ci guardo con attenzione"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785924213.217379",
+      "thread_ts": "1785923683.292259",
+      "user": "U096LKSL2T0",
+      "text": "<@U0B0ZPLKA3B> grazie, poi me lo leggo; ZDR già operativo comunque",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o6siE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0B0ZPLKA3B"
+                },
+                {
+                  "type": "text",
+                  "text": " grazie, poi me lo leggo; ZDR già operativo comunque"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785924443.234139",
+      "thread_ts": "1785923683.292259",
+      "user": "U0B0ZPLKA3B",
+      "text": "<@U08F42UJQEP> sono d'accordo che sembrano esclusivi ma sono concetti diversi che si applicano in momenti diversi, uno garantisce che i dati siano elaborati in EU, uno garantisce che i dati alla fine dell'elaborazione non siano conservati. A noi interessano entrambe le cose",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mpJq9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " sono d'accordo che sembrano esclusivi ma sono concetti diversi che si applicano in momenti diversi, uno garantisce che i dati siano elaborati in EU, uno garantisce che i dati alla fine dell'elaborazione non siano conservati. A noi interessano entrambe le cose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785926643.932299",
+      "thread_ts": "1785923683.292259",
+      "user": "U08F42UJQEP",
+      "text": "possibile che nella lista dei modelli EU non ci sia Mistral?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CZPcc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "possibile che nella lista dei modelli EU non ci sia Mistral?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785932599.859789",
+      "thread_ts": "1785923683.292259",
+      "user": "U096LKSL2T0",
+      "text": "eh, in effetti... Non capisco :thinking_face:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xTyWT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh, in effetti... Non capisco "
+                },
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785932648.337239",
+      "thread_ts": "1785923683.292259",
+      "user": "U096LKSL2T0",
+      "text": "Qua dice che che: \"_OpenRouter offers fully in-region routing in the EU for enterprise customers. <https://openrouter.ai/enterprise/form|Contact our enterprise team> to enable it for your account._\"\n<https://openrouter.ai/docs/guides/features/sovereign-ai|openrouter.ai/docs/guides/features/sovereign-ai>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tUW52",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Qua dice che che: \""
+                },
+                {
+                  "type": "text",
+                  "text": "OpenRouter offers fully in-region routing in the EU for enterprise customers. ",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "link",
+                  "url": "https://openrouter.ai/enterprise/form",
+                  "text": "Contact our enterprise team",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " to enable it for your account.",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\"\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://openrouter.ai/docs/guides/features/sovereign-ai",
+                  "text": "openrouter.ai/docs/guides/features/sovereign-ai",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://openrouter.ai/dynamic-og?title=Enterprise+Contact&description=Contact+OpenRouter+for+enterprise+AI+infrastructure+solutions.&v=2",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 34988,
+          "from_url": "https://openrouter.ai/enterprise/form",
+          "service_icon": "https://openrouter.ai/favicon/glyph.png",
+          "id": 1,
+          "original_url": "https://openrouter.ai/enterprise/form",
+          "fallback": "OpenRouter: Enterprise Contact | OpenRouter",
+          "text": "Contact OpenRouter for enterprise AI infrastructure solutions.",
+          "title": "Enterprise Contact | OpenRouter",
+          "title_link": "https://openrouter.ai/enterprise/form",
+          "service_name": "OpenRouter"
+        },
+        {
+          "image_url": "https://openrouter.ai/dynamic-og?title=Sovereign%20AI&description=In-Region%20AI%20Routing%20with%20OpenRouter",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 28965,
+          "from_url": "https://openrouter.ai/docs/guides/features/sovereign-ai",
+          "service_icon": "https://openrouter.ai/docs/_mintlify/favicons/openrouter-d02e98a0/EmhfYwFO2tvnkuV-/_generated/favicon/apple-touch-icon.png",
+          "id": 2,
+          "original_url": "https://openrouter.ai/docs/guides/features/sovereign-ai",
+          "fallback": "OpenRouter Documentation: Sovereign AI - In-Region AI Routing with OpenRouter",
+          "text": "Learn how OpenRouter enables sovereign AI with in-region routing, data residency controls, and compliance features that keep your AI workloads within national and regional boundaries.",
+          "title": "Sovereign AI - In-Region AI Routing with OpenRouter",
+          "title_link": "https://openrouter.ai/docs/guides/features/sovereign-ai",
+          "service_name": "OpenRouter Documentation"
+        }
+      ]
+    },
+    {
+      "ts": "1785932707.669859",
+      "thread_ts": "1785923683.292259",
+      "user": "U096LKSL2T0",
+      "text": "<@U0B0ZPLKA3B> può essere che con l'account che abbiamo ora non ci hanno abilitato il routing su EU, gli scrivo",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        },
+        {
+          "name": "crossed_fingers",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z8Tf7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0B0ZPLKA3B"
+                },
+                {
+                  "type": "text",
+                  "text": " può essere che con l'account che abbiamo ora non ci hanno abilitato il routing su EU, gli scrivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0B0ZPLKA3B",
+      "name": "pasquale.siciliano",
+      "real_name": "Pasquale Siciliano",
+      "email": "pasquale.siciliano@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

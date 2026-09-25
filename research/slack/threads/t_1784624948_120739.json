@@ -1,0 +1,146 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 4,
+  "messages": [
+    {
+      "ts": "1784624948.120739",
+      "thread_ts": "1784624948.120739",
+      "user": "U08KA9A2BMZ",
+      "text": "Riuscite a fare un account anche a me da Admin?",
+      "type": "message",
+      "reply_count": 3,
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Eaq65",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Riuscite a fare un account anche a me da Admin?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784625019.499289",
+      "thread_ts": "1784624948.120739",
+      "user": "U09P40E8LN6",
+      "text": "ti ho mandato invito",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tz00q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ti ho mandato invito"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784625029.974159",
+      "thread_ts": "1784624948.120739",
+      "user": "U08F42UJQEP",
+      "text": "allora te ne sono arrivati 2",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X1Uyd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "allora te ne sono arrivati 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784626400.561099",
+      "thread_ts": "1784624948.120739",
+      "user": "U08KA9A2BMZ",
+      "text": "I'm in :wink:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oBAy8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "I'm in "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

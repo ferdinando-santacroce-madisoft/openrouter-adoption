@@ -1,0 +1,90 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1785494831.729959",
+      "thread_ts": "1785494831.729959",
+      "user": "U09P40E8LN6",
+      "text": "Vai di gemini chat",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Cb0Z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vai di gemini chat"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785494885.044209",
+      "thread_ts": "1785494831.729959",
+      "user": "U08F42UJQEP",
+      "text": ":shushing_face: ho ancora il 20% di credito di copilot",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "bottiglia_varnelli",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "fire",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2eAV1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "face_with_finger_covering_closed_lips",
+                  "unicode": "1f92b"
+                },
+                {
+                  "type": "text",
+                  "text": " ho ancora il 20% di credito di copilot"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

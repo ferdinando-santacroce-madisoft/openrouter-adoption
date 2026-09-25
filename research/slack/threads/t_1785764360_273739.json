@@ -1,0 +1,310 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 10,
+  "messages": [
+    {
+      "ts": "1785764360.273739",
+      "thread_ts": "1785764360.273739",
+      "user": "U0ALTAL9GCA",
+      "text": "Io oggi mi sto trovando male con il solito DS4 Flash, in un certo senso lo trovo degradato",
+      "type": "message",
+      "reply_count": 9,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VSrrI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Io oggi mi sto trovando male con il solito DS4 Flash, in un certo senso lo trovo degradato"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764891.469679",
+      "thread_ts": "1785764360.273739",
+      "user": "U096LKSL2T0",
+      "text": "Da dove lo usi? OpenCode?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5/VgP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Da dove lo usi? OpenCode?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764963.091349",
+      "thread_ts": "1785764360.273739",
+      "user": "U0ALTAL9GCA",
+      "text": "Si, OpenCode.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zfZdj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si, OpenCode."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765398.960459",
+      "thread_ts": "1785764360.273739",
+      "user": "U096LKSL2T0",
+      "text": "Hai aggiornato i modelli? `opencode models --refresh`",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SLEjI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Hai aggiornato i modelli? "
+                },
+                {
+                  "type": "text",
+                  "text": "opencode models --refresh",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765420.102629",
+      "thread_ts": "1785764360.273739",
+      "user": "U0ALTAL9GCA",
+      "text": "No, non sapevo l'esistenza. Provo e appena posso ti dico",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k+uUO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "No, non sapevo l'esistenza. Provo e appena posso ti dico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765460.787879",
+      "thread_ts": "1785764360.273739",
+      "user": "U096LKSL2T0",
+      "text": "Quel comando va lanciato ogni 2-3 giorni, che qua spuntano modelli come funghi :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rf3Kd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Quel comando va lanciato ogni 2-3 giorni, che qua spuntano modelli come funghi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765472.760169",
+      "thread_ts": "1785764360.273739",
+      "user": "U0ALTAL9GCA",
+      "text": "grazie :slightly_smiling_face:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EP9hL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "grazie "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765514.846819",
+      "thread_ts": "1785764360.273739",
+      "user": "U0ALTAL9GCA",
+      "text": "E' comparso un DS4 Flash Latest",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3MDWK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E' comparso un DS4 Flash Latest"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765547.016609",
+      "thread_ts": "1785764360.273739",
+      "user": "U0ALTAL9GCA",
+      "text": "Ho visto un video di Sanfilippo che diceva che il modello che usavamo non era definitivo e che quindi ora è in fase di rilascio quello definitivo, chissà se si tratta di questo.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AEhuR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho visto un video di Sanfilippo che diceva che il modello che usavamo non era definitivo e che quindi ora è in fase di rilascio quello definitivo, chissà se si tratta di questo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765603.136379",
+      "thread_ts": "1785764360.273739",
+      "user": "U096LKSL2T0",
+      "text": "Esatto, mi sa che stavi usando ancora il vecchio modello (che in realtà era una preview), ma l'altro ieri è uscita la versione aggiornata :+1:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "muscle::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+uDfv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Esatto, mi sa che stavi usando ancora il vecchio modello (che in realtà era una preview), ma l'altro ieri è uscita la versione aggiornata "
+                },
+                {
+                  "type": "emoji",
+                  "name": "+1",
+                  "unicode": "1f44d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

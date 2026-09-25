@@ -1,0 +1,633 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 23,
+  "messages": [
+    {
+      "ts": "1785398454.632819",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "visto che si parla di sicurezza, sta settimana ho sentito il podcast di Stefano Maestri (tappandomi le orecchie tutte le volta che traduce \"harness\" con \"arnese\") in cui dice che effettivamente gli agenti dovrebbero essere sandboxati (anche qui cosa che non fa nessuno). Sarebbe interessante effettivamente capire come farli girare dentro un immagine docker ritagliata per non fargli fare m*******e in giro anche se ovviamente porta a delle complicazioni.",
+      "type": "message",
+      "reply_count": 22,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aYRKV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "visto che si parla di sicurezza, sta settimana ho sentito il podcast di Stefano Maestri (tappandomi le orecchie tutte le volta che traduce \"harness\" con \"arnese\") in cui dice che effettivamente gli agenti dovrebbero essere sandboxati (anche qui cosa che non fa nessuno). Sarebbe interessante effettivamente capire come farli girare dentro un immagine docker ritagliata per non fargli fare m*******e in giro anche se ovviamente porta a delle complicazioni."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398540.864319",
+      "thread_ts": "1785398454.632819",
+      "user": "U0B0ZPLKA3B",
+      "text": "è una soluzione che ha proposto anche il direttore cybersecurity di gruppo, limitare il più possibile aiuta sicuramente",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qnxBI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "è una soluzione che ha proposto anche il direttore cybersecurity di gruppo, limitare il più possibile aiuta sicuramente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398547.281759",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "Ehy io nel mio computer personale li ho sandboxati :eyes:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EVpFU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ehy io nel mio computer personale li ho sandboxati "
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398566.667129",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "come li hai sandboxati?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "44uIV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "come li hai sandboxati?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398645.629559",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "<https://code.claude.com/docs/en/sandbox-environments|https://code.claude.com/docs/en/sandbox-environments> ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6o1Yg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://code.claude.com/docs/en/sandbox-environments",
+                  "text": "https://code.claude.com/docs/en/sandbox-environments"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DSettings%2Band%2Bpermissions%26appearance%3Dsystem%26title%3DChoose%2Ba%2Bsandbox%2Benvironment%26description%3DCompare%2BClaude%2BCode%2Bsandbox%2Boptions%253A%2Bthe%2Bbuilt-in%2Bsandboxed%2BBash%2Btool%252C%2Bsandbox%2Bruntime%252C%2Bdev%2Bcontainers%252C%2BDocker%252C%2Band%2BVMs.%2BChoose%2Bthe%2Bright%2Bisolation%2Bfor%2Byour%2Bthr%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&w=1200&q=100",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 172367,
+          "from_url": "https://code.claude.com/docs/en/sandbox-environments",
+          "service_icon": "https://code.claude.com/docs/_mintlify/favicons/claude-code/pLsy-mRpNksna2sx/_generated/favicon/apple-touch-icon.png",
+          "id": 1,
+          "original_url": "https://code.claude.com/docs/en/sandbox-environments",
+          "fallback": "Claude Code Docs: Choose a sandbox environment - Claude Code Docs",
+          "text": "Compare Claude Code sandbox options: the built-in sandboxed Bash tool, sandbox runtime, dev containers, Docker, and VMs. Choose the right isolation for your threat model.",
+          "title": "Choose a sandbox environment - Claude Code Docs",
+          "title_link": "https://code.claude.com/docs/en/sandbox-environments",
+          "service_name": "Claude Code Docs"
+        }
+      ]
+    },
+    {
+      "ts": "1785398698.436369",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "ah ok però quello è specifico per claude, ma come l'hai implementata la sandbox?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zlptf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ah ok però quello è specifico per claude, ma come l'hai implementata la sandbox?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398803.146309",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "Sandbox runtime ma sto passandolo su docker ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E2KMv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sandbox runtime ma sto passandolo su docker "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398878.210409",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "Però non ho mcp e altre robe ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XhJdS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Però non ho mcp e altre robe "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398898.868509",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "sarebbe un approccio interessante e sfidante, il primo pensiero che ho è come lasciarmi le strade aperte, tipo lasciare all'agente la possibilità di usare un browser",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XZ41D",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sarebbe un approccio interessante e sfidante, il primo pensiero che ho è come lasciarmi le strade aperte, tipo lasciare all'agente la possibilità di usare un browser"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398912.125949",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "gli mcp \"headless\" sono l'ultimo dei problemi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l6FAq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gli mcp \"headless\" sono l'ultimo dei problemi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398914.837299",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "o quasi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2WC9U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "o quasi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398984.194739",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "tipo che ad esempio se fanno delle cose con git per dire, per esempio, per indicizzare il codice quando faccio checkout su un branch",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E844m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tipo che ad esempio se fanno delle cose con git per dire, per esempio, per indicizzare il codice quando faccio checkout su un branch"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399006.752629",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "devo farlo funzionare da qualunque \"macchina\" faccia il checkout",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tUtWX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "devo farlo funzionare da qualunque \"macchina\" faccia il checkout"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399022.649479",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "Ma vabbè io roba che interagisce sul web la faccio io personalmente ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M2biw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ma vabbè io roba che interagisce sul web la faccio io personalmente "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399063.456499",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "è una goduria però vederlo testare manualmente",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U+mlA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "è una goduria però vederlo testare manualmente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399065.279899",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "Al limite ti fai dare i comandi se uno è pigro ahahaha tipo io gli ho messo proprio la regola , tutto ciò che interagisce con fuori non ha il permesso e quindi si bloccherebbe , lui da i comandi , lo sblocco e continua una roba così ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wzuv/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Al limite ti fai dare i comandi se uno è pigro ahahaha tipo io gli ho messo proprio la regola , tutto ciò che interagisce con fuori non ha il permesso e quindi si bloccherebbe , lui da i comandi , lo sblocco e continua una roba così "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399083.891779",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "però così non è agentico",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "piwwB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però così non è agentico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399287.762309",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "verissimo :joy: comunque sulla sandbox hai detto una cosa giustissima , anche perché quello che ho fatto io l’altro giorno bash -x che è un comando che potrebbe fare un llm tranquillamente per debug ha buttato fuori secrets in chiaro , come può tranquillamente leggere file .env , pur avendo opt out può capitare a qualsiasi persona per esempio con open code di utilizzare per sbaglio modelli free o come è successo usare gemini cli pensando che abbia il piano di opt out come la chat invece se guardi nei termini non è così e rischiamo che la roba vada nel training , sono percentuali bassissime ma può succedere \n\nPer quello non sono super pro allo sviluppo agentico , sarò psicopatico ma voglio il controllo ahahahha",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E3Jj1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "verissimo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "text",
+                  "text": " comunque sulla sandbox hai detto una cosa giustissima , anche perché quello che ho fatto io l’altro giorno bash -x che è un comando che potrebbe fare un llm tranquillamente per debug ha buttato fuori secrets in chiaro , come può tranquillamente leggere file .env , pur avendo opt out può capitare a qualsiasi persona per esempio con open code di utilizzare per sbaglio modelli free o come è successo usare gemini cli pensando che abbia il piano di opt out come la chat invece se guardi nei termini non è così e rischiamo che la roba vada nel training , sono percentuali bassissime ma può succedere \n\nPer quello non sono super pro allo sviluppo agentico , sarò psicopatico ma voglio il controllo ahahahha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399495.842869",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "Secondo me è parte del percorso, è giusto farsi tutte le seghe mentali dell'universo, anche una in più, però io preferirei trovare delle soluzioni che vadano oltre il semplice \"è pericoloso, non glielo faccio fare\"",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZAg1p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Secondo me è parte del percorso, è giusto farsi tutte le seghe mentali dell'universo, anche una in più, però io preferirei trovare delle soluzioni che vadano oltre il semplice \"è pericoloso, non glielo faccio fare\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399515.792049",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "preferisco qualcosa del tipo \"sarebbe pericoloso se lo facesse in produzione, ma siamo in dev\"",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0yV5p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "preferisco qualcosa del tipo \"sarebbe pericoloso se lo facesse in produzione, ma siamo in dev\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399532.567619",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "oppure \"è pericoloso? strutturalmente non lo può fare\"",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i0ri2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "oppure \"è pericoloso? strutturalmente non lo può fare\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399543.194249",
+      "thread_ts": "1785398454.632819",
+      "user": "U09P40E8LN6",
+      "text": "ti do ragione al 100% , infatti prima bisognerebbe agire sulla struttura",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xSoJR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ti do ragione al 100% , infatti prima bisognerebbe agire sulla struttura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399550.443639",
+      "thread_ts": "1785398454.632819",
+      "user": "U08F42UJQEP",
+      "text": "infatti",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i16RT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "infatti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0B0ZPLKA3B",
+      "name": "pasquale.siciliano",
+      "real_name": "Pasquale Siciliano",
+      "email": "pasquale.siciliano@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

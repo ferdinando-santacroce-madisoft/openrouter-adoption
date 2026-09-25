@@ -1,0 +1,144 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 4,
+  "messages": [
+    {
+      "ts": "1784281957.717709",
+      "thread_ts": "1784281957.717709",
+      "user": "U0ALTAL9GCA",
+      "text": "DeepSeek c'ha la promo 3x2 attiva",
+      "type": "message",
+      "reply_count": 3,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KGG/i",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "DeepSeek c'ha la promo 3x2 attiva"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BJV66FC3A",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 33323,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BJV66FC3A/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BJV66FC3A/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1784282056.822769",
+      "thread_ts": "1784281957.717709",
+      "user": "U08F42UJQEP",
+      "text": "cioè quindi in realtà anzichè aver speso 2 con deepseek ho speso 3?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2H372",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè quindi in realtà anzichè aver speso 2 con deepseek ho speso 3?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784282102.299579",
+      "thread_ts": "1784281957.717709",
+      "user": "U0ALTAL9GCA",
+      "text": "Volevo fare il simpatico, per dire che attualmente quello con cui abbiamo generato più request ma allo stesso tempo quello che è costato di meno.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9nWBO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Volevo fare il simpatico, per dire che attualmente quello con cui abbiamo generato più request ma allo stesso tempo quello che è costato di meno."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784282119.959569",
+      "thread_ts": "1784281957.717709",
+      "user": "U08F42UJQEP",
+      "text": "aaaahhhh non avevo capito :smile:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jTEpo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aaaahhhh non avevo capito "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

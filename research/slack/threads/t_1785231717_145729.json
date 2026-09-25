@@ -1,0 +1,155 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 5,
+  "messages": [
+    {
+      "ts": "1785231717.145729",
+      "thread_ts": "1785231717.145729",
+      "user": "U08KA9A2BMZ",
+      "text": "Mi sa che per le mie vacanze mi devo aumentare il budget settimanale, ho bruciato 6$ in 2 giorni :smile:",
+      "type": "message",
+      "reply_count": 4,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IZmOP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mi sa che per le mie vacanze mi devo aumentare il budget settimanale, ho bruciato 6$ in 2 giorni "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785231820.553429",
+      "thread_ts": "1785231717.145729",
+      "user": "U08F42UJQEP",
+      "text": "comunque io ho la sensazione che su di un progetto così vasto, se non diamo al modello qualcosa che lo faciliti a trovare la roba, i costi saranno sempre alti perchè lui greppa tutto quello che può greppare per cercare la roba che serve (non è uno spot pubblicitario questo)",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xSzRm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque io ho la sensazione che su di un progetto così vasto, se non diamo al modello qualcosa che lo faciliti a trovare la roba, i costi saranno sempre alti perchè lui greppa tutto quello che può greppare per cercare la roba che serve (non è uno spot pubblicitario questo)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785231850.523979",
+      "thread_ts": "1785231717.145729",
+      "user": "U08F42UJQEP",
+      "text": "io stamattina ho guardato quello che ho speso tra ieri e oggi, che col problema che ho avuto al pc, ieri ho usato l'ia solo nel pome",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Lq7x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io stamattina ho guardato quello che ho speso tra ieri e oggi, che col problema che ho avuto al pc, ieri ho usato l'ia solo nel pome"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785231867.716869",
+      "thread_ts": "1785231717.145729",
+      "user": "U08F42UJQEP",
+      "text": "e sono al 30% con DS4 Flash che non costa assolutamente nulla",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5EzVk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e sono al 30% con DS4 Flash che non costa assolutamente nulla"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785231919.249999",
+      "thread_ts": "1785231717.145729",
+      "user": "U08KA9A2BMZ",
+      "text": "Eh si è un buon punto sul quale trovare una soluzione. Anche secondo me per adottare IA in maniera enterprise dovremmo investire parecchio tempo nel costruire tutto il giusto contesto.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Va4rl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Eh si è un buon punto sul quale trovare una soluzione. Anche secondo me per adottare IA in maniera enterprise dovremmo investire parecchio tempo nel costruire tutto il giusto contesto."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

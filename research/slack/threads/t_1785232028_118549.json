@@ -1,0 +1,361 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 6,
+  "messages": [
+    {
+      "ts": "1785232028.118549",
+      "thread_ts": "1785232028.118549",
+      "user": "U08KA9A2BMZ",
+      "text": "Mi sono fatto aggiungere ad un gruppo underground di Tech Lead e CTO per capire come stanno trasformando la SDLC nelle loro aziende. Vi lascio qualche link che mi hanno condiviso:\n• <https://www.8090.ai/|8090.ai>\n• <https://medium.com/building-witboost-a-product-management-journey/we-locked-a-team-in-a-room-for-two-days-and-rebuilt-how-we-work-from-scratch-ca928611e65c|medium.com/building-witboost-a-product-management-journey/we-locked-a-team-in-a-room-for-two-days-and-rebuilt-how-we-work-from-scratch…>\n• <https://www.youtube.com/watch?v=uo_2agdiAlg|youtube.com/watch?v=uo_2agdiAlg>\n",
+      "type": "message",
+      "reply_count": 5,
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        },
+        {
+          "name": "pray",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IEO2C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mi sono fatto aggiungere ad un gruppo underground di Tech Lead e CTO per capire come stanno trasformando la SDLC nelle loro aziende. Vi lascio qualche link che mi hanno condiviso:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://www.8090.ai/",
+                      "text": "8090.ai",
+                      "truncated": true,
+                      "unsafe": true
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://medium.com/building-witboost-a-product-management-journey/we-locked-a-team-in-a-room-for-two-days-and-rebuilt-how-we-work-from-scratch-ca928611e65c",
+                      "text": "medium.com/building-witboost-a-product-management-journey/we-locked-a-team-in-a-room-for-two-days-and-rebuilt-how-we-work-from-scratch…",
+                      "truncated": true
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://www.youtube.com/watch?v=uo_2agdiAlg",
+                      "text": "youtube.com/watch?v=uo_2agdiAlg",
+                      "truncated": true,
+                      "unsafe": true
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://www.8090.ai/opengraph-image-1jdwle.png?opengraph-image.0r~liucf-wg4u.png?dpl=dpl_4Qx3eLVXtfQ8aGWfU5547oDZAy11",
+          "image_width": 1200,
+          "image_height": 628,
+          "image_bytes": 5014,
+          "from_url": "https://www.8090.ai/",
+          "service_icon": "https://www.8090.ai/apple-icon-1jdwle.png?apple-icon.0b8wa.wk180aw.png?dpl=dpl_4Qx3eLVXtfQ8aGWfU5547oDZAy11",
+          "id": 1,
+          "original_url": "https://www.8090.ai/",
+          "fallback": "8090 — AI-Native Software Development Platform",
+          "text": "Quality. Control. Consistency. The AI-native platform that puts documentation, collaboration, and oversight at the center of software development.",
+          "title": "8090 — AI-Native Software Development Platform",
+          "title_link": "https://www.8090.ai/",
+          "service_name": "8090.ai"
+        },
+        {
+          "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*ezGQ6PO2CpxtL1kw0KVStA.png",
+          "image_width": 1200,
+          "image_height": 613,
+          "image_bytes": 959120,
+          "from_url": "https://medium.com/building-witboost-a-product-management-journey/we-locked-a-team-in-a-room-for-two-days-and-rebuilt-how-we-work-from-scratch-ca928611e65c",
+          "service_icon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+          "ts": 1773587475,
+          "id": 2,
+          "original_url": "https://medium.com/building-witboost-a-product-management-journey/we-locked-a-team-in-a-room-for-two-days-and-rebuilt-how-we-work-from-scratch-ca928611e65c",
+          "fallback": "Medium: We Locked a Team in a Room for Two Days and Rebuilt How We Work from Scratch",
+          "text": "What happens when you throw away your process and start over with AI at the center?",
+          "title": "We Locked a Team in a Room for Two Days and Rebuilt How We Work from Scratch",
+          "title_link": "https://medium.com/building-witboost-a-product-management-journey/we-locked-a-team-in-a-room-for-two-days-and-rebuilt-how-we-work-from-scratch-ca928611e65c",
+          "service_name": "Medium",
+          "fields": [
+            {
+              "value": "22 min read",
+              "title": "Reading time",
+              "short": true
+            }
+          ]
+        },
+        {
+          "from_url": "https://www.youtube.com/watch?v=uo_2agdiAlg",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/uo_2agdiAlg/hqdefault.jpg",
+          "thumb_width": 480,
+          "thumb_height": 360,
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/uo_2agdiAlg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Demo: The Human + AI-Agent Dev Team\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 225,
+          "id": 3,
+          "original_url": "https://www.youtube.com/watch?v=uo_2agdiAlg",
+          "fallback": "YouTube Video: Demo: The Human + AI-Agent Dev Team",
+          "title": "Demo: The Human + AI-Agent Dev Team",
+          "title_link": "https://www.youtube.com/watch?v=uo_2agdiAlg",
+          "author_name": "Henrik Kniberg",
+          "author_link": "https://www.youtube.com/@henrikkniberg",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ]
+    },
+    {
+      "ts": "1785237143.351489",
+      "thread_ts": "1785232028.118549",
+      "user": "U09P40E8LN6",
+      "text": "Ho letto l'articolo di medium , figo ! Ma .. mancano quasi tutte le metriche !\nnumero e gravità dei bug post-rilascio, rework nelle settimane successive, tempo umano effettivo di review, *modelli utilizzati e costi* ,  mantenibilità da parte di persone che non hanno partecipato all’esperimento .. mi convinceranno quando vedo i dati :imp:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XXxHh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho letto l'articolo di medium , figo ! Ma .. mancano quasi tutte le metriche !\nnumero e gravità dei bug post-rilascio, rework nelle settimane successive, tempo umano effettivo di review, "
+                },
+                {
+                  "type": "text",
+                  "text": "modelli utilizzati e costi",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ,  mantenibilità da parte di persone che non hanno partecipato all’esperimento .. mi convinceranno quando vedo i dati "
+                },
+                {
+                  "type": "emoji",
+                  "name": "imp",
+                  "unicode": "1f47f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785240372.498099",
+      "thread_ts": "1785232028.118549",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U09P40E8LN6> capisco lo scettismo, ma non credo che il loro intento era convincerti, quanto lasciare una loro testimonianza :wink:. Seguo Paolo da un po’ e lui con Agile Lab hanno fatto e stanno facendo veramente tante cose interessante. Una delle aziende italiane con cultura Agile molto matura e per i quali nutro una sincera stima. Se hai trovato la testimonianza interessante, ti andrebbe di organizzare una chiacchierata con loro per farci raccontare meglio il loro percorso? ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2sV4e",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " capisco lo scettismo, ma non credo che il loro intento era convincerti, quanto lasciare una loro testimonianza "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                },
+                {
+                  "type": "text",
+                  "text": ". "
+                },
+                {
+                  "type": "text",
+                  "text": "Seguo Paolo da un po’ e lui con Agile Lab hanno fatto e stanno facendo veramente tante cose interessante. Una delle aziende italiane con cultura Agile molto matura e per i quali nutro una sincera stima. Se hai trovato la testimonianza interessante, ti andrebbe di organizzare una chiacchierata con loro per farci raccontare meglio il loro percorso? "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785240411.357509",
+      "thread_ts": "1785232028.118549",
+      "user": "U09P40E8LN6",
+      "text": "Dai lo sai che sono un rompi coglioni :stuck_out_tongue: Però figo davvero , molto volentieri!!",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GfKwE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Dai lo sai che sono un rompi coglioni "
+                },
+                {
+                  "type": "emoji",
+                  "name": "stuck_out_tongue",
+                  "unicode": "1f61b"
+                },
+                {
+                  "type": "text",
+                  "text": " Però figo davvero , molto volentieri!!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785240437.914259",
+      "thread_ts": "1785232028.118549",
+      "user": "U08KA9A2BMZ",
+      "text": "Scrivi a Paolo, vedi se ha un po di tempo da dedicarci verso settembre :wink:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h1/Rk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Scrivi a Paolo, vedi se ha un po di tempo da dedicarci verso settembre "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785240460.340029",
+      "thread_ts": "1785232028.118549",
+      "user": "U08KA9A2BMZ",
+      "text": "Mettimi pure in copia :wink:, se vuoi.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rocket",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9OFOU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mettimi pure in copia "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                },
+                {
+                  "type": "text",
+                  "text": ", se vuoi."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

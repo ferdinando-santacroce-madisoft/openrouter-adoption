@@ -1,0 +1,1 @@
+You are classifying engineering tasks routed through our AI gateway. Read the user message and assign the single best work-type category. Prefer specific categories over "Other"; only fall back to "Other" when nothing fits.

@@ -1,0 +1,5 @@
+- Fetching messages...
+✔ Found 50 messages
+
+  Update available: v0.8.0 → v0.11.0
+  Run: slackcli update

@@ -1,0 +1,381 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 15,
+  "messages": [
+    {
+      "ts": "1784552797.928059",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "<@U08F42UJQEP> secondo me la pagina di openrouter è buggata",
+      "type": "message",
+      "reply_count": 14,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zn3yx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " secondo me la pagina di openrouter è buggata"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552813.139519",
+      "thread_ts": "1784552797.928059",
+      "user": "U08F42UJQEP",
+      "text": "del tipo?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SiUUX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "del tipo?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552879.441369",
+      "thread_ts": "1784552797.928059",
+      "user": "U08F42UJQEP",
+      "text": "56 milioni di token?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "am4mN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "56 milioni di token?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552886.588849",
+      "thread_ts": "1784552797.928059",
+      "user": "U08F42UJQEP",
+      "text": "cazzo c'ha scritto, l'odissea?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1v5gT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cazzo c'ha scritto, l'odissea?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552953.123859",
+      "thread_ts": "1784552797.928059",
+      "user": "U08F42UJQEP",
+      "text": "c'avrò da ridere, a me ne dà 46milioni",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mkp/6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "c'avrò da ridere, a me ne dà 46milioni"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552953.459469",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "guarda qui invece",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7vSts",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "guarda qui invece"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552954.392529",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "",
+      "type": "message",
+      "files": [
+        {
+          "id": "F0BJGH78VPU",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 449292,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BJGH78VPU/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BJGH78VPU/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1784552958.610179",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "1 dollaro",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "36MEm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1 dollaro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552964.680719",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "a me 9 milioni ahahah",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mIWNC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a me 9 milioni ahahah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552988.089329",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "però penso sia proprio buggata perchè non è possibile dia che lui ha speso 1 dollaro e poi ci dice invece un altro prezzo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jy5V3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però penso sia proprio buggata perchè non è possibile dia che lui ha speso 1 dollaro e poi ci dice invece un altro prezzo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784552991.090019",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "boh ahahahah",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1/iyK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "boh ahahahah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784553001.798359",
+      "thread_ts": "1784552797.928059",
+      "user": "U09P40E8LN6",
+      "text": "anch io non capisco benissimo quanto minchia ho speso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qPp5j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anch io non capisco benissimo quanto minchia ho speso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784553070.634729",
+      "thread_ts": "1784552797.928059",
+      "user": "U08F42UJQEP",
+      "text": "ci sono delle stranezze su lorenzo, ha un dollaro e 54 su tutti e 4 i valori, come se settimana scorsa non l'abbia usato, mentre gli altri hanno valori che cambiano in qualche modo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "v/POD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ci sono delle stranezze su lorenzo, ha un dollaro e 54 su tutti e 4 i valori, come se settimana scorsa non l'abbia usato, mentre gli altri hanno valori che cambiano in qualche modo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784553091.772359",
+      "thread_ts": "1784552797.928059",
+      "user": "U08F42UJQEP",
+      "text": "a parte Anders che sembra non l'abbia usato",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dSS/r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a parte Anders che sembra non l'abbia usato"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784553375.858209",
+      "thread_ts": "1784552797.928059",
+      "user": "U08F42UJQEP",
+      "text": "a me sembra che si sia qualcosa di strano su lorenzo anche guardando l'activity",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pbdfw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a me sembra che si sia qualcosa di strano su lorenzo anche guardando l'activity"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

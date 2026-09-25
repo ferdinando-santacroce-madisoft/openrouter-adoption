@@ -1,0 +1,302 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 8,
+  "messages": [
+    {
+      "ts": "1788946908.975589",
+      "thread_ts": "1788946908.975589",
+      "user": "U0AKR9GTN4U",
+      "text": "<https://artisanalsoftwaresociety.com/|artisanalsoftwaresociety.com>",
+      "type": "message",
+      "reply_count": 7,
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6",
+            "U096LKSL2T0"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R7tRY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://artisanalsoftwaresociety.com/",
+                  "text": "artisanalsoftwaresociety.com",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://artisanalsoftwaresociety.com/og-card.png",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 73309,
+          "from_url": "https://artisanalsoftwaresociety.com/",
+          "id": 1,
+          "original_url": "https://artisanalsoftwaresociety.com/",
+          "fallback": "Artisanal Software Society: Artisanal Software Society — Software, made the hard way.",
+          "text": "The Artisanal Software Society is an international professional organization dedicated to preserving traditional software development methods.",
+          "title": "Artisanal Software Society — Software, made the hard way.",
+          "title_link": "https://artisanalsoftwaresociety.com/",
+          "service_name": "Artisanal Software Society"
+        }
+      ]
+    },
+    {
+      "ts": "1788946995.307409",
+      "thread_ts": "1788946908.975589",
+      "user": "U09P40E8LN6",
+      "text": "",
+      "type": "message",
+      "files": [
+        {
+          "id": "F0C0D3XSL6P",
+          "name": "Screenshot 2026-09-09 alle 11.43.09.png",
+          "title": "Screenshot 2026-09-09 alle 11.43.09.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 60476,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0C0D3XSL6P/screenshot_2026-09-09_alle_11.43.09.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0C0D3XSL6P/screenshot_2026-09-09_alle_11.43.09.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1788946997.773539",
+      "thread_ts": "1788946908.975589",
+      "user": "U0ALTAL9GCA",
+      "text": "<https://artisanalsoftwaresociety.com/manifesto.html|artisanalsoftwaresociety.com/manifesto.html>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WXV/k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://artisanalsoftwaresociety.com/manifesto.html",
+                  "text": "artisanalsoftwaresociety.com/manifesto.html",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://artisanalsoftwaresociety.com/og-card.png",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 73309,
+          "from_url": "https://artisanalsoftwaresociety.com/manifesto.html",
+          "id": 1,
+          "original_url": "https://artisanalsoftwaresociety.com/manifesto.html",
+          "fallback": "Artisanal Software Society: Manifesto — Artisanal Software Society",
+          "text": "The ASS Manifesto: twelve principles of artisanal software development.",
+          "title": "Manifesto — Artisanal Software Society",
+          "title_link": "https://artisanalsoftwaresociety.com/manifesto.html",
+          "service_name": "Artisanal Software Society"
+        }
+      ]
+    },
+    {
+      "ts": "1788947012.648909",
+      "thread_ts": "1788946908.975589",
+      "user": "U0ALTAL9GCA",
+      "text": "Che troll",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fwpTP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Che troll"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788947043.273419",
+      "thread_ts": "1788946908.975589",
+      "user": "U09P40E8LN6",
+      "text": "adoro ahahhahah",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QFLCR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "adoro ahahhahah"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0C0P1AJENQ",
+          "name": "Screenshot 2026-09-09 alle 11.43.57.png",
+          "title": "Screenshot 2026-09-09 alle 11.43.57.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 63667,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0C0P1AJENQ/screenshot_2026-09-09_alle_11.43.57.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0C0P1AJENQ/screenshot_2026-09-09_alle_11.43.57.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1788947060.848619",
+      "thread_ts": "1788946908.975589",
+      "user": "U0AKR9GTN4U",
+      "text": "credo che ogni pezzo scritto sia poesia :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ODwtC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "credo che ogni pezzo scritto sia poesia "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788947067.092749",
+      "thread_ts": "1788946908.975589",
+      "user": "U0ALTAL9GCA",
+      "text": ":joy:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aOWYF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788953946.811179",
+      "thread_ts": "1788946908.975589",
+      "user": "U08KA9A2BMZ",
+      "text": "Che bello sogno un mondo dove andremo a visitare le botteghe degli ultimi sviluppatori artigiani rimasti :stuck_out_tongue:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0ALTAL9GCA",
+            "U09P40E8LN6",
+            "U0AKR9GTN4U"
+          ],
+          "count": 3
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ThFMx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Che bello sogno un mondo dove andremo a visitare le botteghe degli ultimi sviluppatori artigiani rimasti "
+                },
+                {
+                  "type": "emoji",
+                  "name": "stuck_out_tongue",
+                  "unicode": "1f61b"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    }
+  ]
+}

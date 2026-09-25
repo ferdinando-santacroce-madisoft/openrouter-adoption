@@ -1,0 +1,601 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 22,
+  "messages": [
+    {
+      "ts": "1784623552.730249",
+      "thread_ts": "1784623552.730249",
+      "user": "U08KA9A2BMZ",
+      "text": "Altra domanda, dai dati che vedo in Swarmi ci sono dev che oggi usano GitHub Copilot per fare review con la funzionalità direttamente su GitHub, questo sarebbe possibile con OpenRouter? Cioè si integra con GitHub?",
+      "type": "message",
+      "reply_count": 21,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vHh+w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Altra domanda, dai dati che vedo in Swarmi ci sono dev che oggi usano GitHub Copilot per fare review con la funzionalità direttamente su GitHub, questo sarebbe possibile con OpenRouter? Cioè si integra con GitHub?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623597.431689",
+      "thread_ts": "1784623552.730249",
+      "user": "U09P40E8LN6",
+      "text": "questo non credo, si dovrebbe fare una action personalizzata",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hM7mV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "questo non credo, si dovrebbe fare una action personalizzata"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623612.720709",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "hmmmm, non penso nemmeno io",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7zw+P",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "hmmmm, non penso nemmeno io"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623639.909909",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "però sarebbe da chiedersi se a quel punto non abbia più senso fare la review in locale prima di mandare su la pr",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KBm7G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però sarebbe da chiedersi se a quel punto non abbia più senso fare la review in locale prima di mandare su la pr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623661.232429",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "ci sono skill o alla più porca agenti custom per farlo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xd4VT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ci sono skill o alla più porca agenti custom per farlo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623707.839389",
+      "thread_ts": "1784623552.730249",
+      "user": "U08KA9A2BMZ",
+      "text": "Se l'unità minima è il team e non il singolo dev, fare tutto in locale non fa perdere tanta conoscenza?",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KA1lP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Se l'unità minima è il team e non il singolo dev, fare tutto in locale non fa perdere tanta conoscenza?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623774.435389",
+      "thread_ts": "1784623552.730249",
+      "user": "U08KA9A2BMZ",
+      "text": "A me piacerebbe un tool che si assiste il dev, ma allo stesso tempo permette a tutto il team di continuare ad imparare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1QMXX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "A me piacerebbe un tool che si assiste il dev, ma allo stesso tempo permette a tutto il team di continuare ad imparare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623778.053499",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "ma lo scopo della review e di farsela fare dall'ia qual è?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wuXYD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma lo scopo della review e di farsela fare dall'ia qual è?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623796.001009",
+      "thread_ts": "1784623552.730249",
+      "user": "U08KA9A2BMZ",
+      "text": "E' questo lo dovresti chiedere a chi usa questo tool",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VJBLl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E' questo lo dovresti chiedere a chi usa questo tool"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623798.538739",
+      "thread_ts": "1784623552.730249",
+      "user": "U09P40E8LN6",
+      "text": "su github in effetti è tanta comoda la review",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mI3KV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "su github in effetti è tanta comoda la review"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623810.911079",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "sì ma gliela chiedi per te per scremare il grosso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FUb+g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì ma gliela chiedi per te per scremare il grosso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623819.152609",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "(noi non le usiamo)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fpWC4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(noi non le usiamo)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623847.255169",
+      "thread_ts": "1784623552.730249",
+      "user": "U08KA9A2BMZ",
+      "text": "So che i frontender le usano proprio perché sono soli nei team",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wDNpY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "So che i frontender le usano proprio perché sono soli nei team"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623864.463509",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "quindi...",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dDWr4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "quindi..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623876.364429",
+      "thread_ts": "1784623552.730249",
+      "user": "U09P40E8LN6",
+      "text": "è sempre colpa dei frontender",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "znYsb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "è sempre colpa dei frontender"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623886.659989",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "cioè secondo me far fare la review all'ia è una cosa solipsistica e non di team",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p/vnO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè secondo me far fare la review all'ia è una cosa solipsistica e non di team"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623903.884859",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "poi al team passi il codice a cui l'ia ha già fatto una prima review",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ShMTA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "poi al team passi il codice a cui l'ia ha già fatto una prima review"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623949.414699",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "<@U09P40E8LN6> te poi non puoi nemmeno dare la colpa al bartender visto che sei astemio",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FIu3e",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " te poi non puoi nemmeno dare la colpa al bartender visto che sei astemio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623950.464679",
+      "thread_ts": "1784623552.730249",
+      "user": "U08KA9A2BMZ",
+      "text": "Davide la tua è una buona assunzione, che perà va validata. Chiede ad Andrea nel tuo team.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P+AVT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Davide la tua è una buona assunzione, che perà va validata. Chiede ad Andrea nel tuo team."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623959.011179",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "luWBi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623967.243419",
+      "thread_ts": "1784623552.730249",
+      "user": "U08F42UJQEP",
+      "text": "grazie per gli spunti comunque",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NR3Yy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "grazie per gli spunti comunque"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784627413.337059",
+      "thread_ts": "1784623552.730249",
+      "user": "U087RH5C7FA",
+      "text": "Io uso perecchio Copilot per le sole review (per tutti gli altri utilizzi dura troppo poco).\nSe la PR è molto semplice lo uso in sostituzione della review umana per scaricare un po' di lavoro superfluo dal team.\nSe la PR è più complessa e ha necessità di una revisione di un collega faccio comunque partire la review di Copilot perchè lascia un commento molto approfondito di recap per chi poi va a revisionare.\n\nSicuramente si può fare qualcosa di equivalente con OpenRouter ma con qualche procedimento di setup che non so quanto possa essere complesso.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PyWHa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Io uso perecchio Copilot per le sole review (per tutti gli altri utilizzi dura troppo poco).\nSe la PR è molto semplice lo uso in sostituzione della review umana per scaricare un po' di lavoro superfluo dal team.\nSe la PR è più complessa e ha necessità di una revisione di un collega faccio comunque partire la review di Copilot perchè lascia un commento molto approfondito di recap per chi poi va a revisionare.\n\nSicuramente si può fare qualcosa di equivalente con OpenRouter ma con qualche procedimento di setup che non so quanto possa essere complesso."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U087RH5C7FA",
+      "name": "lorenzo.piersante",
+      "real_name": "Lorenzo Piersante",
+      "email": "lorenzo.piersante@madisoft.it"
+    }
+  ]
+}

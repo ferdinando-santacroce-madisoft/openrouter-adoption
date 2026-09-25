@@ -1,0 +1,353 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 12,
+  "messages": [
+    {
+      "ts": "1785494866.855519",
+      "thread_ts": "1785494866.855519",
+      "user": "U0ALTAL9GCA",
+      "text": "agy no?",
+      "type": "message",
+      "reply_count": 11,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qO7au",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "agy no?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785494921.158239",
+      "thread_ts": "1785494866.855519",
+      "user": "U09P40E8LN6",
+      "text": "in teoria non è compliant",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g1p2q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "in teoria non è compliant"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785494928.388539",
+      "thread_ts": "1785494866.855519",
+      "user": "U09P40E8LN6",
+      "text": ":rolling_on_the_floor_laughing:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SElLO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785494944.925979",
+      "thread_ts": "1785494866.855519",
+      "user": "U09P40E8LN6",
+      "text": "i furbetti di google hanno fatto i magheggi nei contratti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ph7Mh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i furbetti di google hanno fatto i magheggi nei contratti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785494945.663199",
+      "thread_ts": "1785494866.855519",
+      "user": "U0ALTAL9GCA",
+      "text": "AH, ok ora quitto il canale",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rvK51",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AH, ok ora quitto il canale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785494995.527199",
+      "thread_ts": "1785494866.855519",
+      "user": "U0ALTAL9GCA",
+      "text": "A parte gli scherzi ricordavo che anche <@U08F42UJQEP> sapeva che fosse compliant (0 retention)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "scPgQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "A parte gli scherzi ricordavo che anche "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " sapeva che fosse compliant (0 retention)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785495138.524219",
+      "thread_ts": "1785494866.855519",
+      "user": "U08F42UJQEP",
+      "text": "no no io non sapevo nulla",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2WmcU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "no no io non sapevo nulla"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785495146.954779",
+      "thread_ts": "1785494866.855519",
+      "user": "U08F42UJQEP",
+      "text": "non me la sono mai guardata tanto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7iWrq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non me la sono mai guardata tanto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785495149.720679",
+      "thread_ts": "1785494866.855519",
+      "user": "U087RH5C7FA",
+      "text": ":smiling_face_with_tear:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "irjJH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "smiling_face_with_tear",
+                  "unicode": "1f972"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BM74DNHPB",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 76927,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BM74DNHPB/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BM74DNHPB/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1785495151.949879",
+      "thread_ts": "1785494866.855519",
+      "user": "U08F42UJQEP",
+      "text": "ma per un problema mio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5JXT4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma per un problema mio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785495175.506549",
+      "thread_ts": "1785494866.855519",
+      "user": "U08F42UJQEP",
+      "text": "nel senso che ddterm mi si era sminchionato e me lo mostrava a cazzo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gT8Ru",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nel senso che ddterm mi si era sminchionato e me lo mostrava a cazzo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785495195.082239",
+      "thread_ts": "1785494866.855519",
+      "user": "U08F42UJQEP",
+      "text": "adesso ho risolto altrimenti anche con opencode era un po' poco vivibile",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3eSI/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "adesso ho risolto altrimenti anche con opencode era un po' poco vivibile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U087RH5C7FA",
+      "name": "lorenzo.piersante",
+      "real_name": "Lorenzo Piersante",
+      "email": "lorenzo.piersante@madisoft.it"
+    }
+  ]
+}

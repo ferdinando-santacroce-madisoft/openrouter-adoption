@@ -1,0 +1,237 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 5,
+  "messages": [
+    {
+      "ts": "1786012578.528489",
+      "thread_ts": "1786012578.528489",
+      "user": "U09P40E8LN6",
+      "text": ":rolling_on_the_floor_laughing: il tuo ciao ciao personaggio online è bellissimo",
+      "type": "message",
+      "reply_count": 4,
+      "reactions": [
+        {
+          "name": "wave",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        },
+        {
+          "name": "joy",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "359PL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                },
+                {
+                  "type": "text",
+                  "text": " il tuo ciao ciao personaggio online è bellissimo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BNHE9BBMX",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 23583,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNHE9BBMX/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNHE9BBMX/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786014047.562509",
+      "thread_ts": "1786012578.528489",
+      "user": "U096LKSL2T0",
+      "text": "<https://www.youtube.com/watch?v=XkzTSVsfvZI|youtube.com/watch?v=XkzTSVsfvZI>",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "heart",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OZm3L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.youtube.com/watch?v=XkzTSVsfvZI",
+                  "text": "youtube.com/watch?v=XkzTSVsfvZI",
+                  "truncated": true,
+                  "unsafe": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://www.youtube.com/watch?v=XkzTSVsfvZI",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/XkzTSVsfvZI/hqdefault.jpg",
+          "thumb_width": 440,
+          "thumb_height": 360,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/XkzTSVsfvZI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Cin Ciao Lin\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 1,
+          "original_url": "https://www.youtube.com/watch?v=XkzTSVsfvZI",
+          "fallback": "YouTube Video: Cin Ciao Lin",
+          "title": "Cin Ciao Lin",
+          "title_link": "https://www.youtube.com/watch?v=XkzTSVsfvZI",
+          "author_name": "Carlo Frascone",
+          "author_link": "https://www.youtube.com/@UltorII",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ]
+    },
+    {
+      "ts": "1786017145.179819",
+      "thread_ts": "1786012578.528489",
+      "user": "U08F42UJQEP",
+      "text": "madonna <@U096LKSL2T0> cosa mi tiri fuori",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jdwS1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "madonna "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " cosa mi tiri fuori"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786017600.268079",
+      "thread_ts": "1786012578.528489",
+      "user": "U096LKSL2T0",
+      "text": "Solo i vecchi come me se lo ricordano :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S0Fjz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Solo i vecchi come me se lo ricordano "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786017846.494699",
+      "thread_ts": "1786012578.528489",
+      "user": "U09P40E8LN6",
+      "text": ":rolling_on_the_floor_laughing:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5D3gV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

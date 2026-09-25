@@ -1,0 +1,693 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 24,
+  "messages": [
+    {
+      "ts": "1784624199.689059",
+      "thread_ts": "1784624199.689059",
+      "user": "U08KA9A2BMZ",
+      "text": "Vi metto anche un'altra questione. Se siamo d'accordo che l'unità minima di valore è il team, ad oggi la maggior parte dei tool è fortemente individualista, quello che si può condividere è ovviamente il contesto, le skills, ma nessuno permette di condividere a livello di team il prompt che ha portato a quel risultato, che dal mio punto di vista è il nuovo \"codice sorgente\". Secondo me poter condividere il prompt che ha portato ad un risultato è molto potente, perché da la possibilità di fare review indiretta del contesto che si è passato all'LLM, magari scovando se è mancato qualche requisito. Voi che ne pensate a riguardo?",
+      "type": "message",
+      "reply_count": 23,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i+evJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vi metto anche un'altra questione. Se siamo d'accordo che l'unità minima di valore è il team, ad oggi la maggior parte dei tool è fortemente individualista, quello che si può condividere è ovviamente il contesto, le skills, ma nessuno permette di condividere a livello di team il prompt che ha portato a quel risultato, che dal mio punto di vista è il nuovo \"codice sorgente\". Secondo me poter condividere il prompt che ha portato ad un risultato è molto potente, perché da la possibilità di fare review indiretta del contesto che si è passato all'LLM, magari scovando se è mancato qualche requisito. Voi che ne pensate a riguardo?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624278.434659",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "ha siuramente senso e in questo openrouter aiuta anche parecchio perchè nei log è loggato anche il prompt",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rDaex",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ha siuramente senso e in questo openrouter aiuta anche parecchio perchè nei log è loggato anche il prompt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624281.704079",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "cosa fighissima",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sy16W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cosa fighissima"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624293.981679",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "perchè si vede anche il system prompt dell'harness",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2H6Xm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè si vede anche il system prompt dell'harness"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624307.919489",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "e come gli vengono passate le skill",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/wp/j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e come gli vengono passate le skill"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624326.607019",
+      "thread_ts": "1784624199.689059",
+      "user": "U0ALTAL9GCA",
+      "text": "Secondo me potrebbe essere utile ma non fondamentale, ad esempio, a volte gli LLM anche se manchi un eventuale requisito, in base al contesto (o se segue uno standard in particolare) è possibile che lo aggiunga autonomamente.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nFgJL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Secondo me potrebbe essere utile ma non fondamentale, ad esempio, a volte gli LLM anche se manchi un eventuale requisito, in base al contesto (o se segue uno standard in particolare) è possibile che lo aggiunga autonomamente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624345.995729",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "poi in almeno copilot aveva la possibilità di avere dei prompt prescritti, sarebbe da capire gli altri agent se hanno sta possibilità",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Md1Ns",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "poi in almeno copilot aveva la possibilità di avere dei prompt prescritti, sarebbe da capire gli altri agent se hanno sta possibilità"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624373.356689",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "poi da lì magari derivare delle skill",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4Pw6X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "poi da lì magari derivare delle skill"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624496.050909",
+      "thread_ts": "1784624199.689059",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U08F42UJQEP> ma i log sono visibili da tutti o solo dall'utente che li ha generati?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p2yCK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " ma i log sono visibili da tutti o solo dall'utente che li ha generati?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624593.481039",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "io sono admin e li sto vedendo :grimacing:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F53pL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io sono admin e li sto vedendo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "grimacing",
+                  "unicode": "1f62c"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624601.606219",
+      "thread_ts": "1784624199.689059",
+      "user": "U09P40E8LN6",
+      "text": "idem io li vedo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "taYIQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "idem io li vedo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624606.372569",
+      "thread_ts": "1784624199.689059",
+      "user": "U09P40E8LN6",
+      "text": "ma anche io sono admin",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MSQ6M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma anche io sono admin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624636.157859",
+      "thread_ts": "1784624199.689059",
+      "user": "U08KA9A2BMZ",
+      "text": "Ok, quindi da provare con una utenza normale se si vedono e come funziona a livello di workspace",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mkov+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ok, quindi da provare con una utenza normale se si vedono e come funziona a livello di workspace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624659.086299",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "<@U0ALTAL9GCA> magari te quando hai tempo riesci a dare un occhio?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R9fai",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0ALTAL9GCA"
+                },
+                {
+                  "type": "text",
+                  "text": " magari te quando hai tempo riesci a dare un occhio?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624666.214829",
+      "thread_ts": "1784624199.689059",
+      "user": "U08KA9A2BMZ",
+      "text": "Ma quindi viene anche loggata anche la risposta dell'LLM, oltre alla richiesta?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RfVyI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ma quindi viene anche loggata anche la risposta dell'LLM, oltre alla richiesta?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624681.087959",
+      "thread_ts": "1784624199.689059",
+      "user": "U0ALTAL9GCA",
+      "text": "Ho appena visto, confermo che NON posso vedere quelli degli altri",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wl9+A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho appena visto, confermo che NON posso vedere quelli degli altri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624690.238089",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "sì <@U08KA9A2BMZ>",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dgiXC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624707.706119",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "nella sezione completion",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XeAQ1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nella sezione completion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624736.778309",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "<@U0ALTAL9GCA> quindi i tuoi sì?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/CVdv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0ALTAL9GCA"
+                },
+                {
+                  "type": "text",
+                  "text": " quindi i tuoi sì?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624764.250329",
+      "thread_ts": "1784624199.689059",
+      "user": "U08KA9A2BMZ",
+      "text": "Magari cercate di capire se a livello di settings è possibile aprire il permesso a livello di workspace",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Re3tS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Magari cercate di capire se a livello di settings è possibile aprire il permesso a livello di workspace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624803.247299",
+      "thread_ts": "1784624199.689059",
+      "user": "U0ALTAL9GCA",
+      "text": "<@U08F42UJQEP> si i miei li posso vedere",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O6NdP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " si i miei li posso vedere"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784624900.200879",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "luWBi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784627571.451029",
+      "thread_ts": "1784624199.689059",
+      "user": "U09P40E8LN6",
+      "text": "Comunque vi condivido quello che sto provando io in questi mesi sia con copilot e con openrouter sperando sia utile e uno spunto di conversazione\n\nUtile:\nPartire da foglio bianco e risparmiare tempo su generazione di un \"boilerplate\" dando uno screen Figma in pasto al LLM , per esempio per gli interpelli ho usato un prompt tipo \"Genera un boilerplate per app X ( Non è servito specificare i framework perchè nel workspace vede da solo che c'è react etc , idem ha capito da solo che usiamo NDS per il design system )\nNon utile:\nAndare avanti con le implementazioni \"grosse\" : genera troppo codice, spendi tanto e poi ho perso più tempo a fare review , conveniva che procedevo a manella o comunque non sviluppo agentico\n\nUtile:\nSkill singola one shot per review di codice\nNon utile:\nSet di skill: sporca il contesto, l'agente sembra diventare più \" stupido \"  e richiama skill quando non serve: questo penso dipenda dal tool , con claude code le skill le instrada molto meglio , vorrei capire il perchè :eyes:\n\nNon utile:\nFile di contesto troppo lunghi , qui se qualcuno ha voglia di guardare <https://github.com/addyosmani/agent-skills/issues/398|github.com/addyosmani/agent-skills/issues/398> ho spiegato secondo me cosa può funzionare: piccolissimi file di contesto con informazioni non ovvie, per evitare che l'agente debba perdere tempo e token a ricostruire quella conoscenza da capo ogni volta e posizionarli nelle cartelle adeguate, per capirsi: se sto lavorando sul modulo di autenticazione, l'agente legge solo la memoria di `auth`, senza caricarsi le informazioni del `billing` o del resto del progetto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DkfUK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Comunque vi condivido quello che sto provando io in questi mesi sia con copilot e con openrouter sperando sia utile e uno spunto di conversazione\n\nUtile:\nPartire da foglio bianco e risparmiare tempo su generazione di un \"boilerplate\" dando uno screen Figma in pasto al LLM , per esempio per gli interpelli ho usato un prompt tipo \"Genera un boilerplate per app X ( Non è servito specificare i framework perchè nel workspace vede da solo che c'è react etc , idem ha capito da solo che usiamo NDS per il design system )\nNon utile:\nAndare avanti con le implementazioni \"grosse\" : genera troppo codice, spendi tanto e poi ho perso più tempo a fare review , conveniva che procedevo a manella o comunque non sviluppo agentico\n\nUtile:\nSkill singola one shot per review di codice\nNon utile:\nSet di skill: sporca il contesto, l'agente sembra diventare più \" stupido \"  e richiama skill quando non serve: questo penso dipenda dal tool , con claude code le skill le instrada molto meglio , vorrei capire il perchè "
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\nNon utile:\nFile di contesto troppo lunghi , qui se qualcuno ha voglia di guardare "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/addyosmani/agent-skills/issues/398",
+                  "text": "github.com/addyosmani/agent-skills/issues/398",
+                  "truncated": true
+                },
+                {
+                  "type": "text",
+                  "text": " ho spiegato secondo me cosa può funzionare: piccolissimi file di contesto con informazioni non ovvie, per evitare che l'agente debba perdere tempo e token a ricostruire quella conoscenza da capo ogni volta e posizionarli nelle cartelle adeguate, per capirsi: se sto lavorando sul modulo di autenticazione, l'agente legge solo la memoria di "
+                },
+                {
+                  "type": "text",
+                  "text": "auth",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ", senza caricarsi le informazioni del "
+                },
+                {
+                  "type": "text",
+                  "text": "billing",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " o del resto del progetto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784628080.264069",
+      "thread_ts": "1784624199.689059",
+      "user": "U08F42UJQEP",
+      "text": "per il punto 2 in realtà le skill le sceglie il modello e l'harness gliele propone solo, sarebbe da fare le stesse prove con stesso modello, stesso prompt e stesso set di skill ma con due harness diverse\nper il punto 3 mi sembrano degli approcci simili a progressive disclosure e nested AGENTS.md (che per il momento opencode non supporta). C'è un plugin di opencode che si chiama supermemory. Comunque sì, file grossi anche solo per il context rot sarebbero da evitare, poi comunque i modelli lavorano male con informazioni non coerenti e quando tirano dentro tanta roba fai presto a trovare due robe che cozzano.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dkFDD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per il punto 2 in realtà le skill le sceglie il modello e l'harness gliele propone solo, sarebbe da fare le stesse prove con stesso modello, stesso prompt e stesso set di skill ma con due harness diverse\nper il punto 3 mi sembrano degli approcci simili a progressive disclosure e nested AGENTS.md (che per il momento opencode non supporta). C'è un plugin di opencode che si chiama supermemory. Comunque sì, file grossi anche solo per il context rot sarebbero da evitare, poi comunque i modelli lavorano male con informazioni non coerenti e quando tirano dentro tanta roba fai presto a trovare due robe che cozzano."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

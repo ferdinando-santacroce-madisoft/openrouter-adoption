@@ -1,0 +1,101 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1784648118.538529",
+      "thread_ts": "1784648118.538529",
+      "user": "U08KA9A2BMZ",
+      "text": "Su Swarmia si possono integrare anche strumenti esterni per tracciare l'utilizzo dell'AI: <https://help.swarmia.com/settings/integrations/ai-coding-tool-integrations/custom-ai-tool-integrations|help.swarmia.com/settings/integrations/ai-coding-tool-integrations/custom-ai-tool-integrations>",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AAEsW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Su Swarmia si possono integrare anche strumenti esterni per tracciare l'utilizzo dell'AI: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://help.swarmia.com/settings/integrations/ai-coding-tool-integrations/custom-ai-tool-integrations",
+                  "text": "help.swarmia.com/settings/integrations/ai-coding-tool-integrations/custom-ai-tool-integrations",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://help.swarmia.com/~gitbook/ogimage/Ms43TNRSzXZzpsV3aiL9",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 144934,
+          "from_url": "https://help.swarmia.com/settings/integrations/ai-coding-tool-integrations/custom-ai-tool-integrations",
+          "id": 1,
+          "original_url": "https://help.swarmia.com/settings/integrations/ai-coding-tool-integrations/custom-ai-tool-integrations",
+          "fallback": "Custom AI tool integrations | Swarmia docs",
+          "text": "Set up custom integrations to track adoption and usage of any AI coding tool in Swarmia.",
+          "title": "Custom AI tool integrations | Swarmia docs",
+          "title_link": "https://help.swarmia.com/settings/integrations/ai-coding-tool-integrations/custom-ai-tool-integrations",
+          "service_name": "help.swarmia.com"
+        }
+      ]
+    },
+    {
+      "ts": "1784648178.772589",
+      "thread_ts": "1784648118.538529",
+      "user": "U08KA9A2BMZ",
+      "text": "C'è del lavoro da fare, ma si può fare! Sarebbe da capire quanto questi dati sono collegati all'harness o ai modelli. Probabilmente più all'harness, perché è li che si dovrebbe avere il contesto di come usarla. Cosa che a quel punto richiederebbe di avere harness unica per tutti, se è così.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ok0IW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "C'è del lavoro da fare, ma si può fare! Sarebbe da capire quanto questi dati sono collegati all'harness o ai modelli. Probabilmente più all'harness, perché è li che si dovrebbe avere il contesto di come usarla. Cosa che a quel punto richiederebbe di avere harness unica per tutti, se è così."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 4,
+  "messages": [
+    {
+      "ts": "1786530559.616819",
+      "thread_ts": "1786530559.616819",
+      "user": "U08F42UJQEP",
+      "text": "piccola nota: secondo me il classificatore sul livello di autonomia che abbiamo creato è troppo ottimistico, ho aperto una mia request di oggi e me la classifica come L3 quando secondo me sono più sull'L2 perchè io lo sto guidando molto al modello (codice lo scrive lui, test li esegue lui ma io gli restringo sempre il contesto il più possibile per non consumare budget). In generale io non mi ci ritrovo nell'L3, considerando che io da solo ho consumato quasi la metà dei token consumati da tutto il team di sperimentazione mi fa un po' strano che il grafico mostri che il 73% delle richieste ricade su L3. Tutto questo per dire che se lo vogliamo affidabile dobbiamo iterare sul classificatore.",
+      "type": "message",
+      "reply_count": 3,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kA312",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "piccola nota: secondo me il classificatore sul livello di autonomia che abbiamo creato è troppo ottimistico, ho aperto una mia request di oggi e me la classifica come L3 quando secondo me sono più sull'L2 perchè io lo sto guidando molto al modello (codice lo scrive lui, test li esegue lui ma io gli restringo sempre il contesto il più possibile per non consumare budget). In generale io non mi ci ritrovo nell'L3, considerando che io da solo ho consumato quasi la metà dei token consumati da tutto il team di sperimentazione mi fa un po' strano che il grafico mostri che il 73% delle richieste ricade su L3. Tutto questo per dire che se lo vogliamo affidabile dobbiamo iterare sul classificatore."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786530794.864629",
+      "thread_ts": "1786530559.616819",
+      "user": "U096LKSL2T0",
+      "text": "Prova a modificare il prompt del classificatore se hai tempo, e butta su la nuova versione :+1:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "B/Idg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Prova a modificare il prompt del classificatore se hai tempo, e butta su la nuova versione "
+                },
+                {
+                  "type": "emoji",
+                  "name": "+1",
+                  "unicode": "1f44d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786530809.765049",
+      "thread_ts": "1786530559.616819",
+      "user": "U08F42UJQEP",
+      "text": "ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "luWBi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786972703.413889",
+      "thread_ts": "1786530559.616819",
+      "user": "U08F42UJQEP",
+      "text": "ho provato ad aggiornare il system prompt del classificatore",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "muscle",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3w5Mq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ho provato ad aggiornare il system prompt del classificatore"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

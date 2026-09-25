@@ -1,0 +1,190 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 5,
+  "messages": [
+    {
+      "ts": "1784543418.395979",
+      "thread_ts": "1784543418.395979",
+      "user": "U0ALTAL9GCA",
+      "text": "Una cosa che ho notato con OpenCode che se utilizza dei sub-agenti il totale dei $ spesi in quel caso non viene riportato nel Context generale (dove abbiamo scritto il prompt) . Questo in realtà non è un problema di OpenRouter però",
+      "type": "message",
+      "reply_count": 4,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7lSZ9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Una cosa che ho notato con OpenCode che se utilizza dei sub-agenti il totale dei $ spesi in quel caso non viene riportato nel Context generale (dove abbiamo scritto il prompt) . Questo in realtà non è un problema di OpenRouter però"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784544566.129509",
+      "thread_ts": "1784543418.395979",
+      "user": "U09P40E8LN6",
+      "text": "Ah ecco perché kimi 3 consumava così poco stamani :joy::joy::joy::joy::joy:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/BxhF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ah ecco perché kimi 3 consumava così poco stamani "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784550838.095999",
+      "thread_ts": "1784543418.395979",
+      "user": "U0ALTAL9GCA",
+      "text": "In ogni caso capire quanto mi costa una sessione con OpenCode sembra davvero impossibile, mentre su OpenRouter devi applicare mille filtri e sommare le request",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "At4td",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "In ogni caso capire quanto mi costa una sessione con OpenCode sembra davvero impossibile, mentre su OpenRouter devi applicare mille filtri e sommare le request"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784550858.252709",
+      "thread_ts": "1784543418.395979",
+      "user": "U09P40E8LN6",
+      "text": "si ho notato :eyes:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fnlq/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si ho notato "
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784617532.732139",
+      "thread_ts": "1784543418.395979",
+      "user": "U0ALTAL9GCA",
+      "text": "Su OpenRouter, dal tab \"Sessions\" è un pò più facile individuare i costi delle singole sessioni",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uQXOy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Su OpenRouter, dal tab \"Sessions\" è un pò più facile individuare i costi delle singole sessioni"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

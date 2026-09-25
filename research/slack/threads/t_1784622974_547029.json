@@ -1,0 +1,528 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 18,
+  "messages": [
+    {
+      "ts": "1784622974.547029",
+      "thread_ts": "1784622974.547029",
+      "user": "U08KA9A2BMZ",
+      "text": "Ciao ragazzi, con Swarmia è possibile avere delle statistiche sull'adozione dell'AI nei vari team. Questi numeri sono molto utili per capire come la stiamo usando e l'impatto che effettivamente ha. Swarmia al momento si integra solo con GitHub Copilot, Claude Code e Cursor. Che voi sappiate OpenRouter ha una dashboard dove è possibile visualizzare come i team stanno usando l'AI? A me non interessa tanto il singolo individuo, ma proprio la dimensione del team, che per noi è l'unità minima.",
+      "type": "message",
+      "reply_count": 17,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fh0Tf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ciao ragazzi, con Swarmia è possibile avere delle statistiche sull'adozione dell'AI nei vari team. Questi numeri sono molto utili per capire come la stiamo usando e l'impatto che effettivamente ha. Swarmia al momento si integra solo con GitHub Copilot, Claude Code e Cursor. Che voi sappiate OpenRouter ha una dashboard dove è possibile visualizzare come i team stanno usando l'AI? A me non interessa tanto il singolo individuo, ma proprio la dimensione del team, che per noi è l'unità minima."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623057.659779",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "ci guardiamo, da novizio ti direi che almeno per workspace si dovrebbe vedere e che a quel punto basterebbe far coincidere i workspace con i team, ma approfondisco",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XAr7H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ci guardiamo, da novizio ti direi che almeno per workspace si dovrebbe vedere e che a quel punto basterebbe far coincidere i workspace con i team, ma approfondisco"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623067.889649",
+      "thread_ts": "1784622974.547029",
+      "user": "U09P40E8LN6",
+      "text": "<https://openrouter.ai/works-with-openrouter/agent-swarm|openrouter.ai/works-with-openrouter/agent-swarm>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F6CAD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://openrouter.ai/works-with-openrouter/agent-swarm",
+                  "text": "openrouter.ai/works-with-openrouter/agent-swarm",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://openrouter.ai/dynamic-og?title=Agent+Swarm+with+OpenRouter&description=Use+Agent+Swarm+with+OpenRouter+to+access+hundreds+of+AI+models.+Coordination+intelligence+for+AI+coding+agents.+A+lead+delegates%2C+Docker-isolated+workers+ship+code%2C+memory+compounds+across+sessions.+Workers+run+via+OpenRouter+%E2%80%94+bring+your+own+key+to+pick+any+model+%28default%3A+Qwen3+Coder+Flash%29.",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 74620,
+          "from_url": "https://openrouter.ai/works-with-openrouter/agent-swarm",
+          "service_icon": "https://openrouter.ai/favicon/glyph-light.png",
+          "id": 1,
+          "original_url": "https://openrouter.ai/works-with-openrouter/agent-swarm",
+          "fallback": "OpenRouter: Agent Swarm with OpenRouter | OpenRouter",
+          "text": "Use Agent Swarm with OpenRouter to access hundreds of AI models. Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash).",
+          "title": "Agent Swarm with OpenRouter | OpenRouter",
+          "title_link": "https://openrouter.ai/works-with-openrouter/agent-swarm",
+          "service_name": "OpenRouter"
+        }
+      ]
+    },
+    {
+      "ts": "1784623102.372899",
+      "thread_ts": "1784622974.547029",
+      "user": "U09P40E8LN6",
+      "text": "ho detto una minchiata",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NSgAm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ho detto una minchiata"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623103.546199",
+      "thread_ts": "1784622974.547029",
+      "user": "U09P40E8LN6",
+      "text": "sorry",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8ivsJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sorry"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623104.358279",
+      "thread_ts": "1784622974.547029",
+      "user": "U09P40E8LN6",
+      "text": "ahahahah",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ktzsc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ahahahah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623109.699729",
+      "thread_ts": "1784622974.547029",
+      "user": "U08KA9A2BMZ",
+      "text": ":rolling_on_the_floor_laughing:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SElLO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623111.892359",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "ha diverse robe per l'osservabilità anche perchè essendo un provider generico di modelli e non solo per il coding è normale che ci sia",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V/xzS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ha diverse robe per l'osservabilità anche perchè essendo un provider generico di modelli e non solo per il coding è normale che ci sia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623127.694569",
+      "thread_ts": "1784622974.547029",
+      "user": "U08KA9A2BMZ",
+      "text": "Non è importante che sia integrato con Swarmia, quanto che abbiamo dati da analizzare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+Su9U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Non è importante che sia integrato con Swarmia, quanto che abbiamo dati da analizzare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623151.237799",
+      "thread_ts": "1784622974.547029",
+      "user": "U08KA9A2BMZ",
+      "text": "Ottimo, per favore fate qualche esperimento anche in questa direzione :wink:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cQaKD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ottimo, per favore fate qualche esperimento anche in questa direzione "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623152.310789",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "sì swarmia nello specifico la vedo dura",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jW6bk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì swarmia nello specifico la vedo dura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623184.002699",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "però secondo me un'organizzazione per tirare fuori anche queste metriche la si trova",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z+kse",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però secondo me un'organizzazione per tirare fuori anche queste metriche la si trova"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623194.679329",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "comunque mi sta piacendo parecchio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ebPq1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque mi sta piacendo parecchio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623232.963699",
+      "thread_ts": "1784622974.547029",
+      "user": "U08KA9A2BMZ",
+      "text": "Le metriche che mi vengono in mente che mi interessa misurare sono:\n1. Tipo di utilizzo dell'LLM: assitente, agentico\n2. Scopo: scrittura del codice, PR review, ecc\n3. Tipologia di LLm usato\n4. Budget speso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZztAB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Le metriche che mi vengono in mente che mi interessa misurare sono:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Tipo di utilizzo dell'LLM: assitente, agentico"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Scopo: scrittura del codice, PR review, ecc"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Tipologia di LLm usato"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Budget speso"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623334.096159",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "comunque sì la cosa più stupida è fare un workspace per team e a quel punto avresti una dashboard che ti dà l'utilizzo per team con i log per team",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QVYFP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque sì la cosa più stupida è fare un workspace per team e a quel punto avresti una dashboard che ti dà l'utilizzo per team con i log per team"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623357.796509",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "1 e 2 li vedo più impegnativi ma approfondiamo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7e27R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1 e 2 li vedo più impegnativi ma approfondiamo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623367.692339",
+      "thread_ts": "1784622974.547029",
+      "user": "U08F42UJQEP",
+      "text": "3 e 4 sicuramente sì",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "geXX1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3 e 4 sicuramente sì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784623390.958749",
+      "thread_ts": "1784622974.547029",
+      "user": "U08KA9A2BMZ",
+      "text": "Ok, fatemi sapere",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ROCHw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ok, fatemi sapere"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

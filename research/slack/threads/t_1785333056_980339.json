@@ -1,0 +1,126 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 4,
+  "messages": [
+    {
+      "ts": "1785333056.980339",
+      "thread_ts": "1785333056.980339",
+      "user": "U08F42UJQEP",
+      "text": "Feedback mio, secondo me c'è da mettere mano al routing: uso sempre DS4 Flash ma oggi è rincoglionito come non mai.",
+      "type": "message",
+      "reply_count": 3,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "87EUV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Feedback mio, secondo me c'è da mettere mano al routing: uso sempre DS4 Flash ma oggi è rincoglionito come non mai."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785333081.831199",
+      "thread_ts": "1785333056.980339",
+      "user": "U0ALTAL9GCA",
+      "text": "Dici che dipende dal provider?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nOKnO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Dici che dipende dal provider?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785333132.160079",
+      "thread_ts": "1785333056.980339",
+      "user": "U08F42UJQEP",
+      "text": "oggi è davvero imbecille e non vorrei che ogni provider abbia la sua quantizzazione e che quello che mi sono beccato io sia estremamente bassa",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ob1V6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "oggi è davvero imbecille e non vorrei che ogni provider abbia la sua quantizzazione e che quello che mi sono beccato io sia estremamente bassa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785333154.419499",
+      "thread_ts": "1785333056.980339",
+      "user": "U08F42UJQEP",
+      "text": "poi anche in termini di token al secondo ogni tanto scende davvero sotto la soglia dell'usabilità",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cvab6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "poi anche in termini di token al secondo ogni tanto scende davvero sotto la soglia dell'usabilità"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    }
+  ]
+}

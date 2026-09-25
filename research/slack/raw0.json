@@ -1,0 +1,2238 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 50,
+  "messages": [
+    {
+      "ts": "1785942279.332369",
+      "user": "U08F42UJQEP",
+      "text": "ok vogliamo pescare una issue BE?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i7o18",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok vogliamo pescare una issue BE?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785942329.646819",
+      "user": "U096LKSL2T0",
+      "text": "Meglio, FE sono una :goat:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zSPoU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Meglio, FE sono una "
+                },
+                {
+                  "type": "emoji",
+                  "name": "goat",
+                  "unicode": "1f410"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785942355.624299",
+      "user": "U08F42UJQEP",
+      "text": "ok vedo di pescarne una da proporti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kNHOf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok vedo di pescarne una da proporti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785942364.424779",
+      "user": "U08F42UJQEP",
+      "text": "una o due insomma",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SobJP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "una o due insomma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785942741.384199",
+      "user": "U096LKSL2T0",
+      "text": "Sì sì, va bene una che devi fare o un'altra qualsiasi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E0Q3u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sì sì, va bene una che devi fare o un'altra qualsiasi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785942761.173359",
+      "user": "U08F42UJQEP",
+      "text": "ne ho già trovata una che va bene",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aGy/N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ne ho già trovata una che va bene"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785942776.799019",
+      "user": "U08F42UJQEP",
+      "text": "l'ho messa in frigo per domani",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        },
+        {
+          "name": "cool",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        },
+        {
+          "name": "beers",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XIqRq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "l'ho messa in frigo per domani"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786004481.824729",
+      "thread_ts": "1786004481.824729",
+      "user": "U096LKSL2T0",
+      "text": "Prime metriche dopo che ieri con <@U08F42UJQEP> abbiamo impostato un paio di classificatori.\nLa metrica \"autonomy_level\" è ispirata ai 5 livelli individuati dall'amico di <@U09P40E8LN6>, Addy Osmani :smile:\n<https://addyo.substack.com/p/agentic-autonomy-levels|addyo.substack.com/p/agentic-autonomy-levels>",
+      "type": "message",
+      "reply_count": 29,
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "rocket",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "29ZtC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Prime metriche dopo che ieri con "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " abbiamo impostato un paio di classificatori.\nLa metrica \"autonomy_level\" è ispirata ai 5 livelli individuati dall'amico di "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": ", Addy Osmani "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://addyo.substack.com/p/agentic-autonomy-levels",
+                  "text": "addyo.substack.com/p/agentic-autonomy-levels",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://substackcdn.com/image/fetch/$s_!2N4L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf5a99c5-704d-45ee-93fb-3d51a232a19c_1376x768.jpeg",
+          "image_width": 1200,
+          "image_height": 675,
+          "image_bytes": 46171,
+          "from_url": "https://addyo.substack.com/p/agentic-autonomy-levels",
+          "service_icon": "https://substackcdn.com/image/fetch/%24s_!m9vt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5461e150-2b93-418a-b0b7-0499a1a2ac22%2Fapple-touch-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://addyo.substack.com/p/agentic-autonomy-levels",
+          "fallback": "Agentic Autonomy Levels",
+          "text": "A working model of autonomy for agentic engineering",
+          "title": "Agentic Autonomy Levels",
+          "title_link": "https://addyo.substack.com/p/agentic-autonomy-levels",
+          "service_name": "addyo.substack.com"
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BN8ACTULT",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 443311,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BN8ACTULT/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BN8ACTULT/image.png",
+          "mode": "hosted"
+        },
+        {
+          "id": "F0BMZ6PKJ0P",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 322493,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BMZ6PKJ0P/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BMZ6PKJ0P/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786004524.939109",
+      "user": "U08F42UJQEP",
+      "text": "che figata",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "muscle",
+          "users": [
+            "U096LKSL2T0",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        },
+        {
+          "name": "muscle::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZfW4f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "che figata"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786004530.832929",
+      "user": "U08F42UJQEP",
+      "text": "bello bello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yAUSS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bello bello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786012578.528489",
+      "thread_ts": "1786012578.528489",
+      "user": "U09P40E8LN6",
+      "text": ":rolling_on_the_floor_laughing: il tuo ciao ciao personaggio online è bellissimo",
+      "type": "message",
+      "reply_count": 4,
+      "reactions": [
+        {
+          "name": "wave",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        },
+        {
+          "name": "joy",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "359PL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                },
+                {
+                  "type": "text",
+                  "text": " il tuo ciao ciao personaggio online è bellissimo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BNHE9BBMX",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 23583,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNHE9BBMX/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNHE9BBMX/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786020481.545939",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U087RH5C7FA> mi fai un esempio di come potrebbero essere usati questi log al fine di controllare e in conflitto con art. 4? \n\nIo resto piuttosto convinto che se il prompt genera il codice, il prompt sia conoscenza aziendale che fa messo a disposizione di tutti.\n\nPoi mi sta anche bene immaginare che ci possano essere dei workspace “privati”, se questo sarà deciso aziendalmente.\n\nCi sono azienda come Upsun che stanno rilasciano AI centralizzate dove il prompt è centralizzato e visibile da tutto il team.\n\nScrivere software è uno sport di gruppo non individuale.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gLxpE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U087RH5C7FA"
+                },
+                {
+                  "type": "text",
+                  "text": " mi fai un esempio di come potrebbero essere usati questi log al fine di controllare e in conflitto con art. 4? \n\nIo resto piuttosto convinto che se il prompt genera il codice, il prompt sia conoscenza aziendale che fa messo a disposizione di tutti.\n\nPoi mi sta anche bene immaginare che ci possano essere dei workspace “privati”, se questo sarà deciso aziendalmente.\n\nCi sono azienda come Upsun che stanno rilasciano AI centralizzate dove il prompt è centralizzato e visibile da tutto il team.\n\nScrivere software è uno sport di gruppo non individuale."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786087367.445689",
+      "thread_ts": "1786087367.445689",
+      "user": "U08F42UJQEP",
+      "text": "<@U08KA9A2BMZ> mi è arrivata una newsletter da swarmia che parla di integrazioni con l'IA. Non l'ho letta (te dirai \"allora cosa mi scrivi a fare\") però sarebbe da capire se va nella direzione delle cose che interessavano a te. Non so che integrazioni supporti swarmia oggi",
+      "type": "message",
+      "reply_count": 5,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8kfot",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                },
+                {
+                  "type": "text",
+                  "text": " mi è arrivata una newsletter da swarmia che parla di integrazioni con l'IA. Non l'ho letta (te dirai \"allora cosa mi scrivi a fare\") però sarebbe da capire se va nella direzione delle cose che interessavano a te. Non so che integrazioni supporti swarmia oggi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786105892.858539",
+      "thread_ts": "1786105892.858539",
+      "user": "U08KA9A2BMZ",
+      "text": "<https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/|https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/> ",
+      "type": "message",
+      "reply_count": 5,
+      "reactions": [
+        {
+          "name": "heart_eyes",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "umH6k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+                  "text": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://www.oreilly.com/library/cover/0642572344306/1200w630h/",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 236894,
+          "from_url": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+          "service_icon": "http://www.oreilly.com/favicon.ico",
+          "id": 1,
+          "original_url": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+          "fallback": "O’Reilly Online Learning: Agentic Engineering at Scale",
+          "text": "Every senior engineer has experienced it: Productivity gains from AI coding assistants work brilliantly in a prototype but hit a wall when faced with a legacy codebase or a system... - Selection from Agentic Engineering at Scale [Book]",
+          "title": "Agentic Engineering at Scale",
+          "title_link": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+          "service_name": "O’Reilly Online Learning"
+        }
+      ]
+    },
+    {
+      "ts": "1786129675.604959",
+      "thread_ts": "1786129675.604959",
+      "user": "U09P40E8LN6",
+      "text": "",
+      "type": "message",
+      "reply_count": 2,
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U0AKR9GTN4U",
+            "U0B0ZPLKA3B"
+          ],
+          "count": 2
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BNWJNJ4BB",
+          "name": "IMG_3739.jpg",
+          "title": "IMG_3739",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "size": 202445,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNWJNJ4BB/img_3739.jpg",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNWJNJ4BB/img_3739.jpg",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786451418.432359",
+      "user": "U08F42UJQEP",
+      "text": "tardo 2 minuti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YrJv5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tardo 2 minuti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786530559.616819",
+      "thread_ts": "1786530559.616819",
+      "user": "U08F42UJQEP",
+      "text": "piccola nota: secondo me il classificatore sul livello di autonomia che abbiamo creato è troppo ottimistico, ho aperto una mia request di oggi e me la classifica come L3 quando secondo me sono più sull'L2 perchè io lo sto guidando molto al modello (codice lo scrive lui, test li esegue lui ma io gli restringo sempre il contesto il più possibile per non consumare budget). In generale io non mi ci ritrovo nell'L3, considerando che io da solo ho consumato quasi la metà dei token consumati da tutto il team di sperimentazione mi fa un po' strano che il grafico mostri che il 73% delle richieste ricade su L3. Tutto questo per dire che se lo vogliamo affidabile dobbiamo iterare sul classificatore.",
+      "type": "message",
+      "reply_count": 3,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kA312",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "piccola nota: secondo me il classificatore sul livello di autonomia che abbiamo creato è troppo ottimistico, ho aperto una mia request di oggi e me la classifica come L3 quando secondo me sono più sull'L2 perchè io lo sto guidando molto al modello (codice lo scrive lui, test li esegue lui ma io gli restringo sempre il contesto il più possibile per non consumare budget). In generale io non mi ci ritrovo nell'L3, considerando che io da solo ho consumato quasi la metà dei token consumati da tutto il team di sperimentazione mi fa un po' strano che il grafico mostri che il 73% delle richieste ricade su L3. Tutto questo per dire che se lo vogliamo affidabile dobbiamo iterare sul classificatore."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786689612.744109",
+      "thread_ts": "1786689612.744109",
+      "user": "U0ALTAL9GCA",
+      "text": "<https://deepseek.com/harness/en/|deepseek.com/harness/en>",
+      "type": "message",
+      "reply_count": 3,
+      "reactions": [
+        {
+          "name": "rocket",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DSUVB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://deepseek.com/harness/en/",
+                  "text": "deepseek.com/harness/en",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://deepseek.com/harness/en/",
+          "service_icon": "https://deepseek.com/favicon.ico",
+          "id": 1,
+          "original_url": "https://deepseek.com/harness/en/",
+          "fallback": "DeepSeek Harness developer preview: Everything is a plugin",
+          "text": "DeepSeek Harness is now available in developer preview to developers building agent harnesses worldwide, with the source code released at the same time. Every agent capability is implemented as a plugin that can be swapped or recomposed.",
+          "title": "DeepSeek Harness developer preview: Everything is a plugin",
+          "title_link": "https://deepseek.com/harness/en/",
+          "service_name": "deepseek.com"
+        }
+      ]
+    },
+    {
+      "ts": "1786962243.110319",
+      "user": "U0AKR9GTN4U",
+      "text": "Stackoverflow vuole riprendere potere :slightly_smiling_face:\n<https://agents.stackoverflow.com/about|agents.stackoverflow.com/about>",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "melting_face",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        },
+        {
+          "name": "rocket",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XTAEa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Stackoverflow vuole riprendere potere "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://agents.stackoverflow.com/about",
+                  "text": "agents.stackoverflow.com/about",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://agents.stackoverflow.com/static/stack-overflow-agents-og.png",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 12254,
+          "from_url": "https://agents.stackoverflow.com/about",
+          "service_icon": "https://agents.stackoverflow.com/static/apple-touch-icon.png",
+          "id": 1,
+          "original_url": "https://agents.stackoverflow.com/about",
+          "fallback": "Stack Overflow for Agents",
+          "text": "Stack Overflow for Agents is the open knowledge exchange for AI agents and developers to share validated, real-world implementation knowledge.",
+          "title": "Stack Overflow for Agents",
+          "title_link": "https://agents.stackoverflow.com/about",
+          "service_name": "agents.stackoverflow.com"
+        }
+      ]
+    },
+    {
+      "ts": "1787152714.074969",
+      "thread_ts": "1787152714.074969",
+      "user": "U096LKSL2T0",
+      "text": "<https://www.stagehand.dev/|stagehand.dev>",
+      "type": "message",
+      "reply_count": 18,
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6",
+            "U08F42UJQEP"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0nJ3r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.stagehand.dev/",
+                  "text": "stagehand.dev",
+                  "truncated": true,
+                  "unsafe": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://stagehand.dev/opengraph-image.png?opengraph-image.09v5cm7evjnfi.png",
+          "image_width": 3600,
+          "image_height": 1890,
+          "image_bytes": 112090,
+          "from_url": "https://www.stagehand.dev/",
+          "service_icon": "https://www.stagehand.dev/apple-icon.png?apple-icon.0z3cugh0oz5_g.png",
+          "id": 1,
+          "original_url": "https://www.stagehand.dev/",
+          "fallback": "Stagehand: The SDK for browser agents | Stagehand",
+          "text": "Stagehand is the SDK for browser agents. Playwright-style API, self-healing selectors, and TypeScript, Python, and Go.",
+          "title": "The SDK for browser agents | Stagehand",
+          "title_link": "https://www.stagehand.dev/",
+          "service_name": "Stagehand"
+        }
+      ]
+    },
+    {
+      "ts": "1787232229.757699",
+      "thread_ts": "1787232229.757699",
+      "user": "U08KA9A2BMZ",
+      "text": "Ho una domanda socio-tecnica / psicologica da rivolgervi. Negli anni la psicologia e in particolare le scienze applicate ai sistemi complessi (come quelli organizzativi), hanno spostato il modello organizzato da quello predittivo / meccanicistico / taylorista che cercava di ottimizzare l'uomo come si ottimizzano le macchine, al design socio-tecnico basato più sul metodo di ricerca scientifica. Il riassunto sugli approcci potrebbe essere il seguente:\n\n&gt; The old paradigm\n&gt; • redundancy of parts\n&gt; • external coordination and control\n&gt; • autocracy\n&gt; • fragmented socio-technica system\n&gt; • technological imperative-man as extension of machine, a commodity\n&gt; • organizational design based on total specification\n&gt; • maximum task breakdown, narrow skilis\n&gt; • building block is one person - one task\n&gt; • alienation\n&gt; \n&gt; The new paradigm\n&gt; • redundancy of functions\n&gt; • internal coordination and control\n&gt; • democracy\n&gt; • joint optimization of the socio-technical system\n&gt; • man is complementary to the machine and a resource to be developed\n&gt; • organization design based on minimum critical specification\n&gt; • optimum task grouping, multiple broad skilis\n&gt; • building block is a self-managing social system\n&gt; • involvement and commitment\nScrivere software è una delle industry che ha più beneficiato nel disegnare le organizzazione come sistemi socio tecnici, perché risolvere problemi di business attraverso il software è un'attività complessa che si basa principalmente sull'apprendimento e su tecniche empiriche.\n\nNel tempo la nostra industry ha declinato questa metodologia con:\n\n• Conway's law\n• Manifesto Agile\n• Team Topology \n• Management 3.0\nCioè è passato in sintensi dal disegnare organizzazione che controllano il lavoro degli sviluppatori, a disegnare aziende fatte di team di prodotto cross funzionali e autonomi, che sono responsabile dell'intero ciclo di vita del proprio prodotto.\n\nOra, pensando all'inserimento di Agenti Sintetici in un'organizzazione, questo modifica ancora una volta quello che abbiamo scoperto, o semplicemente lo conferma, evolve e potenzia?\n\nSecondo me disegnare un'organizzazione fatta da umani, sistemi e agenti sistemici, rientra di nuovo a pieno titolo all'interno di come si gestiscono sistemi complessi. E quello che abbiamo scoperto negli ultimi 30 anni e più, assume di nuovo forza.\n\nSe la mia tesi è corretta, allora il problema diventa di nuovo, non disegnare un'organizzazione che controlla gli agenti sintetici, ma disegnare sistemi socio tecnici basati sui principi del nuovo paradigma scritto sopra.\n\nIn soldoni, noi oggi abbiamo disegnato un'organizzazione in grado di misurare gli outcome dei team e non gli output, misuriamo metriche come:\n• Issue metrics (Cycle Time, Review Rate, Time to first review, PR merged)\n• Focus Metrics\n• DORA metrics (Deployment frequency, deployment count, change to lead time, time to deploy, change failure rate, time to recovery)\n• Code metrics (Code health, Hot spot, code coverage, ecc)\nIl ruolo della Tech Leadership oggi, è creare team autonomi che si auto gestiscono, attraverso il disegno del giusto ambiente, cultura, processi e metriche. Per me oggi il lavoro di un Software Engineer che decide di delegare lo sviluppo del codice ad agente sintetici, è un lavoro che richiede sempre più competenze di Tech Leadership, engineering management e organization design. Se questo è vero, come possiamo non reinvetarci la ruota, ma arricchire le nostre competenze di queste skill che hanno più a che fare con la psicologia, la sociologia, che con la tecnica?\n\nChe ne pensate?",
+      "type": "message",
+      "reply_count": 10,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BdmhE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho una domanda socio-tecnica / psicologica da rivolgervi. Negli anni la psicologia e in particolare le scienze applicate ai sistemi complessi (come quelli organizzativi), hanno spostato il modello organizzato da quello predittivo / meccanicistico / taylorista che cercava di ottimizzare l'uomo come si ottimizzano le macchine, al design socio-tecnico basato più sul metodo di ricerca scientifica. Il riassunto sugli approcci potrebbe essere il seguente:\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "The old paradigm"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "redundancy of parts"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "external coordination and control"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "autocracy"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "fragmented socio-technica system"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "technological imperative-man as extension of machine, a commodity"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "organizational design based on total specification"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "maximum task breakdown, narrow skilis"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "building block is one person - one task"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "alienation"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 1
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nThe new paradigm"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "redundancy of functions"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "internal coordination and control"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "democracy"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "joint optimization of the socio-technical system"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "man is complementary to the machine and a resource to be developed"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "organization design based on minimum critical specification"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "optimum task grouping, multiple broad skilis"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "building block is a self-managing social system"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "involvement and commitment"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 1
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nScrivere software è una delle industry che ha più beneficiato nel disegnare le organizzazione come sistemi socio tecnici, perché risolvere problemi di business attraverso il software è un'attività complessa che si basa principalmente sull'apprendimento e su tecniche empiriche.\n\nNel tempo la nostra industry ha declinato questa metodologia con:\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Conway's law"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Manifesto Agile"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Team Topology "
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Management 3.0"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nCioè è passato in sintensi dal disegnare organizzazione che controllano il lavoro degli sviluppatori, a disegnare aziende fatte di team di prodotto cross funzionali e autonomi, che sono responsabile dell'intero ciclo di vita del proprio prodotto.\n\nOra, pensando all'inserimento di Agenti Sintetici in un'organizzazione, questo modifica ancora una volta quello che abbiamo scoperto, o semplicemente lo conferma, evolve e potenzia?\n\nSecondo me disegnare un'organizzazione fatta da umani, sistemi e agenti sistemici, rientra di nuovo a pieno titolo all'interno di come si gestiscono sistemi complessi. E quello che abbiamo scoperto negli ultimi 30 anni e più, assume di nuovo forza.\n\nSe la mia tesi è corretta, allora il problema diventa di nuovo, non disegnare un'organizzazione che controlla gli agenti sintetici, ma disegnare sistemi socio tecnici basati sui principi del nuovo paradigma scritto sopra.\n\nIn soldoni, noi oggi abbiamo disegnato un'organizzazione in grado di misurare gli outcome dei team e non gli output, misuriamo metriche come:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Issue metrics (Cycle Time, Review Rate, Time to first review, PR merged)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Focus Metrics"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "DORA metrics (Deployment frequency, deployment count, change to lead time, time to deploy, change failure rate, time to recovery)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Code metrics (Code health, Hot spot, code coverage, ecc)"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nIl ruolo della Tech Leadership oggi, è creare team autonomi che si auto gestiscono, attraverso il disegno del giusto ambiente, cultura, processi e metriche. Per me oggi il lavoro di un Software Engineer che decide di delegare lo sviluppo del codice ad agente sintetici, è un lavoro che richiede sempre più competenze di Tech Leadership, engineering management e organization design. Se questo è vero, come possiamo non reinvetarci la ruota, ma arricchire le nostre competenze di queste skill che hanno più a che fare con la psicologia, la sociologia, che con la tecnica?\n\nChe ne pensate?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787296757.810199",
+      "thread_ts": "1787296757.810199",
+      "user": "U08F42UJQEP",
+      "text": "condivido sta cosa che è una cazzata ma è stata la prima volta che ho provato a farla e mi ha sinceramente fatto ridere: ieri sera ho provato con ds4 flash GRATUITO di opencode a fare una cosa totalmente in vibe coding. Gli ho dato un pdf di un questionario e gli ho detto \"questa è la cartella del progetto, questo è il pdf, mi devi fare un'app react con la mui che proponga il questionario salvando le risposte nel localstorage e che alla fine mi presenti il risultato\". Premuto invio e mi sono andato a lavare i denti. Sono tornato 10 minuti dopo, aveva finito già da qualche minuto (tempo totale 7 minuti, bootstrap del progetto incluso) e si era fatto anche un giro nel browser per vedere che tornasse tutto. Layout scelto tutto lui e ci stava, ha fatto anche il salto logico di non assegnare un punteggio alla singola risposta come c'era scritto nel pdf ma di capire qual era la logica e modellarla. È una boiata assurda, ma mi ha fatto ridere un botto.",
+      "type": "message",
+      "reply_count": 1,
+      "reactions": [
+        {
+          "name": "robot_face",
+          "users": [
+            "U096LKSL2T0",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UQSnY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "condivido sta cosa che è una cazzata ma è stata la prima volta che ho provato a farla e mi ha sinceramente fatto ridere: ieri sera ho provato con ds4 flash GRATUITO di opencode a fare una cosa totalmente in vibe coding. Gli ho dato un pdf di un questionario e gli ho detto \"questa è la cartella del progetto, questo è il pdf, mi devi fare un'app react con la mui che proponga il questionario salvando le risposte nel localstorage e che alla fine mi presenti il risultato\". Premuto invio e mi sono andato a lavare i denti. Sono tornato 10 minuti dopo, aveva finito già da qualche minuto (tempo totale 7 minuti, bootstrap del progetto incluso) e si era fatto anche un giro nel browser per vedere che tornasse tutto. Layout scelto tutto lui e ci stava, ha fatto anche il salto logico di non assegnare un punteggio alla singola risposta come c'era scritto nel pdf ma di capire qual era la logica e modellarla. È una boiata assurda, ma mi ha fatto ridere un botto."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787310228.321979",
+      "user": "U09P40E8LN6",
+      "text": "<https://fx.sh/|fx.sh>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lseRf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://fx.sh/",
+                  "text": "fx.sh",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://fx.sh/",
+          "image_url": "https://fx.sh/og.png",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 13005,
+          "service_icon": "https://fx.sh/favicon.png",
+          "id": 1,
+          "original_url": "https://fx.sh/",
+          "fallback": "fx: fx - Tiny, open, native coding agent",
+          "text": "Tiny, open, native coding agent. A minimal CLI written in Zig, optimized for research and embeddability as part of larger systems.",
+          "title": "fx - Tiny, open, native coding agent",
+          "title_link": "https://fx.sh/",
+          "service_name": "fx"
+        }
+      ]
+    },
+    {
+      "ts": "1787310713.151329",
+      "user": "U096LKSL2T0",
+      "text": "Finalmente una nuova CLI! Sono già le 13:12, iniziavo a pensare che stamattina non ne arrivassero :rolling_on_the_floor_laughing:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "joy",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wFKCQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Finalmente una nuova CLI! Sono già le 13:12, iniziavo a pensare che stamattina non ne arrivassero "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787313615.347629",
+      "user": "U08F42UJQEP",
+      "text": "però sta parte, anche se non saprei cosa farmene, è affascinante",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1RolQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però sta parte, anche se non saprei cosa farmene, è affascinante"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BRVFG768Z",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 7667,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BRVFG768Z/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BRVFG768Z/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787313648.466069",
+      "thread_ts": "1787313648.466069",
+      "user": "U08F42UJQEP",
+      "text": "oddio, creo delle lambda con un coding agent direttamente dalla console di aws? magari è già possibile farlo",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "981ax",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "oddio, creo delle lambda con un coding agent direttamente dalla console di aws? magari è già possibile farlo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787317895.242149",
+      "user": "U0AKR9GTN4U",
+      "text": "Ci serve davvero openrouter? :smile:\n(spero con tutto me stesso che sia reale questo screen)",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U08F42UJQEP",
+            "U09P40E8LN6",
+            "U087RH5C7FA"
+          ],
+          "count": 3
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+5JKK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ci serve davvero openrouter? "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": "\n(spero con tutto me stesso che sia reale questo screen)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BRCLHBF63",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 1117467,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BRCLHBF63/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BRCLHBF63/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787555282.530569",
+      "user": "U08F42UJQEP",
+      "text": "sto weekend ho fatto l'esperimento di far aprire le pr all'agente e fargli la review: non mi sono trovato male perchè così ho un punto in cui scrivergli tutti i feedback su quanto sviluppato da dargli in pasto e fargli pianificare in una botta sola. Sicuramente è soggettivo ma come metodologia di lavoro con me funziona (è una cosa che faccio manualmente anche su nuvola: apro la pr come draft, segno le osservazioni come commenti e poi inizio a darglieli come prompt quando ho finito)",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U096LKSL2T0",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VK0fb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sto weekend ho fatto l'esperimento di far aprire le pr all'agente e fargli la review: non mi sono trovato male perchè così ho un punto in cui scrivergli tutti i feedback su quanto sviluppato da dargli in pasto e fargli pianificare in una botta sola. Sicuramente è soggettivo ma come metodologia di lavoro con me funziona (è una cosa che faccio manualmente anche su nuvola: apro la pr come draft, segno le osservazioni come commenti e poi inizio a darglieli come prompt quando ho finito)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787555724.751749",
+      "user": "U08F42UJQEP",
+      "text": "\"Chérie, ma questo è francese\"",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z/zEn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\"Chérie, ma questo è francese\""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BS74VPQTC",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 18151,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BS74VPQTC/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BS74VPQTC/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787555894.938249",
+      "user": "U096LKSL2T0",
+      "text": "Mon dieux! :joy:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fl2dA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mon dieux! "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787556013.715309",
+      "user": "U08F42UJQEP",
+      "text": "adesso il test: <@U09P40E8LN6> quella frase è la citazione di una famosissima sitcom televisiva, sai dirmi qual è senza googlare?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z28jX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "adesso il test: "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " quella frase è la citazione di una famosissima sitcom televisiva, sai dirmi qual è senza googlare?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787556061.520359",
+      "user": "U09P40E8LN6",
+      "text": "son sincero: non lo so ahahha",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "icu1J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "son sincero: non lo so ahahha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787556090.476089",
+      "user": "U08F42UJQEP",
+      "text": ":smile: immaginavo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "duryc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": " immaginavo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787556099.058699",
+      "user": "U08F42UJQEP",
+      "text": "è la famiglia addams comunque",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "imp",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1NqFf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "è la famiglia addams comunque"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577275.909729",
+      "thread_ts": "1787577275.909729",
+      "user": "U087RH5C7FA",
+      "text": "Per chi usa opencode + deepseek: anche a voi partono un sacco di chiamate di subagent che usano gemini 3.5 flash light? Avete provato a forzare deepseek anche su subagents?",
+      "type": "message",
+      "reply_count": 17,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IwS+i",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Per chi usa opencode + deepseek: anche a voi partono un sacco di chiamate di subagent che usano gemini 3.5 flash light? Avete provato a forzare deepseek anche su subagents?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787660442.261969",
+      "user": "U096LKSL2T0",
+      "text": "Ciao! Vi ho andato un invito per domani alle 14:30. Facciamo un punto, tiriamo le somme e prendiamo accordi per finalizzare la sperimentazione e presentare i risultati, ok?",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "ok_hand",
+          "users": [
+            "U08F42UJQEP",
+            "U087RH5C7FA",
+            "U09P40E8LN6"
+          ],
+          "count": 3
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8LHnk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ciao! Vi ho andato un invito per domani alle 14:30. Facciamo un punto, tiriamo le somme e prendiamo accordi per finalizzare la sperimentazione e presentare i risultati, ok?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787667936.643329",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "Scorrevo linkedin...",
+      "type": "message",
+      "reply_count": 34,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2YSMK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Scorrevo linkedin..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSHSKHQBG",
+          "name": "Screenshot 2026-08-25 alle 16.25.22.png",
+          "title": "Screenshot 2026-08-25 alle 16.25.22.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 394916,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSHSKHQBG/screenshot_2026-08-25_alle_16.25.22.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSHSKHQBG/screenshot_2026-08-25_alle_16.25.22.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787727510.842339",
+      "thread_ts": "1787727510.842339",
+      "user": "U09P40E8LN6",
+      "text": "<https://larsfaye.com/articles/ai-coding-will-prevent-expertise|larsfaye.com/articles/ai-coding-will-prevent-expertise>",
+      "type": "message",
+      "reply_count": 45,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+8JoA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+                  "text": "larsfaye.com/articles/ai-coding-will-prevent-expertise",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://larsfaye.com/opengraph-expertise.jpg",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 142085,
+          "from_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "service_icon": "https://larsfaye.com/apple-touch-icon.png",
+          "ts": 1784678400,
+          "id": 1,
+          "original_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "fallback": "AI Coding will Prevent Expertise | Lars Faye",
+          "text": "The need for ongoing friction in long-term skill formation.",
+          "title": "AI Coding will Prevent Expertise | Lars Faye",
+          "title_link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "service_name": "larsfaye.com"
+        }
+      ]
+    },
+    {
+      "ts": "1787748126.392539",
+      "user": "U096LKSL2T0",
+      "text": "Estensione Chrome per copiare-incollare-salvare markdown: <https://chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn?pli=1|chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn?pli=1>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VPE7s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Estensione Chrome per copiare-incollare-salvare markdown: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn?pli=1",
+                  "text": "chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn?pli=1",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn?pli=1",
+          "service_icon": "https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png",
+          "thumb_url": "https://lh3.googleusercontent.com/9Un9KVetBqPbcjvvVSrBcuvaAJyXgBFSmyG2AwlJlblvGieXebgmBK2v4b9oS4NaDvoHPiLK3_ZfIkyabYcja8ku",
+          "thumb_width": 128,
+          "thumb_height": 128,
+          "id": 1,
+          "original_url": "https://chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn?pli=1",
+          "fallback": "Copy as Markdown - Chrome Web Store",
+          "text": "Copy Link or Image as Markdown code",
+          "title": "Copy as Markdown - Chrome Web Store",
+          "title_link": "https://chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn?pli=1",
+          "service_name": "chromewebstore.google.com"
+        }
+      ]
+    },
+    {
+      "ts": "1787750574.144329",
+      "user": "U096LKSL2T0",
+      "text": "Qui la cartella GDrive con doc sul Progetto OpenRouter: <https://drive.google.com/drive/folders/1bGRMC7V0k2kfulbsC-IUWVdOoYsVfUT1?usp=drive_link|drive.google.com/drive/folders/…?usp=drive_link>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "onI3/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Qui la cartella GDrive con doc sul Progetto OpenRouter: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1bGRMC7V0k2kfulbsC-IUWVdOoYsVfUT1?usp=drive_link",
+                  "text": "drive.google.com/drive/folders/…?usp=drive_link",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787751529.151979",
+      "thread_ts": "1787751529.151979",
+      "user": "U09P40E8LN6",
+      "text": "<https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106|forum.italia.it/…/49106> regaliamo l'AI a quelli che han fatto l'app della CIE altro che",
+      "type": "message",
+      "reply_count": 6,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sgqug",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+                  "text": "forum.italia.it/…/49106",
+                  "truncated": true
+                },
+                {
+                  "type": "text",
+                  "text": " regaliamo l'AI a quelli che han fatto l'app della CIE altro che"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+          "service_icon": "https://forum.italia.it/uploads/default/optimized/2X/4/41491a2edacfa8385933bacd6563052430963d26_2_180x180.png",
+          "thumb_url": "https://forum.italia.it/uploads/default/original/3X/3/1/31d43c1fbb5e8f406c039b4916c9c58b31049c4f.jpeg",
+          "thumb_width": 776,
+          "thumb_height": 936,
+          "ts": 1787041844,
+          "id": 1,
+          "original_url": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+          "fallback": "Forum Italia: App native e \"Entra con CIE\": con le credenziali il login si chiude dentro l'app, passando dall'app CieID si finisce nel browser esterno",
+          "text": "Salve, stiamo integrando “Entra con CIE” nella nostra app mobile (Android e iOS) e ci siamo imbattuti in un comportamento che, dopo parecchie prove, ci sembra strutturale e non un difetto della nostra configurazione. In breve: nella scheda browser interna all’app, il login CIE con le credenziali (codice fiscale + psw) funziona perfettamente. Scegliendo invece il metodo di login con l’app CieID, l’esito dell’autenticazione finisce nel browser esterno e la nostra app non lo riceve mai. Per chiar...",
+          "title": "App native e \"Entra con CIE\": con le credenziali il login si chiude dentro l'app, passando dall'app CieID si finisce nel browser esterno",
+          "title_link": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+          "service_name": "Forum Italia",
+          "fields": [
+            {
+              "value": "2 min :clock2:",
+              "title": "Tempo di lettura",
+              "short": true
+            },
+            {
+              "value": "3 :heart:",
+              "title": "Mi piace",
+              "short": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787920718.590949",
+      "thread_ts": "1787920718.590949",
+      "user": "U096LKSL2T0",
+      "text": "Mi si è freezato Meet",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZyhkP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mi si è freezato Meet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787920762.391829",
+      "user": "U08F42UJQEP",
+      "text": "",
+      "type": "message",
+      "files": [
+        {
+          "id": "F0BTBM14BT8",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 101075,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BTBM14BT8/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BTBM14BT8/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787920767.957859",
+      "user": "U09P40E8LN6",
+      "text": "presidente??",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PoALh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "presidente??"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787920785.071619",
+      "user": "U09P40E8LN6",
+      "text": "<https://media.tenor.com/SdaPO_cROn4AAAAM/dazed-spaced-out.gif|media.tenor.com/SdaPO_cROn4AAAAM/dazed-spaced-out.gif>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "29VP7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://media.tenor.com/SdaPO_cROn4AAAAM/dazed-spaced-out.gif",
+                  "text": "media.tenor.com/SdaPO_cROn4AAAAM/dazed-spaced-out.gif",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://media.tenor.com/SdaPO_cROn4AAAAM/dazed-spaced-out.gif",
+          "image_width": 220,
+          "image_height": 160,
+          "image_bytes": 53139,
+          "from_url": "https://media.tenor.com/SdaPO_cROn4AAAAM/dazed-spaced-out.gif",
+          "id": 1,
+          "original_url": "https://media.tenor.com/SdaPO_cROn4AAAAM/dazed-spaced-out.gif",
+          "fallback": "220x160px image"
+        }
+      ]
+    },
+    {
+      "ts": "1787920824.426649",
+      "user": "U096LKSL2T0",
+      "text": "Riavvio il PC",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jhec3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Riavvio il PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787920827.590419",
+      "thread_ts": "1787920827.590419",
+      "user": "U096LKSL2T0",
+      "text": "",
+      "type": "message",
+      "reply_count": 2,
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U08F42UJQEP",
+            "U0B0ZPLKA3B"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hCn+5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSY8L6M0X",
+          "name": "IMG20260828143955.jpg",
+          "title": "IMG20260828143955.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "size": 1252163,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSY8L6M0X/img20260828143955.jpg",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSY8L6M0X/img20260828143955.jpg",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787931407.974319",
+      "thread_ts": "1787931407.974319",
+      "user": "U09P40E8LN6",
+      "text": "qui la forbice c'è",
+      "type": "message",
+      "reply_count": 8,
+      "reactions": [
+        {
+          "name": "hankey",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OslYX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "qui la forbice c'è"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSZM2P45D",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 403922,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSZM2P45D/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSZM2P45D/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1788166979.959389",
+      "thread_ts": "1788166979.959389",
+      "user": "U0ALTAL9GCA",
+      "text": "Buondi :slightly_smiling_face:\nSto provando ad utilizzare openrouter con opencode, ma nonostante non ho superato nessun limite mi esce questo errore\n\"\nThis request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits\n\"",
+      "type": "message",
+      "reply_count": 6,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cV+w6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Buondi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": "\nSto provando ad utilizzare openrouter con opencode, ma nonostante non ho superato nessun limite mi esce questo errore\n\"\nThis request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits\n\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788946908.975589",
+      "thread_ts": "1788946908.975589",
+      "user": "U0AKR9GTN4U",
+      "text": "<https://artisanalsoftwaresociety.com/|artisanalsoftwaresociety.com>",
+      "type": "message",
+      "reply_count": 7,
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6",
+            "U096LKSL2T0"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R7tRY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://artisanalsoftwaresociety.com/",
+                  "text": "artisanalsoftwaresociety.com",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://artisanalsoftwaresociety.com/og-card.png",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 73309,
+          "from_url": "https://artisanalsoftwaresociety.com/",
+          "id": 1,
+          "original_url": "https://artisanalsoftwaresociety.com/",
+          "fallback": "Artisanal Software Society: Artisanal Software Society — Software, made the hard way.",
+          "text": "The Artisanal Software Society is an international professional organization dedicated to preserving traditional software development methods.",
+          "title": "Artisanal Software Society — Software, made the hard way.",
+          "title_link": "https://artisanalsoftwaresociety.com/",
+          "service_name": "Artisanal Software Society"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U087RH5C7FA",
+      "name": "lorenzo.piersante",
+      "real_name": "Lorenzo Piersante",
+      "email": "lorenzo.piersante@madisoft.it"
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 22,
+  "messages": [
+    {
+      "ts": "1784364984.157719",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "ieri riflettevamo con Davide e vedendo questa slide stamani mi viene da chiedervi :\nNon conviene pensare per un futuro ad abbonamenti del genere se ci fanno opt-out? ( quindi zero training , zero data retention etc ) se ci potessero dare questo tipo di abbonamenti mensilmente senza legarci troppo ad openai , antrhopic etc sarebbe top",
+      "type": "message",
+      "reply_count": 21,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "edehh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ieri riflettevamo con Davide e vedendo questa slide stamani mi viene da chiedervi :\nNon conviene pensare per un futuro ad abbonamenti del genere se ci fanno opt-out? ( quindi zero training , zero data retention etc ) se ci potessero dare questo tipo di abbonamenti mensilmente senza legarci troppo ad openai , antrhopic etc sarebbe top"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BJ5JVTTHC",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 820640,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BJ5JVTTHC/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BJ5JVTTHC/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1784534124.563589",
+      "thread_ts": "1784364984.157719",
+      "user": "U0AKR9GTN4U",
+      "text": "intendi con openrouter?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RrMiO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "intendi con openrouter?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784534335.592449",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "No, intendevo abbonamenti diretti con OpenAI o Anthropic, non tramite OpenRouter. Visto il rapporto costo/utilizzo molto più conveniente rispetto alle API, potremmo scegliere mese per mese quale abbonamento attivare, senza legarci stabilmente a un provider, purché ci garantiscano opt-out dal training e zero data retention.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iZIE+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "No, intendevo abbonamenti diretti con OpenAI o Anthropic, non tramite OpenRouter. Visto il rapporto costo/utilizzo molto più conveniente rispetto alle API, potremmo scegliere mese per mese quale abbonamento attivare, senza legarci stabilmente a un provider, purché ci garantiscano opt-out dal training e zero data retention."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784535835.280439",
+      "thread_ts": "1784364984.157719",
+      "user": "U0AKR9GTN4U",
+      "text": "ok, io ne sarei felice :slightly_smiling_face: c'è da dire che se i modelli al di fuori di questi vendor, davvero hanno prestazioni comparabili, avere la flessibilità di openrouter non è male",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZF/5+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok, io ne sarei felice "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": " c'è da dire che se i modelli al di fuori di questi vendor, davvero hanno prestazioni comparabili, avere la flessibilità di openrouter non è male"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784537365.355999",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "Si, la flessibilità di OpenRouter è sicuramente interessante. Il problema è che, usando le API, per il tipo di utilizzo intensivo che ne facciamo noi il consumo diventa purtroppo molto più costoso rispetto agli abbonamenti diretti.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A7DAm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si, la flessibilità di OpenRouter è sicuramente interessante. Il problema è che, usando le API, per il tipo di utilizzo intensivo che ne facciamo noi il consumo diventa purtroppo molto più costoso rispetto agli abbonamenti diretti."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784630972.455819",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "<@U08KA9A2BMZ> su questo punto franci che cosa ne pensi?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6zdZx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                },
+                {
+                  "type": "text",
+                  "text": " su questo punto franci che cosa ne pensi?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784632935.032779",
+      "thread_ts": "1784364984.157719",
+      "user": "U08KA9A2BMZ",
+      "text": "Non ho forti opinioni in merito, a parte il vincolo del budget. Noi oggi siamo sui 20€ a dev al mese, ovviamente passare a 200€ al momento non abbiamo spazio, soprattutto perché ad oggi è molto difficile capire il reale impatto di business. Se troviamo il modo di legare il budget all'impatto per progetti specifici potrebbe essere più semplice trovare budget.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7k+hf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Non ho forti opinioni in merito, a parte il vincolo del budget. Noi oggi siamo sui 20€ a dev al mese, ovviamente passare a 200€ al momento non abbiamo spazio, soprattutto perché ad oggi è molto difficile capire il reale impatto di business. Se troviamo il modo di legare il budget all'impatto per progetti specifici potrebbe essere più semplice trovare budget."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784632962.164629",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "No no Franci io intendevo passare al piano 20$ mese di claude/codex",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2IAOj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "No no Franci io intendevo passare al piano 20$ mese di claude/codex"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784632977.478629",
+      "thread_ts": "1784364984.157719",
+      "user": "U08KA9A2BMZ",
+      "text": "E' chiaro che 200 € se corrispondono a 7530 € su API, c'è un grande risparmio, ma noi abbiamo più un tema di quanto budget riusciamo ad allocare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WPtta",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E' chiaro che 200 € se corrispondono a 7530 € su API, c'è un grande risparmio, ma noi abbiamo più un tema di quanto budget riusciamo ad allocare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784632995.580109",
+      "thread_ts": "1784364984.157719",
+      "user": "U08KA9A2BMZ",
+      "text": "Ah non avevo capito, per quello da 20$ io non ci vedo nessun problema",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eCd7D",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ah non avevo capito, per quello da 20$ io non ci vedo nessun problema"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784633033.292729",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "Provandolo personalmente è tutt'altra storia rispetto a copilot / openrouter in termini di utilizzo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b1lpG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Provandolo personalmente è tutt'altra storia rispetto a copilot / openrouter in termini di utilizzo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784633060.464129",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "cioè vabbè che l'ho usato per progetti personali ma mese scorso avevo codex il piano a 20$ facevo fatica a saturare i limiti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7ysFk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè vabbè che l'ho usato per progetti personali ma mese scorso avevo codex il piano a 20$ facevo fatica a saturare i limiti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784633080.682319",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "ho tipo spawnato un sacco di agenti su una review tanto per consumare :rolling_on_the_floor_laughing: e andavo di gpt5.6 sol high",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "it01j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ho tipo spawnato un sacco di agenti su una review tanto per consumare "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                },
+                {
+                  "type": "text",
+                  "text": " e andavo di gpt5.6 sol high"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784633121.513689",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "il piano da 200$ secondo me è follia per lo sviluppo normale",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "puQgf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "il piano da 200$ secondo me è follia per lo sviluppo normale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784633752.404859",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "<https://chatgpt.com/it-IT/codex/pricing/?type=team|chatgpt.com/it-IT/codex/pricing?type=team> tipo codex ho visto che se vogliamo pagare mensilmente viene 26€ mese minimo 2 utenti , sennò 21 euro ma tocca pagare l'annuale",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IY/F0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://chatgpt.com/it-IT/codex/pricing/?type=team",
+                  "text": "chatgpt.com/it-IT/codex/pricing?type=team",
+                  "truncated": true
+                },
+                {
+                  "type": "text",
+                  "text": " tipo codex ho visto che se vogliamo pagare mensilmente viene 26€ mese minimo 2 utenti , sennò 21 euro ma tocca pagare l'annuale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784637424.555109",
+      "thread_ts": "1784364984.157719",
+      "user": "U08KA9A2BMZ",
+      "text": "Sinceramente non so perché <@U096LKSL2T0> non l'abbia preso in considerazione. Con le informazioni che ho penso anch’io che sarebbe un’ottima soluzione per noi.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jkwpz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sinceramente non so perché "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " non l'abbia preso in considerazione. Con le informazioni che ho penso anch’io che sarebbe un’ottima soluzione per noi."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784640420.851519",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "Forse perchè in questo modo ci leghiamo ai modelli di openAI ma visto che permettono il mensile non è male perchè se da un momento all'altro fanno i furbi e chiudono i rubinetti il mese dopo cambi provider",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ip071",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Forse perchè in questo modo ci leghiamo ai modelli di openAI ma visto che permettono il mensile non è male perchè se da un momento all'altro fanno i furbi e chiudono i rubinetti il mese dopo cambi provider"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784667214.920679",
+      "thread_ts": "1784364984.157719",
+      "user": "U096LKSL2T0",
+      "text": "Ciao! Chi sono questi di Arkemis? Da dove han preso quei numeri? \nFossero reali per me va benissimo prendere OpenAI o Antropic. Non mi piace legarmi a modelli closed, ma se proprio regalano token a pioggia li prendo :D\nIo avevo Claude, e nonostante le promesse, han iniziato a chiudere i rubinetti dopo il Natale scorso, tant'è che ho smesso di pagarli e sono andato su altro. \n\"Cambiamo di mese in mese\" pure mi sta bene, se sta bene all'azienda :D",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KM2MQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ciao! Chi sono questi di Arkemis? Da dove han preso quei numeri? \nFossero reali per me va benissimo prendere OpenAI o Antropic. Non mi piace legarmi a modelli closed, ma se proprio regalano token a pioggia li prendo :D\nIo avevo Claude, e nonostante le promesse, han iniziato a chiudere i rubinetti dopo il Natale scorso, tant'è che ho smesso di pagarli e sono andato su altro. \n\"Cambiamo di mese in mese\" pure mi sta bene, se sta bene all'azienda :D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784667491.760479",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "È una slide che mi è passata su LinkedIn, Nando: non conosco Arkemis e sicuramente prenderei quei numeri come una stima indicativa, non come dati precisi. Però posso assicurarti che il piano Codex da 20$ attualmente sta davvero regalando token a pioggia :joy:\nSecondo me il punto è più il concetto abbonamento diretto vs consumo API che i numeri esatti della slide. Poi sì, il rischio che chiudano i rubinetti esiste, ed è proprio per quello che pensavo fosse una buona scelta il mensile senza vincolarci a un provider.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qHrbi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "È una slide che mi è passata su LinkedIn, Nando: non conosco Arkemis e sicuramente prenderei quei numeri come una stima indicativa, non come dati precisi. Però posso assicurarti che il piano Codex da 20$ attualmente sta davvero regalando token a pioggia "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "text",
+                  "text": "\nSecondo me il punto è più il concetto abbonamento diretto vs consumo API che i numeri esatti della slide. Poi sì, il rischio che chiudano i rubinetti esiste, ed è proprio per quello che pensavo fosse una buona scelta il mensile senza vincolarci a un provider."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784699708.051439",
+      "thread_ts": "1784364984.157719",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U09P40E8LN6> a livello aziendale per me è importante avere un SDLC AI stabile. Cioè mi aspetto che una volta che un dev è onboardato e inizi ad usare il nostro SDLC AI questo non cambi nel tempo. Per SDLC intendo:\n• Come utilizza AI con IDE\n• Come utilizza AI con CLI\n• Come utilizza AI per fare coding spec driven o vibe coding, o PR Review \nInoltre ho bisogno come dicevo di misurare l’utilizzo e l’impatto idealmente integrato con Swarmia.\n\nAbbiamo bisogno in pratica di Trovare una modalità che sia stabile, scalabile e che sia facilmente usabile e insegnabile.\n\nPensavo che cambiare modelli ogni mese è fattibile personalmente ma no a livello aziendale perché non tiene conto del costo dell’adozione.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UBbKP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " a livello aziendale per me è importante avere un SDLC AI stabile. Cioè mi aspetto che una volta che un dev è onboardato e inizi ad usare il nostro SDLC AI questo non cambi nel tempo. Per SDLC intendo:"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Come utilizza AI con IDE"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Come utilizza AI con CLI"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Come utilizza AI per fare coding spec driven o vibe coding, o PR Review "
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "offset": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nInoltre ho bisogno come dicevo di misurare l’utilizzo e l’impatto idealmente integrato con Swarmia.\n\nAbbiamo bisogno in pratica di Trovare una modalità che sia stabile, scalabile e che sia facilmente usabile e insegnabile.\n\nPensavo che cambiare modelli ogni mese è fattibile personalmente ma no a livello aziendale perché non tiene conto del costo dell’adozione."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784703947.185109",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "Verissimo allora probabilmente la mia proposta non ha senso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8cQw0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Verissimo allora probabilmente la mia proposta non ha senso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784703983.217399",
+      "thread_ts": "1784364984.157719",
+      "user": "U09P40E8LN6",
+      "text": "( in base a ciò che ci serve )",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Lxkni",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "( in base a ciò che ci serve )"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

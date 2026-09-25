@@ -1,0 +1,1193 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 30,
+  "messages": [
+    {
+      "ts": "1786004481.824729",
+      "thread_ts": "1786004481.824729",
+      "user": "U096LKSL2T0",
+      "text": "Prime metriche dopo che ieri con <@U08F42UJQEP> abbiamo impostato un paio di classificatori.\nLa metrica \"autonomy_level\" è ispirata ai 5 livelli individuati dall'amico di <@U09P40E8LN6>, Addy Osmani :smile:\n<https://addyo.substack.com/p/agentic-autonomy-levels|addyo.substack.com/p/agentic-autonomy-levels>",
+      "type": "message",
+      "reply_count": 29,
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "rocket",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "29ZtC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Prime metriche dopo che ieri con "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " abbiamo impostato un paio di classificatori.\nLa metrica \"autonomy_level\" è ispirata ai 5 livelli individuati dall'amico di "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": ", Addy Osmani "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://addyo.substack.com/p/agentic-autonomy-levels",
+                  "text": "addyo.substack.com/p/agentic-autonomy-levels",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://substackcdn.com/image/fetch/$s_!2N4L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf5a99c5-704d-45ee-93fb-3d51a232a19c_1376x768.jpeg",
+          "image_width": 1200,
+          "image_height": 675,
+          "image_bytes": 46171,
+          "from_url": "https://addyo.substack.com/p/agentic-autonomy-levels",
+          "service_icon": "https://substackcdn.com/image/fetch/%24s_!m9vt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5461e150-2b93-418a-b0b7-0499a1a2ac22%2Fapple-touch-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://addyo.substack.com/p/agentic-autonomy-levels",
+          "fallback": "Agentic Autonomy Levels",
+          "text": "A working model of autonomy for agentic engineering",
+          "title": "Agentic Autonomy Levels",
+          "title_link": "https://addyo.substack.com/p/agentic-autonomy-levels",
+          "service_name": "addyo.substack.com"
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BN8ACTULT",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 443311,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BN8ACTULT/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BN8ACTULT/image.png",
+          "mode": "hosted"
+        },
+        {
+          "id": "F0BMZ6PKJ0P",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 322493,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BMZ6PKJ0P/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BMZ6PKJ0P/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786004622.575979",
+      "thread_ts": "1786004481.824729",
+      "user": "U09P40E8LN6",
+      "text": "Fighissimo nando , come funziona? scannerizza i prompt?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fdklG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Fighissimo nando , come funziona? scannerizza i prompt?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786004646.180189",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "le generazioni, non i prompt",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MGMwt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "le generazioni, non i prompt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786004662.919789",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "e lo fa solo in ingresso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6tz5W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e lo fa solo in ingresso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786004696.590689",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "potremmo farlo a scopo di debug attivando temporanemente il logging dei prompt perchè avendolo disattivato non permette di farlo on demand",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u2adA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "potremmo farlo a scopo di debug attivando temporanemente il logging dei prompt perchè avendolo disattivato non permette di farlo on demand"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786005006.658829",
+      "thread_ts": "1786004481.824729",
+      "user": "U0ALTAL9GCA",
+      "text": "Top",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zIiU3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Top"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786006588.651999",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "Perché abbiamo disattivato il log dei prompt? Io vorrei che sia attivo perché ritengo sia conoscenza aziendale. ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O3XnI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Perché abbiamo disattivato il log dei prompt? Io vorrei che sia attivo perché ritengo sia conoscenza aziendale. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786006636.055859",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "lo abbiamo disattivato per una questione di privacy quando ci abbiamo guardato io e Federico mentre Nando non c'era",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XJLpN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "lo abbiamo disattivato per una questione di privacy quando ci abbiamo guardato io e Federico mentre Nando non c'era"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786006796.782069",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "io più che altro perchè non voglio beghe e non so se sia da richiedere un consenso esplicito o che a chi lo utilizza per avere le chat registrate e leggibili da tutti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8K/en",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io più che altro perchè non voglio beghe e non so se sia da richiedere un consenso esplicito o che a chi lo utilizza per avere le chat registrate e leggibili da tutti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786007119.668999",
+      "thread_ts": "1786004481.824729",
+      "user": "U087RH5C7FA",
+      "text": "Concordo con Davide che probabilmente il log puntuale dei prompt potrebbe ricadere in quelle zone grige dell'articolo 4 di cui parlavamo anche relativamente al tool per la sicurezza.\nPenso serva anche per questo un accordo sindacale/approvazione dell'ispettorato perchè potenzialmente utilizzabile per controllo.\nNon ho approfondito perchè per i promp mi interessava meno però è un tema molto simile.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0MXuU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Concordo con Davide che probabilmente il log puntuale dei prompt potrebbe ricadere in quelle zone grige dell'articolo 4 di cui parlavamo anche relativamente al tool per la sicurezza.\nPenso serva anche per questo un accordo sindacale/approvazione dell'ispettorato perchè potenzialmente utilizzabile per controllo.\nNon ho approfondito perchè per i promp mi interessava meno però è un tema molto simile."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786020481.545939",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U087RH5C7FA> mi fai un esempio di come potrebbero essere usati questi log al fine di controllare e in conflitto con art. 4? \n\nIo resto piuttosto convinto che se il prompt genera il codice, il prompt sia conoscenza aziendale che fa messo a disposizione di tutti.\n\nPoi mi sta anche bene immaginare che ci possano essere dei workspace “privati”, se questo sarà deciso aziendalmente.\n\nCi sono azienda come Upsun che stanno rilasciano AI centralizzate dove il prompt è centralizzato e visibile da tutto il team.\n\nScrivere software è uno sport di gruppo non individuale.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gLxpE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U087RH5C7FA"
+                },
+                {
+                  "type": "text",
+                  "text": " mi fai un esempio di come potrebbero essere usati questi log al fine di controllare e in conflitto con art. 4? \n\nIo resto piuttosto convinto che se il prompt genera il codice, il prompt sia conoscenza aziendale che fa messo a disposizione di tutti.\n\nPoi mi sta anche bene immaginare che ci possano essere dei workspace “privati”, se questo sarà deciso aziendalmente.\n\nCi sono azienda come Upsun che stanno rilasciano AI centralizzate dove il prompt è centralizzato e visibile da tutto il team.\n\nScrivere software è uno sport di gruppo non individuale."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786020580.386389",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U096LKSL2T0> e <@U0B0ZPLKA3B> potete capire se c’è qualche normativa che ci vieta di poter tracciare il prompt se questo viene preventivamente comunicato e reso esplicito?",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "icf1T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " e "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U0B0ZPLKA3B"
+                },
+                {
+                  "type": "text",
+                  "text": " potete capire se c’è qualche normativa che ci vieta di poter tracciare il prompt se questo viene preventivamente comunicato e reso esplicito?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786020909.994329",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U0B0ZPLKA3B> va approfondito anche se lato NIS2 abbiamo qualche obbligo",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+TmRN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0B0ZPLKA3B"
+                },
+                {
+                  "type": "text",
+                  "text": " va approfondito anche se lato NIS2 abbiamo qualche obbligo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786021189.324549",
+      "thread_ts": "1786004481.824729",
+      "user": "U087RH5C7FA",
+      "text": "Non sono un esperto in tema giuridico però sicuramente vanno attenzionate ad esempio la possibilità di fare:\n• Controllo dei tempi di lavoro (verifichi quando uno inizia a promptare e quando finisce)\n• Misurazione performance (quanti prompt/tempo servono ad A per finire una issue rispetto a B, che mi direte che si vede pure su Jira però non è proprio la stessa cosa)\n• Leggere dati personali del dipendente che anche se per errore suo ha corretto una mail o fatto altri utilizzi impropri di AI\nPreciso che io non ho dubbi che non sarà questo l'utilizzo di Madisoft dei miei prompt però da quello che sono stato in grado di documentarmi il problema è la potenzialità dello strumento (discorso equivalente a quello su TrendMicro).",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TLG13",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Non sono un esperto in tema giuridico però sicuramente vanno attenzionate ad esempio la possibilità di fare:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Controllo dei tempi di lavoro (verifichi quando uno inizia a promptare e quando finisce)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Misurazione performance (quanti prompt/tempo servono ad A per finire una issue rispetto a B, che mi direte che si vede pure su Jira però non è proprio la stessa cosa)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Leggere dati personali del dipendente che anche se per errore suo ha corretto una mail o fatto altri utilizzi impropri di AI"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Preciso che io non ho dubbi che non sarà questo l'utilizzo di Madisoft dei miei prompt però da quello che sono stato in grado di documentarmi il problema è la potenzialità dello strumento (discorso equivalente a quello su TrendMicro)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786021359.735289",
+      "thread_ts": "1786004481.824729",
+      "user": "U09P40E8LN6",
+      "text": "My 2 cents: il rischio è che il logging nominativo peggiori proprio il dato che vogliamo misurare.\n\nIl prompt non è un artefatto come il codice: il codice che finisce in git è la versione che ho deciso di mostrare, il prompt è il ragionamento grezzo : la domanda banale, la cosa che non ho capito, la stessa richiesta riformulata sei volte. Se so che è attribuibile e leggibile, non scrivo più così: scrivo prompt presentabili invece che efficaci. E nel caso peggiore qualcuno smette di usare il tool aziendale e apre ChatGPT sul telefono, che per noi significa shadow AI e codice fuori dal perimetro.\nQuindi i classificatori finirebbero per misurare un comportamento in posa, non il lavoro reale. Sull'obiettivo sono d'accordo con te, i pattern di utilizzo sono conoscenza aziendale: è sul formato che ho dei dubbi. Aggregati per team e una prompt library dove pubblico io quello che vale la pena condividere ci danno quasi tutto il valore senza questo effetto.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KELEG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "My 2 cents: il rischio è che il logging nominativo peggiori proprio il dato che vogliamo misurare.\n\nIl prompt non è un artefatto come il codice: il codice che finisce in git è la versione che ho deciso di mostrare, il prompt è il ragionamento grezzo : la domanda banale, la cosa che non ho capito, la stessa richiesta riformulata sei volte. Se so che è attribuibile e leggibile, non scrivo più così: scrivo prompt presentabili invece che efficaci. E nel caso peggiore qualcuno smette di usare il tool aziendale e apre ChatGPT sul telefono, che per noi significa shadow AI e codice fuori dal perimetro.\nQuindi i classificatori finirebbero per misurare un comportamento in posa, non il lavoro reale. Sull'obiettivo sono d'accordo con te, i pattern di utilizzo sono conoscenza aziendale: è sul formato che ho dei dubbi. Aggregati per team e una prompt library dove pubblico io quello che vale la pena condividere ci danno quasi tutto il valore senza questo effetto."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786021469.195239",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U09P40E8LN6> molto chiaro quello che dici e condivisibile. Grazie per la condivisione :wink::relaxed:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "epLCw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " molto chiaro quello che dici e condivisibile. Grazie per la condivisione "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                },
+                {
+                  "type": "emoji",
+                  "name": "relaxed",
+                  "unicode": "263a-fe0f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786021475.773789",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "Comunque i pattern di utilizzo non sono una cosa che può emergere dai log. È un po' come i tool di session replay: io registro tutto, poi? Passo le giornate a guardarle? Secondo me sono cose da cop",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5w99p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Comunque i pattern di utilizzo non sono una cosa che può emergere dai log. È un po' come i tool di session replay: io registro tutto, poi? Passo le giornate a guardarle? Secondo me sono cose da cop"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786022024.312319",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "Io ho paura che l’AI ci faccia diventare ancora di più delle isole. Io insisto sul fatto che scrivere software è un'attività di team e vorrei che le persone nei team lavorassero di più insieme. Non c’è modo più veloce di passare conoscenza che con sessioni di pair programming o mob programming. Probabilmente avete le vostre ragioni nel non voler attivare i log, ma invito tutti a non fare in modo che l’AI diventi ancora di più un modo per isolarsi. Questo sarebbe un grande fallimento. ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XUw6f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Io ho paura che l’AI ci faccia diventare ancora di più delle isole. Io insisto sul fatto che scrivere software è un'attività di team e vorrei che le persone nei team lavorassero di più insieme. Non c’è modo più veloce di passare conoscenza che con sessioni di pair programming o mob programming. Probabilmente avete le vostre ragioni nel non voler attivare i log, ma invito tutti a non fare in modo che l’AI diventi ancora di più un modo per isolarsi. Questo sarebbe un grande fallimento. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786025883.774369",
+      "thread_ts": "1786004481.824729",
+      "user": "U0B0ZPLKA3B",
+      "text": "ciao a tutti, qualche osservazione lato mio:\n\n1. il logging è un obbligo, non un'opzione. Come soggetto NIS2 essenziale e fornitore ACN QC1, dobbiamo garantire la tracciabilità delle operazioni. Senza log, in caso di incidente o data breach, non avremmo modo di difenderci o ricostruire l'accaduto. \n2. caso specifico di OpenRouter:\n    a. nella <https://openrouter.ai/docs/guides/features/input-output-logging|openrouter.ai/docs/guides/features/input-output-logging> dicono esplicitamente che il logging di input &amp; output non si applica all'EU (quindi problema risolto a monte per il momento).\n    b. danno la possibilità di inviare log esternamente, valuteremo poi quando disponibile per l'EU il da farsi avendo a disposizione AWS ed un SIEM esterno.\n3. per evitare passi falsi su temi così delicati, vi chiedo gentilmente che qualsiasi decisione che impatti sulla sicurezza o sulla conservazione dei dati sia discussa prima di essere implementata.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EdfkP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ciao a tutti, qualche osservazione lato mio:\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "il logging è un obbligo, non un'opzione. Come soggetto NIS2 essenziale e fornitore ACN QC1, dobbiamo garantire la tracciabilità delle operazioni. Senza log, in caso di incidente o data breach, non avremmo modo di difenderci o ricostruire l'accaduto. "
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "caso specifico di OpenRouter:"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "nella "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://openrouter.ai/docs/guides/features/input-output-logging",
+                      "text": "openrouter.ai/docs/guides/features/input-output-logging",
+                      "truncated": true
+                    },
+                    {
+                      "type": "text",
+                      "text": " dicono esplicitamente che il logging di input & output non si applica all'EU (quindi problema risolto a monte "
+                    },
+                    {
+                      "type": "text",
+                      "text": "per il momento",
+                      "style": {
+                        "underline": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": ")."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "danno la possibilità di inviare log esternamente, valuteremo poi quando disponibile per l'EU il da farsi avendo a disposizione AWS ed un SIEM esterno."
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "per evitare passi falsi su temi così delicati, vi chiedo gentilmente che qualsiasi decisione che impatti sulla sicurezza o sulla conservazione dei dati sia discussa "
+                    },
+                    {
+                      "type": "text",
+                      "text": "prima ",
+                      "style": {
+                        "underline": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "di essere implementata."
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 2,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786026006.289049",
+      "thread_ts": "1786004481.824729",
+      "user": "U09P40E8LN6",
+      "text": "asp pasquale noi non ci agganciamo ai provider eu , per quello i logging si vedono",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rjoQw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "asp pasquale noi non ci agganciamo ai provider eu , per quello i logging si vedono"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786026054.258589",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "ma penso che quello sia a monte del provider",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tt1Sj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma penso che quello sia a monte del provider"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786026088.827329",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "ah ok lo spengono se limitiamo i provider eu",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Ee6v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ah ok lo spengono se limitiamo i provider eu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786026123.950439",
+      "thread_ts": "1786004481.824729",
+      "user": "U0B0ZPLKA3B",
+      "text": "raga ma 3 cose vi ho chiesto, zdr, eu e configurazione per prevenzione leak",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bQ4RV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "raga ma 3 cose vi ho chiesto, zdr, eu e configurazione per prevenzione leak"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786026154.162479",
+      "thread_ts": "1786004481.824729",
+      "user": "U09P40E8LN6",
+      "text": "ma noi che c'entriamo? :rolling_on_the_floor_laughing: è da ieri che ho scritto che in teoria non siamo compliant",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FEpWm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma noi che c'entriamo? "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                },
+                {
+                  "type": "text",
+                  "text": " è da ieri che ho scritto che in teoria non siamo compliant"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786026163.919419",
+      "thread_ts": "1786004481.824729",
+      "user": "U09P40E8LN6",
+      "text": "perchè bisognerebbe spegnere tutto e ci rimarrebbero 3 modelli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GQZt5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè bisognerebbe spegnere tutto e ci rimarrebbero 3 modelli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786026166.969609",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "siamo ancora in sperimentazione su openrouter",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uEs2c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "siamo ancora in sperimentazione su openrouter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786027588.451229",
+      "thread_ts": "1786004481.824729",
+      "user": "U096LKSL2T0",
+      "text": "<@U0B0ZPLKA3B> non siamo ancora in EU, ci stiamo lavorando; stamattina ho giusto scritto una mail con te in /cc per richiedere l'attivazione del routing esclusivo in EU :+1:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VAce/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0B0ZPLKA3B"
+                },
+                {
+                  "type": "text",
+                  "text": " non siamo ancora in EU, ci stiamo lavorando; stamattina ho giusto scritto una mail con te in /cc per richiedere l'attivazione del routing esclusivo in EU "
+                },
+                {
+                  "type": "emoji",
+                  "name": "+1",
+                  "unicode": "1f44d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786027640.284109",
+      "thread_ts": "1786004481.824729",
+      "user": "U096LKSL2T0",
+      "text": "<@U08KA9A2BMZ> su AI e \"isole\": oggi abbiamo fatto 2h di mob programming usando l'AI, paradossalmente :joy:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rocket",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        },
+        {
+          "name": "heart",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oyRfp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                },
+                {
+                  "type": "text",
+                  "text": " su AI e \"isole\": oggi abbiamo fatto 2h di mob programming usando l'AI, paradossalmente "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786028437.395099",
+      "thread_ts": "1786004481.824729",
+      "user": "U08F42UJQEP",
+      "text": "<@U08KA9A2BMZ> io sulla condivisione sono d'accordo, a livello di team abbiamo fatto dei momenti di mob programming che sono stati belli, però non penso che la condivisione debba essere un processo forzato in quel modo perchè secondo me si ottiene l'effetto opposto, come minimo la gente torna a fare le cose a mano perchè sa che con l'IA potrebbe essere spiata o a smettere di condividere altri aspetti perchè sente la propria unicità minata da un log. Oltre al fatto che come ho detto prima è abbastanza impegnativo ricostruire i pattern di utilizzo dai log di openrouter. Quindi secondo me il costo sociale di tenere attivato l'I/O logging è più alto dei benefici che ne derivano.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PK9wU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                },
+                {
+                  "type": "text",
+                  "text": " io sulla condivisione sono d'accordo, a livello di team abbiamo fatto dei momenti di mob programming che sono stati belli, però non penso che la condivisione debba essere un processo forzato in quel modo perchè secondo me si ottiene l'effetto opposto, come minimo la gente torna a fare le cose a mano perchè sa che con l'IA potrebbe essere spiata o a smettere di condividere altri aspetti perchè sente la propria unicità minata da un log. Oltre al fatto che come ho detto prima è abbastanza impegnativo ricostruire i pattern di utilizzo dai log di openrouter. Quindi secondo me il costo sociale di tenere attivato l'I/O logging è più alto dei benefici che ne derivano."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786029469.726759",
+      "thread_ts": "1786004481.824729",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U08F42UJQEP> capisco il tuo punto di vista, non sono sicuro di condividerlo, ma per convincermi ho bisogno di un confronto diretto, perché sono convinto che stiamo guardando problemi diversi. \n\nComunque il problema che vorrei risolvere non è come controllare le persone. Io non ne sento il bisogno e mai l’ho sentito. Sapere che le persone pigiano tasti non mi interessa particolarmente :stuck_out_tongue_closed_eyes:. \n\nResto più interessato all’outcome e come le nostre decisioni impattano sui numeri e la crescita dell’azienda :wink:. \n\nIn questa direzione quindi mi interessa sapere come gli investimenti in AI migliorano il nostro “outcome”. Come ci permette di prendere decisioni migliori, di sbagliare più velocemente per trovare la giusta strada, di delegare task ripetitivi per lasciare spazio al pensiero lento e così via.\n\nAnyway, per le metriche aggregate vanno bene, non mi interessa avere misure individuali. Tuttavia, io resto della mia idea che quando faccio lavorare l’AI, il prompt che gli do in pasto ha tanto valore quanto la risposta che lui mi dà. \n\nIo ho spesso condiviso insieme alle risposte anche il prompt usato perché per me da più valore alla risposta stessa.\n\nSono d’accordo che sia giusto però che sia la persona a decidere che cosa condividere, con chi e quando.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ukX96",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " capisco il tuo punto di vista, non sono sicuro di condividerlo, ma per convincermi ho bisogno di un confronto diretto, perché sono convinto che stiamo guardando problemi diversi. \n\nComunque il problema che vorrei risolvere non è come controllare le persone. Io non ne sento il bisogno e mai l’ho sentito. Sapere che le persone pigiano tasti non mi interessa particolarmente "
+                },
+                {
+                  "type": "emoji",
+                  "name": "stuck_out_tongue_closed_eyes",
+                  "unicode": "1f61d"
+                },
+                {
+                  "type": "text",
+                  "text": ". \n\nResto più interessato all’outcome e come le nostre decisioni impattano sui numeri e la crescita dell’azienda "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                },
+                {
+                  "type": "text",
+                  "text": ". \n\nIn questa direzione quindi mi interessa sapere come gli investimenti in AI migliorano il nostro “outcome”. Come ci permette di prendere decisioni migliori, di sbagliare più velocemente per trovare la giusta strada, di delegare task ripetitivi per lasciare spazio al pensiero lento e così via.\n\nAnyway, per le metriche aggregate vanno bene, non mi interessa avere misure individuali. Tuttavia, io resto della mia idea che quando faccio lavorare l’AI, il prompt che gli do "
+                },
+                {
+                  "type": "text",
+                  "text": "in "
+                },
+                {
+                  "type": "text",
+                  "text": "pasto "
+                },
+                {
+                  "type": "text",
+                  "text": "ha tanto valore quanto"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "la "
+                },
+                {
+                  "type": "text",
+                  "text": "risposta che lui mi dà. \n\nIo ho spesso condiviso insieme alle risposte anche il prompt usato perché per me da più valore alla risposta stessa.\n\nSono d’accordo che sia giusto però che sia la persona a decidere che cosa condividere, con chi e quando."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U087RH5C7FA",
+      "name": "lorenzo.piersante",
+      "real_name": "Lorenzo Piersante",
+      "email": "lorenzo.piersante@madisoft.it"
+    },
+    {
+      "id": "U0B0ZPLKA3B",
+      "name": "pasquale.siciliano",
+      "real_name": "Pasquale Siciliano",
+      "email": "pasquale.siciliano@madisoft.it"
+    }
+  ]
+}

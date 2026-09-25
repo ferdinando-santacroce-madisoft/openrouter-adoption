@@ -1,0 +1,167 @@
+schema_version: 1
+
+manifest:
+  id: openrouter-confluence
+  title: "Manifest di pubblicazione dei documenti di selezione software OpenRouter"
+  created_at: "2026-09-25"
+  owner: Nando
+  status: approved
+  purpose: >-
+    Governare la pubblicazione e la sincronizzazione dei documenti locali della
+    selezione software OpenRouter nello spazio Confluence TIS (Team IT &
+    Security). Git resta la sorgente di verita dei contenuti; Confluence e la
+    vista navigabile aziendale, agganciata al database "Selezione Software".
+    Le modifiche esterne al corpo delle pagine vengono intercettate dal drift
+    check prima di ogni update.
+  source_root: .
+  source_inventory:
+    captured_at: "2026-09-25"
+    files_in_scope: 3
+    markdown: 3
+    excludes:
+      - manifest-confluence.yaml
+      - snapshots-confluence/
+      - scripts/
+  canonical_sources:
+    openrouter_documents:
+      system: git
+      location: contenuti
+      rule: >-
+        Il contenuto gestito dal repository si modifica localmente, si verifica
+        e poi si pubblica. In Confluence si raccolgono commenti e feedback, non
+        modifiche concorrenti al corpo delle pagine managed-from-git.
+  published_read_model:
+    system: confluence
+    space_key: TIS
+    rule: >-
+      Confluence e la vista navigabile aziendale dei documenti di selezione
+      software, non una seconda fonte dei dati.
+
+confluence:
+  site: madisoft
+  base_url: https://madisoft.atlassian.net/wiki
+  verified_at: "2026-09-25"
+  verified_with: twg-1.3.1
+  space:
+    key: TIS
+    id: "245432324"
+    name: "Team IT & Security"
+    type: knowledge_base
+    status: current
+
+database:
+  title: "Selezione Software"
+  id: "38142402"
+  space_key: TIS
+  row:
+    id: "6"
+    nome: "Open Router"
+    documento_field: Documento
+    documento_target: ssr_adozione_openrouter
+    owner_aaid: "712020:cf28d238-3b6f-482d-ba7e-f40bccf4bc78"
+    stato: "In corso"
+
+publication_policy:
+  default_content_type: page
+  default_content_width: wide
+  initial_visibility: visible
+  write_guard: >-
+    Ogni create, update, move, label, permission change, archive o delete
+    richiede autorizzazione esplicita preventiva di Nando sul comando TWG
+    e sui target.
+  managed_page_editing: >-
+    Le pagine con label managed-from-git si aggiornano dal repository. I
+    colleghi propongono modifiche con commenti oppure tramite il ciclo di
+    revisione locale.
+  update_protocol:
+    - detect_external_drift
+    - read_current_html_and_snapshot
+    - prepare_body_file
+    - show_exact_twg_command_and_targets
+    - obtain_nando_authorization
+    - update_with_fresh_snapshot
+    - read_back_and_verify
+    - record_content_id_url_commit_and_hash
+  dispositions:
+    publish_page: pagina canonica pubblicabile dopo il gate indicato
+    local_only: artefatto operativo o editoriale che resta locale
+    archive_only: storico escluso dalla navigazione principale
+    publish_hold: pagina destinata a Confluence ma non pubblicata per ora (esclusa da gen-body --all e dal drift check)
+
+transformation_rules:
+  title:
+    - Il titolo Confluence e separato dal body.
+    - Rimuovere dal body l'H1 locale che ripete il titolo.
+  links:
+    - Riscrivere i link relativi tra i documenti in URL Confluence assoluti dei content ID registrati nel manifest.
+    - Trasformare le singole chiavi Jira in smart link stabili.
+    - Correggere o bloccare i link semanticamente invalidi prima della pubblicazione.
+  markdown:
+    - Le tabelle ampie richiedono content-width wide o max.
+    - Le task list Markdown non diventano task Confluence interattivi.
+    - Usare HTML quando servono task list, macro, panel, immagini o round-trip lossless.
+    - Le sezioni racchiuse tra "CONFLUENCE-LOCAL-ONLY" e "/CONFLUENCE-LOCAL-ONLY" sono interne al repository e non si pubblicano.
+  evidence:
+    - Conservare le marcature [M] e [I] nei documenti che le usano.
+    - Mostrare data e fonte di ogni snapshot operativo.
+
+labels:
+  global:
+    - openrouter
+    - managed-from-git
+
+target_hierarchy:
+  selezione_software:
+    title: "Selezione Software"
+    content_id: "38142402"
+    parent_ref: null
+    status: existing
+  corporate_it:
+    title: "Corporate IT"
+    content_id: "245596166"
+    parent_ref: null
+    status: existing
+
+batches:
+  openrouter_managed_pages:
+    order: 0
+    goal: "Pubblicazione e sincronizzazione delle 3 pagine della selezione software OpenRouter nello spazio TIS."
+    gate: local_content_approved_by_nando
+
+artifacts:
+  - source: contenuti/ssr-adozione-openrouter.md
+    kind: ssr
+    disposition: publish_page
+    target_key: ssr_adozione_openrouter
+    parent_ref: selezione_software
+    title: "Software Selection Record (SSR) - OpenRouter"
+    batch: openrouter_managed_pages
+    maturity: ready_for_refinement
+    publication_status: draft
+    confluence_version: null
+    content_id: null
+    url: null
+  - source: contenuti/pitch-adozione-openrouter.md
+    kind: pitch
+    disposition: publish_page
+    target_key: pitch_adozione_openrouter
+    parent_ref: selezione_software
+    title: "Pitch: adozione OpenRouter"
+    batch: openrouter_managed_pages
+    maturity: ready_for_refinement
+    publication_status: draft
+    confluence_version: null
+    content_id: null
+    url: null
+  - source: contenuti/report-finale-openrouter.md
+    kind: report
+    disposition: publish_page
+    target_key: report_finale_openrouter
+    parent_ref: selezione_software
+    title: "Report finale: sperimentazione OpenRouter"
+    batch: openrouter_managed_pages
+    maturity: ready_for_refinement
+    publication_status: draft
+    confluence_version: null
+    content_id: null
+    url: null

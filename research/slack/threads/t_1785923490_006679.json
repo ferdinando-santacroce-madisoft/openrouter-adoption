@@ -1,0 +1,102 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 3,
+  "messages": [
+    {
+      "ts": "1785923490.006679",
+      "thread_ts": "1785923490.006679",
+      "user": "U08F42UJQEP",
+      "text": "per me anche tra 10 minuti",
+      "type": "message",
+      "reply_count": 2,
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pQKrL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per me anche tra 10 minuti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785923522.177339",
+      "thread_ts": "1785923490.006679",
+      "user": "U096LKSL2T0",
+      "text": "ti mando un Meet",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ab3Y4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ti mando un Meet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785923531.399979",
+      "thread_ts": "1785923490.006679",
+      "user": "U08F42UJQEP",
+      "text": "ok grazie",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xx8+f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok grazie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

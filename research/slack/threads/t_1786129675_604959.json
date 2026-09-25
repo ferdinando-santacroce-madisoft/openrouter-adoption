@@ -1,0 +1,115 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 3,
+  "messages": [
+    {
+      "ts": "1786129675.604959",
+      "thread_ts": "1786129675.604959",
+      "user": "U09P40E8LN6",
+      "text": "",
+      "type": "message",
+      "reply_count": 2,
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U0AKR9GTN4U",
+            "U0B0ZPLKA3B"
+          ],
+          "count": 2
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BNWJNJ4BB",
+          "name": "IMG_3739.jpg",
+          "title": "IMG_3739",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "size": 202445,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNWJNJ4BB/img_3739.jpg",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNWJNJ4BB/img_3739.jpg",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786345630.029129",
+      "thread_ts": "1786129675.604959",
+      "user": "U08F42UJQEP",
+      "text": "",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6",
+            "U096LKSL2T0"
+          ],
+          "count": 2
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BNP6381RD",
+          "name": "on_your_infra.png",
+          "title": "on_your_infra.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 789121,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNP6381RD/on_your_infra.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNP6381RD/on_your_infra.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1786345758.992379",
+      "thread_ts": "1786129675.604959",
+      "user": "U08F42UJQEP",
+      "text": "questo si chiama modello \"self-hosted as your sister\"",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6",
+            "U096LKSL2T0"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Rrktl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "questo si chiama modello \"self-hosted as your sister\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

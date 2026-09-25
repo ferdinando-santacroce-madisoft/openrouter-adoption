@@ -1,0 +1,471 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 15,
+  "messages": [
+    {
+      "ts": "1785240995.387539",
+      "thread_ts": "1785240995.387539",
+      "user": "U08KA9A2BMZ",
+      "text": "Trovato anche questo workshop del buon Vaccari <https://www.avanscoperta.it/it/training/ai-continuous-modernisation-workshop/|https://www.avanscoperta.it/it/training/ai-continuous-modernisation-workshop/> ",
+      "type": "message",
+      "reply_count": 14,
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CD2vC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Trovato anche questo workshop del buon Vaccari "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.avanscoperta.it/it/training/ai-continuous-modernisation-workshop/",
+                  "text": "https://www.avanscoperta.it/it/training/ai-continuous-modernisation-workshop/"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://www.avanscoperta.it/it/training/ai-continuous-modernisation-workshop/",
+          "service_icon": "https://www.avanscoperta.it/wp-content/uploads/2024/11/cropped-avanscoperta_monogram_pieno-180x180.png",
+          "thumb_url": "https://www.avanscoperta.it/wp-content/uploads/2026/02/AI-Continuous-Modernisation-Workshop-Vaccari.png",
+          "thumb_width": 800,
+          "thumb_height": 800,
+          "ts": 1770137983,
+          "id": 1,
+          "original_url": "https://www.avanscoperta.it/it/training/ai-continuous-modernisation-workshop/",
+          "fallback": "Avanscoperta | We are Learners!: AI + Continuous Modernisation Workshop | Avanscoperta",
+          "text": "Workshop pratico per CTO e senior developer, con Matteo Vaccari, su come usare agentic AI per modernizzare in modo sicuro sistemi critici.",
+          "title": "AI + Continuous Modernisation Workshop | Avanscoperta",
+          "title_link": "https://www.avanscoperta.it/it/training/ai-continuous-modernisation-workshop/",
+          "service_name": "Avanscoperta | We are Learners!"
+        }
+      ]
+    },
+    {
+      "ts": "1785241201.330439",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "dalle 9:30 alle 13 ma non ci sono le date :smile: lui l'ho sentito oggi su linkedin per sapere se valuta le skill che scrive",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1uujL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dalle 9:30 alle 13 ma non ci sono le date "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": " lui l'ho sentito oggi su linkedin per sapere se valuta le skill che scrive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241206.591969",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "mi piace tantissimo lui",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z23S1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mi piace tantissimo lui"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241231.236969",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "ho visto un paio di settimane fa un suo speach dove parlava dei test con l'ai",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wd4I0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ho visto un paio di settimane fa un suo speach dove parlava dei test con l'ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241269.694649",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "la cosa che mi ha fatto ridere è che ha detto che il mutation testing ancora non è sufficiente, due giorni dopo che l'ho inserito nel mio progetto con l'ia",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0f8aU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "la cosa che mi ha fatto ridere è che ha detto che il mutation testing ancora non è sufficiente, due giorni dopo che l'ho inserito nel mio progetto con l'ia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241312.541679",
+      "thread_ts": "1785240995.387539",
+      "user": "U08KA9A2BMZ",
+      "text": "Matteo ha tanta esperienza, tende ad essere solitamente divisivo, c’è chi lo ama e chi lo odia :joy:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OEEXk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Matteo ha tanta esperienza, tende ad essere solitamente "
+                },
+                {
+                  "type": "text",
+                  "text": "divisivo"
+                },
+                {
+                  "type": "text",
+                  "text": ", c’è chi lo ama e chi lo odia "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241331.964369",
+      "thread_ts": "1785240995.387539",
+      "user": "U08KA9A2BMZ",
+      "text": "Però in media quello che dice ha un senso, poi come sempre va pesato e contestualizzato",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2OYu1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Però in media quello che dice ha un senso, poi come sempre va pesato e contestualizzato"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241380.655299",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "a me lui piace, poi le cose che diceva lui erano per go dove i test sono tutti dichiarativi e non scrivi codice per i test",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CpTHg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a me lui piace, poi le cose che diceva lui erano per go dove i test sono tutti dichiarativi e non scrivi codice per i test"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241386.982129",
+      "thread_ts": "1785240995.387539",
+      "user": "U08KA9A2BMZ",
+      "text": "Se vogliamo farci organizzare un Workshop sento Alberto quanto ci fa pagare per uno dedicato a noi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WzSXn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Se vogliamo farci organizzare un Workshop sento Alberto quanto ci fa pagare per uno dedicato a noi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241396.126149",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "quindi forse alla fine era più una sviolinata a come sono fatti i test in go",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vXWhw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "quindi forse alla fine era più una sviolinata a come sono fatti i test in go"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241416.501099",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "Alberto chi?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3cqIM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Alberto chi?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241441.989429",
+      "thread_ts": "1785240995.387539",
+      "user": "U08KA9A2BMZ",
+      "text": "Zio Brando, il boss di Avanscoperta",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VFH4r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Zio Brando, il boss di Avanscoperta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241447.294689",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "ah ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ANCMi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ah ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241465.666869",
+      "thread_ts": "1785240995.387539",
+      "user": "U08F42UJQEP",
+      "text": "quello sicuramente interesserebbe diverse persone",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r23Lb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "quello sicuramente interesserebbe diverse persone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785241525.278579",
+      "thread_ts": "1785240995.387539",
+      "user": "U08KA9A2BMZ",
+      "text": "Ok, quando torna <@U096LKSL2T0> dalle vacanze magari sente Zio Brando per capire un po’ organizzazione e costi",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "top",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        },
+        {
+          "name": "rocket",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QSfPa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ok, quando torna "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " dalle vacanze magari sente Zio Brando per capire un po’ organizzazione e costi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

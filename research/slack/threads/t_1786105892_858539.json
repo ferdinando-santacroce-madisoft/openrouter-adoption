@@ -1,0 +1,215 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 6,
+  "messages": [
+    {
+      "ts": "1786105892.858539",
+      "thread_ts": "1786105892.858539",
+      "user": "U08KA9A2BMZ",
+      "text": "<https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/|https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/> ",
+      "type": "message",
+      "reply_count": 5,
+      "reactions": [
+        {
+          "name": "heart_eyes",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "umH6k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+                  "text": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://www.oreilly.com/library/cover/0642572344306/1200w630h/",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 236894,
+          "from_url": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+          "service_icon": "http://www.oreilly.com/favicon.ico",
+          "id": 1,
+          "original_url": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+          "fallback": "O’Reilly Online Learning: Agentic Engineering at Scale",
+          "text": "Every senior engineer has experienced it: Productivity gains from AI coding assistants work brilliantly in a prototype but hit a wall when faced with a legacy codebase or a system... - Selection from Agentic Engineering at Scale [Book]",
+          "title": "Agentic Engineering at Scale",
+          "title_link": "https://www.oreilly.com/library/view/agentic-engineering-at/0642572344306/",
+          "service_name": "O’Reilly Online Learning"
+        }
+      ]
+    },
+    {
+      "ts": "1786105930.078989",
+      "thread_ts": "1786105892.858539",
+      "user": "U08F42UJQEP",
+      "text": "grazie, questo lo voglio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YYEft",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "grazie, questo lo voglio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786105988.972779",
+      "thread_ts": "1786105892.858539",
+      "user": "U08F42UJQEP",
+      "text": "poi guardo le review, ma soprattutto il sottotitolo è molto sexy",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rVOcT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "poi guardo le review, ma soprattutto il sottotitolo è molto sexy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786106039.075969",
+      "thread_ts": "1786105892.858539",
+      "user": "U08KA9A2BMZ",
+      "text": "L’autore è uno di quelli che dovrebbe dire cose di senso. Poi da capire sempre se fa fit con nostro contesto.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Iophj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "L"
+                },
+                {
+                  "type": "text",
+                  "text": "’autore "
+                },
+                {
+                  "type": "text",
+                  "text": "è uno di quelli che dovrebbe dire cose di senso. Poi da capire sempre se fa fit con nostro contesto."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786106191.132679",
+      "thread_ts": "1786105892.858539",
+      "user": "U08F42UJQEP",
+      "text": "comunque se è quello che penso io è in linea con i giochini che faccio nel tempo libero, quindi se le review son buone lo prendo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "waizd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque se è quello che penso io è in linea con i giochini che faccio nel tempo libero, quindi se le review son buone lo prendo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1786106289.934019",
+      "thread_ts": "1786105892.858539",
+      "user": "U096LKSL2T0",
+      "text": "Ho abbonamento O'Reilly... :face_with_hand_over_mouth:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kj0MX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho abbonamento O'Reilly... "
+                },
+                {
+                  "type": "emoji",
+                  "name": "face_with_hand_over_mouth",
+                  "unicode": "1f92d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

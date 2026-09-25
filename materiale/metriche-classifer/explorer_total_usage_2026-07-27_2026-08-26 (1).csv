@@ -1,0 +1,4 @@
+Tool Loop Usage,Value,% of Total
+read_write_execute_loop,33.056226,79.59
+read_only_tools,6.526626,15.71
+no_tools,1.948346,4.69

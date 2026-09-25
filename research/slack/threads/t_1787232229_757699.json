@@ -1,0 +1,678 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 11,
+  "messages": [
+    {
+      "ts": "1787232229.757699",
+      "thread_ts": "1787232229.757699",
+      "user": "U08KA9A2BMZ",
+      "text": "Ho una domanda socio-tecnica / psicologica da rivolgervi. Negli anni la psicologia e in particolare le scienze applicate ai sistemi complessi (come quelli organizzativi), hanno spostato il modello organizzato da quello predittivo / meccanicistico / taylorista che cercava di ottimizzare l'uomo come si ottimizzano le macchine, al design socio-tecnico basato più sul metodo di ricerca scientifica. Il riassunto sugli approcci potrebbe essere il seguente:\n\n&gt; The old paradigm\n&gt; • redundancy of parts\n&gt; • external coordination and control\n&gt; • autocracy\n&gt; • fragmented socio-technica system\n&gt; • technological imperative-man as extension of machine, a commodity\n&gt; • organizational design based on total specification\n&gt; • maximum task breakdown, narrow skilis\n&gt; • building block is one person - one task\n&gt; • alienation\n&gt; \n&gt; The new paradigm\n&gt; • redundancy of functions\n&gt; • internal coordination and control\n&gt; • democracy\n&gt; • joint optimization of the socio-technical system\n&gt; • man is complementary to the machine and a resource to be developed\n&gt; • organization design based on minimum critical specification\n&gt; • optimum task grouping, multiple broad skilis\n&gt; • building block is a self-managing social system\n&gt; • involvement and commitment\nScrivere software è una delle industry che ha più beneficiato nel disegnare le organizzazione come sistemi socio tecnici, perché risolvere problemi di business attraverso il software è un'attività complessa che si basa principalmente sull'apprendimento e su tecniche empiriche.\n\nNel tempo la nostra industry ha declinato questa metodologia con:\n\n• Conway's law\n• Manifesto Agile\n• Team Topology \n• Management 3.0\nCioè è passato in sintensi dal disegnare organizzazione che controllano il lavoro degli sviluppatori, a disegnare aziende fatte di team di prodotto cross funzionali e autonomi, che sono responsabile dell'intero ciclo di vita del proprio prodotto.\n\nOra, pensando all'inserimento di Agenti Sintetici in un'organizzazione, questo modifica ancora una volta quello che abbiamo scoperto, o semplicemente lo conferma, evolve e potenzia?\n\nSecondo me disegnare un'organizzazione fatta da umani, sistemi e agenti sistemici, rientra di nuovo a pieno titolo all'interno di come si gestiscono sistemi complessi. E quello che abbiamo scoperto negli ultimi 30 anni e più, assume di nuovo forza.\n\nSe la mia tesi è corretta, allora il problema diventa di nuovo, non disegnare un'organizzazione che controlla gli agenti sintetici, ma disegnare sistemi socio tecnici basati sui principi del nuovo paradigma scritto sopra.\n\nIn soldoni, noi oggi abbiamo disegnato un'organizzazione in grado di misurare gli outcome dei team e non gli output, misuriamo metriche come:\n• Issue metrics (Cycle Time, Review Rate, Time to first review, PR merged)\n• Focus Metrics\n• DORA metrics (Deployment frequency, deployment count, change to lead time, time to deploy, change failure rate, time to recovery)\n• Code metrics (Code health, Hot spot, code coverage, ecc)\nIl ruolo della Tech Leadership oggi, è creare team autonomi che si auto gestiscono, attraverso il disegno del giusto ambiente, cultura, processi e metriche. Per me oggi il lavoro di un Software Engineer che decide di delegare lo sviluppo del codice ad agente sintetici, è un lavoro che richiede sempre più competenze di Tech Leadership, engineering management e organization design. Se questo è vero, come possiamo non reinvetarci la ruota, ma arricchire le nostre competenze di queste skill che hanno più a che fare con la psicologia, la sociologia, che con la tecnica?\n\nChe ne pensate?",
+      "type": "message",
+      "reply_count": 10,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BdmhE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho una domanda socio-tecnica / psicologica da rivolgervi. Negli anni la psicologia e in particolare le scienze applicate ai sistemi complessi (come quelli organizzativi), hanno spostato il modello organizzato da quello predittivo / meccanicistico / taylorista che cercava di ottimizzare l'uomo come si ottimizzano le macchine, al design socio-tecnico basato più sul metodo di ricerca scientifica. Il riassunto sugli approcci potrebbe essere il seguente:\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "The old paradigm"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "redundancy of parts"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "external coordination and control"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "autocracy"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "fragmented socio-technica system"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "technological imperative-man as extension of machine, a commodity"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "organizational design based on total specification"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "maximum task breakdown, narrow skilis"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "building block is one person - one task"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "alienation"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 1
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nThe new paradigm"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "redundancy of functions"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "internal coordination and control"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "democracy"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "joint optimization of the socio-technical system"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "man is complementary to the machine and a resource to be developed"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "organization design based on minimum critical specification"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "optimum task grouping, multiple broad skilis"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "building block is a self-managing social system"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "involvement and commitment"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 1
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nScrivere software è una delle industry che ha più beneficiato nel disegnare le organizzazione come sistemi socio tecnici, perché risolvere problemi di business attraverso il software è un'attività complessa che si basa principalmente sull'apprendimento e su tecniche empiriche.\n\nNel tempo la nostra industry ha declinato questa metodologia con:\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Conway's law"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Manifesto Agile"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Team Topology "
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Management 3.0"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nCioè è passato in sintensi dal disegnare organizzazione che controllano il lavoro degli sviluppatori, a disegnare aziende fatte di team di prodotto cross funzionali e autonomi, che sono responsabile dell'intero ciclo di vita del proprio prodotto.\n\nOra, pensando all'inserimento di Agenti Sintetici in un'organizzazione, questo modifica ancora una volta quello che abbiamo scoperto, o semplicemente lo conferma, evolve e potenzia?\n\nSecondo me disegnare un'organizzazione fatta da umani, sistemi e agenti sistemici, rientra di nuovo a pieno titolo all'interno di come si gestiscono sistemi complessi. E quello che abbiamo scoperto negli ultimi 30 anni e più, assume di nuovo forza.\n\nSe la mia tesi è corretta, allora il problema diventa di nuovo, non disegnare un'organizzazione che controlla gli agenti sintetici, ma disegnare sistemi socio tecnici basati sui principi del nuovo paradigma scritto sopra.\n\nIn soldoni, noi oggi abbiamo disegnato un'organizzazione in grado di misurare gli outcome dei team e non gli output, misuriamo metriche come:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Issue metrics (Cycle Time, Review Rate, Time to first review, PR merged)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Focus Metrics"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "DORA metrics (Deployment frequency, deployment count, change to lead time, time to deploy, change failure rate, time to recovery)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Code metrics (Code health, Hot spot, code coverage, ecc)"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nIl ruolo della Tech Leadership oggi, è creare team autonomi che si auto gestiscono, attraverso il disegno del giusto ambiente, cultura, processi e metriche. Per me oggi il lavoro di un Software Engineer che decide di delegare lo sviluppo del codice ad agente sintetici, è un lavoro che richiede sempre più competenze di Tech Leadership, engineering management e organization design. Se questo è vero, come possiamo non reinvetarci la ruota, ma arricchire le nostre competenze di queste skill che hanno più a che fare con la psicologia, la sociologia, che con la tecnica?\n\nChe ne pensate?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787238441.519159",
+      "thread_ts": "1787232229.757699",
+      "user": "U08F42UJQEP",
+      "text": "Sicuramente l'introduzione degli agenti ha degli impatti da un punto di vista socio tecnico, la cosa che mi convince meno è trattare l'agente come se fosse umano e quindi pensare che le stesse metodologie possano essere applicate 1 a 1 su di un team di agenti mi stona un po'. Sicuramente ci sono cose che si possono distillare e applicare agli agenti ma io continuo a vederli di più come degli esoscheletri che come degli automi autonomi. Anche il concetto di team di agenti mi stona un po', specialmente se l'LLM sottostante rimane lo stesso visto che ogni modello normalmente eccelle in una qualche area (fable cyber security, kimi 3 frontend, ecc...) quindi anche dargli una persona normalmente serve solo a fargli cambiare punto di vista ma il set di capacità che mantiene sotto rimane lo stesso e nel peggiore dei casi è generalista. Però, a prescindere da questa obiezione, sono cose che esplorerei.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gy+Dk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sicuramente l'introduzione degli agenti ha degli impatti da un punto di vista socio tecnico, la cosa che mi convince meno è trattare l'agente come se fosse umano e quindi pensare che le stesse metodologie possano essere applicate 1 a 1 su di un team di agenti mi stona un po'. Sicuramente ci sono cose che si possono distillare e applicare agli agenti ma io continuo a vederli di più come degli esoscheletri che come degli automi autonomi. Anche il concetto di team di agenti mi stona un po', specialmente se l'LLM sottostante rimane lo stesso visto che ogni modello normalmente eccelle in una qualche area (fable cyber security, kimi 3 frontend, ecc...) quindi anche dargli una persona normalmente serve solo a fargli cambiare punto di vista ma il set di capacità che mantiene sotto rimane lo stesso e nel peggiore dei casi è generalista. Però, a prescindere da questa obiezione, sono cose che esplorerei."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787239507.652179",
+      "thread_ts": "1787232229.757699",
+      "user": "U08KA9A2BMZ",
+      "text": "La premessa alla mia tesi è se si usano agenti sintetici per fare attività autonome. Altrimenti rientriamo nel modello dell’assistente personale, che è chiaramente più semplice da “codificare” perché resta una componente “meccanica” che va fatta interagire con la parte “sociale”. ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Hpy+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "La premessa alla mia tesi è se si usano agenti sintetici per fare attività autonome. Altrimenti rientriamo nel modello dell’assistente personale, che è chiaramente più semplice da “codificare” perché resta una componente “meccanica” che va fatta interagire con la parte “sociale”. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787240280.527549",
+      "thread_ts": "1787232229.757699",
+      "user": "U08F42UJQEP",
+      "text": "\"Per me oggi il lavoro di un Software Engineer che decide di delegare lo sviluppo del codice ad agente sintetici\" se gli agenti sono autonomi perchè c'è un Software Engineer che delega? La prima domanda a cui dovremmo rispondere è il livello di autonomia che ci aspettiamo di dare all'agente: 1) apro una issue su jira e c'è un agente che la prende in carico, la scompone in sotto task e poi la dà da implementare a un team di agenti specializzati nelle varie aree (qui non vedo il software engineer che fa da pm ma vedo il pm e basta); 2) apro una issue su jira che è già scomposta da un team di ingegneri che hanno la contro parte agentica che implementa (qui non mi è chiaro di chi sia l'ownership di quanto viene prodotto che, sicuramente, non può essere del singolo agente); 3) ho una issue su jira che viene presa in carico da un umano che con un team di agenti la scompone e la lavora (qui non ci vedo molta differenza con il concetto di assistente personale). Ma forse non mi è del tutto chiaro il topic.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ObB8Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\"Per me oggi il lavoro di un Software Engineer che decide di delegare lo sviluppo del codice ad agente sintetici\" se gli agenti sono autonomi perchè c'è un Software Engineer che delega? La prima domanda a cui dovremmo rispondere è il livello di autonomia che ci aspettiamo di dare all'agente: 1) apro una issue su jira e c'è un agente che la prende in carico, la scompone in sotto task e poi la dà da implementare a un team di agenti specializzati nelle varie aree (qui non vedo il software engineer che fa da pm ma vedo il pm e basta); 2) apro una issue su jira che è già scomposta da un team di ingegneri che hanno la contro parte agentica che implementa (qui non mi è chiaro di chi sia l'ownership di quanto viene prodotto che, sicuramente, non può essere del singolo agente); 3) ho una issue su jira che viene presa in carico da un umano che con un team di agenti la scompone e la lavora (qui non ci vedo molta differenza con il concetto di assistente personale). Ma forse non mi è del tutto chiaro il topic."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787241673.855909",
+      "thread_ts": "1787232229.757699",
+      "user": "U096LKSL2T0",
+      "text": "La riflessione è interessante.\n\nDiamo per assodato il tuo assunto, ovvero la presenza di agenti sintetici che svolgono attività autonome.\n\nSu questo sono d'accordo con te: serve un nuovo modo di disegnare la collaborazione tra esseri umani e agenti, e anche tra agenti stessi. Servono principi, linee di demarcazione nette capaci di governare la complessità che questo tipo di interazioni fa emergere.\nPossiamo sicuramente pescare dal nostro passato, come industria e come umanità, da quello che abbiamo scoperto in psicologia e sociologia.\n\nÈ uno scenario che io vedo ancora remoto.\n\nLa retorica che si vede oggi in proposito non mi affascina più di tanto. Penso ad esempio a GasTown, OpenClaw, Hermes, quei sistemi per cui dai qualcosa a questi agenti e loro lavorano anche per ore e ore in isolamento (non li ho ancora sperimentati).\nGià oggi la mia capacità intellettuale è saturata dal tenere sotto controllo gli agenti che lancio manualmente, uno alla volta, in maniera sequenziale. Gestirne una flotta in contemporanea e andare a verificare il lavoro fatto per ore lo trovo un lavoro molto oneroso, che si finisce epr non fare.\nNon intendo verificare leggendosi il codice: ormai anche quello perde di significato. Le macchine oramai possono generare migliaia di righe di codice al secondo, e se rimaniamo ancorati all'idea di volerle leggerce, di fare review di tutto il codice scritto, non andiamo avanti più di tanto.\nPerò dico: creare processi, sistemi che permettono a questi agenti sintetici di fare esattamente quello che vuoi, di bloccarsi quando è giusto che si blocchino, di chiedere aiuto e l'opinione dell'essere umano quando è necessario farlo, è a sua volta una \"scienza\" che sta nascendo, ed è qualcosa su cui stiamo giocando un po' tutti. Io stesso passo il tempo a cercare di far fare le cose a un agente AI quando possibile, anziché farle io manualmente: un po' per la pigrizia che contraddistingue i programmatori, un po' per l'idea di avere qualcosa di riutilizzabile in futuro, un po' per testare proprio la capacità di dire _\"mi serve questa cosa, devi farla in questa maniera qui, ti do tutte le istruzioni, ti costruisco tutti i binari che ti permetteranno di raggiungere il risultato che voglio in maniera pressoché efficace e ripetibile\"_.\n\nPer il futuro prossimo, quello più immediato, sono dell'idea di Davide: costruirsi degli esoscheletri, diventare un po' come Iron Man. Nel senso che mentre prima, per andare dal punto A al punto B, dovevi fartela a piedi, con la fatica e il tempo necessario ma magari godendoti il paesaggio e imparando cose nuove, adesso puoi volare con i razzi in pochi secondi.\nMolto potente, ma anche rischioso: guidare un razzo è diverso dal camminare, è pericoloso, perché ti perdi la parte intellettuale di comprensione, apprendimento e crescita. Non impari certe cose, perché le fa direttamente l'agente e te le nasconde, e tu non hai la possibilità di vederle. Anche se leggessi il codice, banalmente non è la stessa cosa che scriverlo: questo lo sappiamo tutti.\nNessuno ha mai imparato il karate leggendo un libro di karate: il karate bisogna praticarlo per impararlo.\n\nQuindi, nel momento in cui smettiamo di scrivere codice, o smettiamo di guidare la costruzione di applicazioni e funzionalità, perdiamo sempre più la capacità di saperle fare. Ci mettiamo sempre più nelle mani di agenti di cui ci fidiamo, che generano un prodotto che, forse, alla fine sarà funzionante (inteso come app enterprise in prod, con tutti i crismi, non l'app della domenica come nell'articolo che hai condiviso stamattina :D). Semmai ci riusciremo, davvero potremo dimenticarci di come funzionano le cose sotto. Ma insomma, non credo che siamo ancora arrivati a questo livello, oggi.\n\nSul tema invece di come costruire e arricchire le nostre competenze, lo skilling su temi di psicologia e sociologia: eh, bel tema.\nIo ci ho pensato un po' di anni fa, facendo un cambio di carriera, occupandomi e concentrandomi molto anche sulla parte sociale e psicologica del nostro lavoro. Gli anni da consulente e da coach mi hanno permesso di approfondire molti temi da questo punto di vista, ed è indubbiamente una ricchezza che oggi porto con me.\nVedo che in questo momento storico il mio collo di bottiglia precedente (la capacità di comprendere velocemente codice e architetture, che mi impediva di fare un sacco di cose) oggi mi vede invece a mettere mano a cose che fino a qualche mese fa erano impensabili.\nQuindi non posso che testimoniare a favore dell'importanza di avere competenze anche a livello di psicologia e sociologia, perché il focus si sposterà sempre più sulla parte di interazione fra persone, fra agenti, fra attori che contribuiscono alla creazione di un prodotto digitale, delegando la \"manovalanza\", la scrittura di codice.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HzM0K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "La riflessione è interessante.\n\nDiamo per assodato il tuo assunto, ovvero la presenza di agenti sintetici che svolgono attività autonome.\n\nSu questo sono d'accordo con te: serve un nuovo modo di disegnare la collaborazione tra esseri umani e agenti, e anche tra agenti stessi. Servono principi, linee di demarcazione nette capaci di governare la complessità che questo tipo di interazioni fa emergere.\nPossiamo sicuramente pescare dal nostro passato, come industria e come umanità, da quello che abbiamo scoperto in psicologia e sociologia.\n\nÈ uno scenario che io vedo ancora remoto.\n\nLa retorica che si vede oggi in proposito non mi affascina più di tanto. Penso ad esempio a GasTown, OpenClaw, Hermes, quei sistemi per cui dai qualcosa a questi agenti e loro lavorano anche per ore e ore in isolamento (non li ho ancora sperimentati).\nGià oggi la mia capacità intellettuale è saturata dal tenere sotto controllo gli agenti che lancio manualmente, uno alla volta, in maniera sequenziale. Gestirne una flotta in contemporanea e andare a verificare il lavoro fatto per ore lo trovo un lavoro molto oneroso, che si finisce epr non fare.\nNon intendo verificare leggendosi il codice: ormai anche quello perde di significato. Le macchine oramai possono generare migliaia di righe di codice al secondo, e se rimaniamo ancorati all'idea di volerle leggerce, di fare review di tutto il codice scritto, non andiamo avanti più di tanto.\nPerò dico: creare processi, sistemi che permettono a questi agenti sintetici di fare esattamente quello che vuoi, di bloccarsi quando è giusto che si blocchino, di chiedere aiuto e l'opinione dell'essere umano quando è necessario farlo, è a sua volta una \"scienza\" che sta nascendo, ed è qualcosa su cui stiamo giocando un po' tutti. Io stesso passo il tempo a cercare di far fare le cose a un agente AI quando possibile, anziché farle io manualmente: un po' per la pigrizia che contraddistingue i programmatori, un po' per l'idea di avere qualcosa di riutilizzabile in futuro, un po' per testare proprio la capacità di dire _\"mi serve questa cosa, devi farla in questa maniera qui, ti do tutte le istruzioni, ti costruisco tutti i binari che ti permetteranno di raggiungere il risultato che voglio in maniera pressoché efficace e ripetibile\"_.\n\nPer il futuro prossimo, quello più immediato, sono dell'idea di Davide: costruirsi degli esoscheletri, diventare un po' come Iron Man. Nel senso che mentre prima, per andare dal punto A al punto B, dovevi fartela a piedi, con la fatica e il tempo necessario ma magari godendoti il paesaggio e imparando cose nuove, adesso puoi volare con i razzi in pochi secondi.\nMolto potente, ma anche rischioso: guidare un razzo è diverso dal camminare, è pericoloso, perché ti perdi la parte intellettuale di comprensione, apprendimento e crescita. Non impari certe cose, perché le fa direttamente l'agente e te le nasconde, e tu non hai la possibilità di vederle. Anche se leggessi il codice, banalmente non è la stessa cosa che scriverlo: questo lo sappiamo tutti.\nNessuno ha mai imparato il karate leggendo un libro di karate: il karate bisogna praticarlo per impararlo.\n\nQuindi, nel momento in cui smettiamo di scrivere codice, o smettiamo di guidare la costruzione di applicazioni e funzionalità, perdiamo sempre più la capacità di saperle fare. Ci mettiamo sempre più nelle mani di agenti di cui ci fidiamo, che generano un prodotto che, forse, alla fine sarà funzionante (inteso come app enterprise in prod, con tutti i crismi, non l'app della domenica come nell'articolo che hai condiviso stamattina :D). Semmai ci riusciremo, davvero potremo dimenticarci di come funzionano le cose sotto. Ma insomma, non credo che siamo ancora arrivati a questo livello, oggi.\n\nSul tema invece di come costruire e arricchire le nostre competenze, lo skilling su temi di psicologia e sociologia: eh, bel tema.\nIo ci ho pensato un po' di anni fa, facendo un cambio di carriera, occupandomi e concentrandomi molto anche sulla parte sociale e psicologica del nostro lavoro. Gli anni da consulente e da coach mi hanno permesso di approfondire molti temi da questo punto di vista, ed è indubbiamente una ricchezza che oggi porto con me.\nVedo che in questo momento storico il mio collo di bottiglia precedente (la capacità di comprendere velocemente codice e architetture, che mi impediva di fare un sacco di cose) oggi mi vede invece a mettere mano a cose che fino a qualche mese fa erano impensabili.\nQuindi non posso che testimoniare a favore dell'importanza di avere competenze anche a livello di psicologia e sociologia, perché il focus si sposterà sempre più sulla parte di interazione fra persone, fra agenti, fra attori che contribuiscono alla creazione di un prodotto digitale, delegando la \"manovalanza\", la scrittura di codice."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787242724.156489",
+      "thread_ts": "1787232229.757699",
+      "user": "U0AKR9GTN4U",
+      "text": "Concordo sul fatto che il lavoro dello sviluppatore (e non solo) stia cambiando: vedo una figura che si avvicina molto di più al PM, con forte focus su cosa costruire e come costruirlo in modo sicuro e misurabile.\nPer me lavorare con agenti autonomi non sposta molto il paradigma: le metriche possono restare simili (DORA, cycle time, code health), perché servono a verificare che la “macchina” vada nella direzione giusta.\nRispetto a un team classico, un team di agenti autonomi si governa con molti più guardrail, vincoli, criteri di accettazione chiari, osservabilità e feedback loop.\nNon sono convinto che cambino così tanto psicologia e sociologia: le skill principali su cui investire sono la capacità di mantenere il focus, nonostante si abbia la possibilità di correre più veloci, e di non perdere il controllo del sistema nel suo complesso.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q7MkA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Concordo sul fatto che il lavoro dello sviluppatore (e non solo) stia cambiando: vedo una figura che si avvicina molto di più al PM, con forte focus su cosa costruire e come costruirlo in modo sicuro e misurabile.\nPer me lavorare con agenti autonomi non sposta molto il paradigma: le metriche possono restare simili (DORA, cycle time, code health), perché servono a verificare che la “macchina” vada nella direzione giusta.\nRispetto a un team classico, un team di agenti autonomi si governa con molti più guardrail, vincoli, criteri di accettazione chiari, osservabilità e feedback loop.\nNon sono convinto che cambino così tanto psicologia e sociologia: le skill principali su cui investire sono la capacità di mantenere il focus, nonostante si abbia la possibilità di correre più veloci, e di non perdere il controllo del sistema nel suo complesso."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787253625.848899",
+      "thread_ts": "1787232229.757699",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U0AKR9GTN4U> sono d'accordo che nel delegare attività ad un agente AI comunicare molto bene l’intento diventi ancora di più il cuore dell’interazione.\n\nNel mio usare l’AI al fine di stimolare il mio pensiero critico, continuo a rimanere stupito, quanto questo mi porti a raffinare molto di più l’intento del ragionamento al fine di arrivare a conversazioni che trovo efficaci e stimolanti.\n\nQuesta parte per me è molto arricchente e potenziante, perché mi porta a costruire con chiarezza intento e contesto.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SX6ul",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0AKR9GTN4U"
+                },
+                {
+                  "type": "text",
+                  "text": " sono d'accordo che nel delegare attività ad un agente AI comunicare molto bene l’intento diventi ancora di più il cuore dell’interazione.\n\nNel mio usare l’AI al fine di stimolare il mio pensiero critico, continuo a rimanere stupito, quanto questo mi porti a raffinare molto di più l’intento del ragionamento al fine di arrivare a conversazioni che trovo efficaci e stimolanti.\n\nQuesta parte per me è molto arricchente e potenziante, perché mi porta a costruire con chiarezza intento e contesto."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787254181.001989",
+      "thread_ts": "1787232229.757699",
+      "user": "U0AKR9GTN4U",
+      "text": "<@U08KA9A2BMZ> sono fermamente convinto che siamo ancora ad una fase embrionale di quel che i sistemi AI possono dare una volta imparati a governare.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08F42UJQEP",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vu6Ts",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " sono fermamente convinto che siamo ancora ad una fase embrionale di quel che i sistemi AI possono dare una volta imparati a governare."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787255580.502709",
+      "thread_ts": "1787232229.757699",
+      "user": "U09P40E8LN6",
+      "text": "Secondo me, se arriviamo davvero al punto di poterci permettere di leggere meno codice, la regola dovrebbe essere questa: deleghi agli agenti solo quello che sai già fare bene, così non perdi l’apprendimento di cui parli tu, e il tempo risparmiato lo usi per studiare ogni giorno, in orario di lavoro. È l’unico modo per far produrre agli agenti output sempre migliori senza che noi diventiamo sempre meno capaci.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7fg/+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Secondo me, se arriviamo davvero al punto di poterci permettere di leggere meno codice, la regola dovrebbe essere questa: deleghi agli agenti solo quello che sai già fare bene, così non perdi l’apprendimento di cui parli tu, e il tempo risparmiato lo usi per studiare ogni giorno, in orario di lavoro. È l’unico modo per far produrre agli agenti output sempre migliori senza che noi diventiamo sempre meno capaci."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787255714.610269",
+      "thread_ts": "1787232229.757699",
+      "user": "U09P40E8LN6",
+      "text": "E forse se usassimo un piano più “cazzuto” si potrebbe già sperimentare ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xHG3w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E forse se usassimo un piano più “cazzuto” si potrebbe già sperimentare "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787295803.936119",
+      "thread_ts": "1787232229.757699",
+      "user": "U08F42UJQEP",
+      "text": "&gt; Nel mio usare l’AI al fine di stimolare il mio pensiero critico, continuo a rimanere stupito, quanto questo mi porti a raffinare molto di più l’intento del ragionamento al fine di arrivare a conversazioni che trovo efficaci e stimolanti.\nMa infatti chi è normalmente capace a mettere in fila le idee è un pezzo avanti nell'utilizzo dell'IA. Come ho scritto diverso tempo fa su linkedin, quello che ci stanno insegnando gli llm è che per poter ragionare bisogna saper parlare, perchè comunque il ragionamento degli llm non sono altro che testi generati e continuamente validati, la cosa che è stata insegnata agli LLM è fare step di pensiero coerenti",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rE3ub",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nel mio usare l’AI al fine di stimolare il mio pensiero critico, continuo a rimanere stupito, quanto questo mi porti a raffinare molto di più l’intento del ragionamento al fine di arrivare a conversazioni che trovo efficaci e stimolanti."
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ma infatti chi è normalmente capace a mettere in fila le idee è un pezzo avanti nell'utilizzo dell'IA. Come ho scritto diverso tempo fa su linkedin, quello che ci stanno insegnando gli llm è che per poter ragionare bisogna saper parlare, perchè comunque il ragionamento degli llm non sono altro che testi generati e continuamente validati, la cosa che è stata insegnata agli LLM è fare step di pensiero coerenti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

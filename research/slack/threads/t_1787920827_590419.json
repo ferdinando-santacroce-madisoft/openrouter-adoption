@@ -1,0 +1,117 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 3,
+  "messages": [
+    {
+      "ts": "1787920827.590419",
+      "thread_ts": "1787920827.590419",
+      "user": "U096LKSL2T0",
+      "text": "",
+      "type": "message",
+      "reply_count": 2,
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U08F42UJQEP",
+            "U0B0ZPLKA3B"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hCn+5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSY8L6M0X",
+          "name": "IMG20260828143955.jpg",
+          "title": "IMG20260828143955.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "size": 1252163,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSY8L6M0X/img20260828143955.jpg",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSY8L6M0X/img20260828143955.jpg",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787920855.295179",
+      "thread_ts": "1787920827.590419",
+      "user": "U08F42UJQEP",
+      "text": "ahahahahahahahahaha",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g5NGx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ahahahahahahahahaha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787920879.669859",
+      "thread_ts": "1787920827.590419",
+      "user": "U09P40E8LN6",
+      "text": "HAHAHAHHA",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2jJou",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "HAHAHAHHA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

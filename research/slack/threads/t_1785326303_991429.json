@@ -1,0 +1,176 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 5,
+  "messages": [
+    {
+      "ts": "1785326303.991429",
+      "thread_ts": "1785326303.991429",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U0AKR9GTN4U> ho disabilitato le tue chiavi di OpenRouter del Workspace `Default Workspace`. Devi ricrearle nel workspace `madisoft-test` . Grazie",
+      "type": "message",
+      "reply_count": 4,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vyjxF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0AKR9GTN4U"
+                },
+                {
+                  "type": "text",
+                  "text": " ho disabilitato le tue chiavi di OpenRouter del Workspace "
+                },
+                {
+                  "type": "text",
+                  "text": "Default Workspace",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ". Devi ricrearle nel workspace "
+                },
+                {
+                  "type": "text",
+                  "text": "madisoft-test",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " . Grazie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785326642.612109",
+      "thread_ts": "1785326303.991429",
+      "user": "U08KA9A2BMZ",
+      "text": "Nell'account madisoft-test c'è una policy di spesa di 6$ a settimana. Nell'account di default non ci sono policy e tu oggi hai già speso $23 :face_with_peeking_eye:. Creando la chiave nell'altro workspace avrai anche tu il blocco a 6$/settimana che era stato deciso per il test",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qdB00",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nell'account madisoft-test c'è una policy di spesa di 6$ a settimana. Nell'account di default non ci sono policy e tu oggi hai già speso $23 "
+                },
+                {
+                  "type": "emoji",
+                  "name": "face_with_peeking_eye",
+                  "unicode": "1fae3"
+                },
+                {
+                  "type": "text",
+                  "text": ". Creando la chiave nell'altro workspace avrai anche tu il blocco a 6$/settimana che era stato deciso per il test"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785327173.417469",
+      "thread_ts": "1785326303.991429",
+      "user": "U08KA9A2BMZ",
+      "text": "Sono riuscito a spostare io le chiavi dal Worspace Default al workspace-test e te le ho riabilitate.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UabLD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sono riuscito a spostare io le chiavi dal Worspace Default al workspace-test e te le ho riabilitate."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785327597.618699",
+      "thread_ts": "1785326303.991429",
+      "user": "U0AKR9GTN4U",
+      "text": "Mi spiace, ho fatto fare un'analisi, ha aperto dei sottoagenti come aveva segnalato Massimiliano non compare il costo relativo nell'interfaccia e non me ne sono reso conto subito",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fJK4e",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mi spiace, ho fatto fare un'analisi, ha aperto dei sottoagenti come aveva segnalato Massimiliano non compare il costo relativo nell'interfaccia e non me ne sono reso conto subito"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785328059.448289",
+      "thread_ts": "1785326303.991429",
+      "user": "U08KA9A2BMZ",
+      "text": "No problem, capita.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0tGlK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "No problem, capita."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    }
+  ]
+}

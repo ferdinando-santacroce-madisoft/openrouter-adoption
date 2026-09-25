@@ -1,0 +1,206 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 6,
+  "messages": [
+    {
+      "ts": "1784275993.680659",
+      "thread_ts": "1784275993.680659",
+      "user": "U08F42UJQEP",
+      "text": "<@U096LKSL2T0> ho cercato come mettere il guardrail sull'utilizzo a Marco e sono arrivato qui per metterlo (chiaramente non mi ricordo già più come ci sono arrivato) solo che stiamo impostando i guardrail per utente, che abbia più senso farlo sul workspace?",
+      "type": "message",
+      "reply_count": 5,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hc9nl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " ho cercato come mettere il guardrail sull'utilizzo a Marco e sono arrivato qui per metterlo (chiaramente non mi ricordo già più come ci sono arrivato) solo che stiamo impostando i guardrail per utente, che abbia più senso farlo sul workspace?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BHY7HF1CN",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 70464,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BHY7HF1CN/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BHY7HF1CN/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1784276049.797969",
+      "thread_ts": "1784275993.680659",
+      "user": "U08F42UJQEP",
+      "text": "vabbe: Workspace &gt; Guardrails...non è che ci volesse la scienza",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "smile",
+          "users": [
+            "U0ALTAL9GCA",
+            "U0AKR9GTN4U"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NKmHP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vabbe: Workspace > Guardrails...non è che ci volesse la scienza"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784280342.559249",
+      "thread_ts": "1784275993.680659",
+      "user": "U096LKSL2T0",
+      "text": "si, i Guardrail li puoi mettere a 3 livelli: Organization-&gt;WorkSpace-&gt;User :D",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IerGQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si, i Guardrail li puoi mettere a 3 livelli: Organization->WorkSpace->User :D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784280457.986699",
+      "thread_ts": "1784275993.680659",
+      "user": "U08F42UJQEP",
+      "text": "sì solo che se li lasciamo a livello user ogni volta che aggiungiamo uno tocca metterli a manazza, forse conviene metterli a livello workspace",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tVC7N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì solo che se li lasciamo a livello user ogni volta che aggiungiamo uno tocca metterli a manazza, forse conviene metterli a livello workspace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784281096.414949",
+      "thread_ts": "1784275993.680659",
+      "user": "U096LKSL2T0",
+      "text": "Appunto, non ci sono già a livello Workspace? Mi sembrava di averli messi  ieri :thinking_face:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TBCQv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Appunto, non ci sono già a livello Workspace? Mi sembrava di averli messi  ieri "
+                },
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784281123.670929",
+      "thread_ts": "1784275993.680659",
+      "user": "U08F42UJQEP",
+      "text": "magari guardo meglio ma a me non sembra",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AmEa6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "magari guardo meglio ma a me non sembra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

@@ -1,0 +1,1646 @@
+[
+  {
+    "url": "https://openrouter.ai/api/frontend/v1/private/analytics-query",
+    "data": {
+      "data": {
+        "data": [
+          {
+            "user": "user_3GV06iXStT1qWj0EnCtNUOFLjMe",
+            "tokens_total": "320937828"
+          },
+          {
+            "user": "user_3GXKY0xPa7cl0iGL5LQVYI4zBaY",
+            "tokens_total": "184294730"
+          },
+          {
+            "user": "user_3GWtOHsCyWeoECEd04YzAa4Bsnm",
+            "tokens_total": "170321876"
+          },
+          {
+            "user": "user_3GcewA7w84sZWMHNYbCrvwH9BuP",
+            "tokens_total": "97992667"
+          },
+          {
+            "user": "user_3GUxsBQNs7xYmxBFWZxVHz5Zara",
+            "tokens_total": "72858644"
+          }
+        ],
+        "metadata": {
+          "query_time_ms": 17,
+          "row_count": 5,
+          "truncated": true
+        },
+        "labels": {
+          "user": {
+            "user_3GcewA7w84sZWMHNYbCrvwH9BuP": "Marco Martorana",
+            "user_3GUxsBQNs7xYmxBFWZxVHz5Zara": "Federico Bartoli",
+            "user_3GV06iXStT1qWj0EnCtNUOFLjMe": "davide.fossacecchi@madisoft.it",
+            "user_3GWtOHsCyWeoECEd04YzAa4Bsnm": "Massimiliano Conforti",
+            "user_3GXKY0xPa7cl0iGL5LQVYI4zBaY": "Lorenzo Piersante"
+          }
+        },
+        "userEmailByRaw": {
+          "user_3GcewA7w84sZWMHNYbCrvwH9BuP": "marco.martorana@madisoft.it",
+          "user_3GUxsBQNs7xYmxBFWZxVHz5Zara": "federico.bartoli@madisoft.it",
+          "user_3GV06iXStT1qWj0EnCtNUOFLjMe": "davide.fossacecchi@madisoft.it",
+          "user_3GWtOHsCyWeoECEd04YzAa4Bsnm": "massimiliano.conforti@madisoft.it",
+          "user_3GXKY0xPa7cl0iGL5LQVYI4zBaY": "lorenzo.piersante@madisoft.it"
+        },
+        "enrichment": {
+          "user": {
+            "iconUrlByRaw": {},
+            "subtitleByRaw": {
+              "user_3GcewA7w84sZWMHNYbCrvwH9BuP": "marco.martorana@madisoft.it",
+              "user_3GUxsBQNs7xYmxBFWZxVHz5Zara": "federico.bartoli@madisoft.it",
+              "user_3GWtOHsCyWeoECEd04YzAa4Bsnm": "massimiliano.conforti@madisoft.it",
+              "user_3GXKY0xPa7cl0iGL5LQVYI4zBaY": "lorenzo.piersante@madisoft.it"
+            }
+          }
+        },
+        "cachedAt": 1788960324688
+      }
+    }
+  },
+  {
+    "url": "https://openrouter.ai/api/frontend/v1/private/analytics-query",
+    "data": {
+      "data": {
+        "data": [
+          {
+            "app": "2312835",
+            "tokens_total": "801817641"
+          },
+          {
+            "app": "4562165",
+            "tokens_total": "71244956"
+          },
+          {
+            "app": "-1",
+            "tokens_total": "381590"
+          },
+          {
+            "app": "2236212",
+            "tokens_total": "96553"
+          },
+          {
+            "app": "2730221",
+            "tokens_total": "1589"
+          }
+        ],
+        "metadata": {
+          "query_time_ms": 12,
+          "row_count": 5,
+          "truncated": false
+        },
+        "labels": {
+          "app": {
+            "2236212": "Cherry Studio",
+            "2312835": "OpenCode",
+            "2730221": "OpenRouter CLI",
+            "4562165": "OpenRouter: Classifier",
+            "-1": "Unknown"
+          }
+        },
+        "enrichment": {
+          "app": {
+            "iconUrlByRaw": {
+              "2236212": "https://cherry-ai.com/",
+              "2312835": "https://opencode.ai/",
+              "2730221": "https://github.com/vstratful/openrouter-cli",
+              "4562165": "https://classifiers.openrouter.ai/"
+            },
+            "subtitleByRaw": {
+              "2312835": "AI coding agent built for the terminal"
+            }
+          }
+        },
+        "cachedAt": 1788960324669
+      }
+    }
+  },
+  {
+    "url": "https://openrouter.ai/api/frontend/v1/private/analytics-query",
+    "data": {
+      "data": {
+        "data": [],
+        "metadata": {
+          "query_time_ms": 13,
+          "row_count": 0,
+          "truncated": false
+        },
+        "cachedAt": 1788960324523
+      }
+    }
+  },
+  {
+    "url": "https://openrouter.ai/api/frontend/v1/private/analytics-query",
+    "data": {
+      "data": {
+        "data": [
+          {
+            "date__day": "2026-07-15",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 1.690979
+          },
+          {
+            "date__day": "2026-07-16",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 0.56911
+          },
+          {
+            "date__day": "2026-07-17",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 2.896401
+          },
+          {
+            "date__day": "2026-07-17",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 0.94627
+          },
+          {
+            "date__day": "2026-07-17",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 1.274827
+          },
+          {
+            "date__day": "2026-07-20",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 2.95763
+          },
+          {
+            "date__day": "2026-07-20",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 5.645474
+          },
+          {
+            "date__day": "2026-07-20",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 6.42782
+          },
+          {
+            "date__day": "2026-07-21",
+            "model": "openai/gpt-5.6-sol-20260709",
+            "total_usage": 1.380071
+          },
+          {
+            "date__day": "2026-07-21",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 2.569758
+          },
+          {
+            "date__day": "2026-07-21",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 0.257282
+          },
+          {
+            "date__day": "2026-07-21",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 0.82185
+          },
+          {
+            "date__day": "2026-07-22",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 0.650195
+          },
+          {
+            "date__day": "2026-07-22",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 1.327547
+          },
+          {
+            "date__day": "2026-07-22",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 0.768077
+          },
+          {
+            "date__day": "2026-07-23",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 1.263143
+          },
+          {
+            "date__day": "2026-07-23",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 1.375257
+          },
+          {
+            "date__day": "2026-07-23",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 0.558018
+          },
+          {
+            "date__day": "2026-07-24",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 0.098229
+          },
+          {
+            "date__day": "2026-07-24",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 0.777846
+          },
+          {
+            "date__day": "2026-07-25",
+            "model": "openai/gpt-5.6-sol-20260709",
+            "total_usage": 5.458045
+          },
+          {
+            "date__day": "2026-07-27",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 1.226454
+          },
+          {
+            "date__day": "2026-07-27",
+            "model": "openai/gpt-5.6-sol-20260709",
+            "total_usage": 3.523745
+          },
+          {
+            "date__day": "2026-07-27",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 4.132022
+          },
+          {
+            "date__day": "2026-07-28",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 2.865484
+          },
+          {
+            "date__day": "2026-07-28",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 4.386081
+          },
+          {
+            "date__day": "2026-07-28",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 1.473958
+          },
+          {
+            "date__day": "2026-07-28",
+            "model": "openai/gpt-5.6-sol-20260709",
+            "total_usage": 21.49744
+          },
+          {
+            "date__day": "2026-07-29",
+            "model": "openai/gpt-5.6-sol-20260709",
+            "total_usage": 22.952571
+          },
+          {
+            "date__day": "2026-07-29",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 1.052629
+          },
+          {
+            "date__day": "2026-07-29",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 2.634037
+          },
+          {
+            "date__day": "2026-07-30",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 0.907483
+          },
+          {
+            "date__day": "2026-07-31",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 0.987946
+          },
+          {
+            "date__day": "2026-07-31",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 1.003433
+          },
+          {
+            "date__day": "2026-08-03",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 3.231213
+          },
+          {
+            "date__day": "2026-08-03",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 0.132959
+          },
+          {
+            "date__day": "2026-08-03",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 1.297418
+          },
+          {
+            "date__day": "2026-08-04",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 0.013706
+          },
+          {
+            "date__day": "2026-08-05",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.250934
+          },
+          {
+            "date__day": "2026-08-05",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 0.981074
+          },
+          {
+            "date__day": "2026-08-06",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 4.553708
+          },
+          {
+            "date__day": "2026-08-06",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 3.825566
+          },
+          {
+            "date__day": "2026-08-07",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 0.746708
+          },
+          {
+            "date__day": "2026-08-07",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 1.831956
+          },
+          {
+            "date__day": "2026-08-10",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.776383
+          },
+          {
+            "date__day": "2026-08-10",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 5.790232
+          },
+          {
+            "date__day": "2026-08-11",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 0.161569
+          },
+          {
+            "date__day": "2026-08-12",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.637331
+          },
+          {
+            "date__day": "2026-08-13",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.034835
+          },
+          {
+            "date__day": "2026-08-14",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.515225
+          },
+          {
+            "date__day": "2026-08-14",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 1.437634
+          },
+          {
+            "date__day": "2026-08-17",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.776259
+          },
+          {
+            "date__day": "2026-08-18",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 0.036353
+          },
+          {
+            "date__day": "2026-08-19",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 2.087731
+          },
+          {
+            "date__day": "2026-08-19",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 0.178616
+          },
+          {
+            "date__day": "2026-08-19",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 5.056149
+          },
+          {
+            "date__day": "2026-08-20",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 0.693971
+          },
+          {
+            "date__day": "2026-08-20",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 5.451083
+          },
+          {
+            "date__day": "2026-08-21",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 0.14906
+          },
+          {
+            "date__day": "2026-08-21",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 0.024816
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 0.776991
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 5.030107
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "total_usage": 0.330376
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 2.364872
+          },
+          {
+            "date__day": "2026-08-25",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.404618
+          },
+          {
+            "date__day": "2026-08-25",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 2.623065
+          },
+          {
+            "date__day": "2026-08-25",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 1.449869
+          },
+          {
+            "date__day": "2026-08-26",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 1.18163
+          },
+          {
+            "date__day": "2026-08-26",
+            "model": "moonshotai/kimi-k3-20260715",
+            "total_usage": 0.006147
+          },
+          {
+            "date__day": "2026-08-31",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "total_usage": 0.782742
+          },
+          {
+            "date__day": "2026-08-31",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "total_usage": 0.204044
+          }
+        ],
+        "metadata": {
+          "query_time_ms": 18,
+          "row_count": 71,
+          "truncated": false
+        },
+        "labels": {
+          "model": {
+            "deepseek/deepseek-v4-flash-20260423": "DeepSeek V4 Flash 0423",
+            "deepseek/deepseek-v4-pro-20260423": "DeepSeek V4 Pro 0423",
+            "google/gemini-3.5-flash-lite-20260721": "Gemini 3.5 Flash Lite",
+            "moonshotai/kimi-k3-20260715": "Kimi K3",
+            "openai/gpt-5.6-sol-20260709": "GPT-5.6 Sol"
+          }
+        },
+        "totalSeries": {
+          "data": [
+            {
+              "date__day": "2026-07-15",
+              "total_usage": 4.048969
+            },
+            {
+              "date__day": "2026-07-16",
+              "total_usage": 2.180754
+            },
+            {
+              "date__day": "2026-07-17",
+              "total_usage": 9.863261
+            },
+            {
+              "date__day": "2026-07-20",
+              "total_usage": 15.060159
+            },
+            {
+              "date__day": "2026-07-21",
+              "total_usage": 7.882008
+            },
+            {
+              "date__day": "2026-07-22",
+              "total_usage": 2.778426
+            },
+            {
+              "date__day": "2026-07-23",
+              "total_usage": 3.196418
+            },
+            {
+              "date__day": "2026-07-24",
+              "total_usage": 0.876075
+            },
+            {
+              "date__day": "2026-07-25",
+              "total_usage": 5.458045
+            },
+            {
+              "date__day": "2026-07-27",
+              "total_usage": 9.466295
+            },
+            {
+              "date__day": "2026-07-28",
+              "total_usage": 32.531506
+            },
+            {
+              "date__day": "2026-07-29",
+              "total_usage": 26.70478
+            },
+            {
+              "date__day": "2026-07-30",
+              "total_usage": 0.938829
+            },
+            {
+              "date__day": "2026-07-31",
+              "total_usage": 2.029672
+            },
+            {
+              "date__day": "2026-08-03",
+              "total_usage": 6.558675
+            },
+            {
+              "date__day": "2026-08-04",
+              "total_usage": 0.147152
+            },
+            {
+              "date__day": "2026-08-05",
+              "total_usage": 2.715252
+            },
+            {
+              "date__day": "2026-08-06",
+              "total_usage": 10.162854
+            },
+            {
+              "date__day": "2026-08-07",
+              "total_usage": 2.9567
+            },
+            {
+              "date__day": "2026-08-10",
+              "total_usage": 8.351385
+            },
+            {
+              "date__day": "2026-08-11",
+              "total_usage": 0.238867
+            },
+            {
+              "date__day": "2026-08-12",
+              "total_usage": 2.146557
+            },
+            {
+              "date__day": "2026-08-13",
+              "total_usage": 2.023703
+            },
+            {
+              "date__day": "2026-08-14",
+              "total_usage": 3.806027
+            },
+            {
+              "date__day": "2026-08-17",
+              "total_usage": 2.981265
+            },
+            {
+              "date__day": "2026-08-18",
+              "total_usage": 0.048002
+            },
+            {
+              "date__day": "2026-08-19",
+              "total_usage": 8.905543
+            },
+            {
+              "date__day": "2026-08-20",
+              "total_usage": 6.145634
+            },
+            {
+              "date__day": "2026-08-21",
+              "total_usage": 0.176034
+            },
+            {
+              "date__day": "2026-08-24",
+              "total_usage": 8.765901
+            },
+            {
+              "date__day": "2026-08-25",
+              "total_usage": 5.65356
+            },
+            {
+              "date__day": "2026-08-26",
+              "total_usage": 3.860539
+            },
+            {
+              "date__day": "2026-08-31",
+              "total_usage": 1.096471
+            }
+          ],
+          "metadata": {
+            "query_time_ms": 128,
+            "row_count": 33,
+            "truncated": false
+          }
+        },
+        "cachedAt": 1788960325031
+      }
+    }
+  },
+  {
+    "url": "https://openrouter.ai/api/frontend/v1/private/analytics-query",
+    "data": {
+      "data": {
+        "data": [
+          {
+            "date__day": "2026-07-15",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "322"
+          },
+          {
+            "date__day": "2026-07-16",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "185"
+          },
+          {
+            "date__day": "2026-07-17",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "456"
+          },
+          {
+            "date__day": "2026-07-17",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "143"
+          },
+          {
+            "date__day": "2026-07-17",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "31"
+          },
+          {
+            "date__day": "2026-07-20",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "427"
+          },
+          {
+            "date__day": "2026-07-20",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "141"
+          },
+          {
+            "date__day": "2026-07-20",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "210"
+          },
+          {
+            "date__day": "2026-07-21",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "28"
+          },
+          {
+            "date__day": "2026-07-21",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "49"
+          },
+          {
+            "date__day": "2026-07-21",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "130"
+          },
+          {
+            "date__day": "2026-07-22",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "88"
+          },
+          {
+            "date__day": "2026-07-22",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "39"
+          },
+          {
+            "date__day": "2026-07-22",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "72"
+          },
+          {
+            "date__day": "2026-07-23",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "303"
+          },
+          {
+            "date__day": "2026-07-23",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "12"
+          },
+          {
+            "date__day": "2026-07-23",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "65"
+          },
+          {
+            "date__day": "2026-07-24",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "15"
+          },
+          {
+            "date__day": "2026-07-24",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "31"
+          },
+          {
+            "date__day": "2026-07-27",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "284"
+          },
+          {
+            "date__day": "2026-07-27",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "219"
+          },
+          {
+            "date__day": "2026-07-28",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "73"
+          },
+          {
+            "date__day": "2026-07-28",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "268"
+          },
+          {
+            "date__day": "2026-07-28",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "224"
+          },
+          {
+            "date__day": "2026-07-29",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "386"
+          },
+          {
+            "date__day": "2026-07-29",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "81"
+          },
+          {
+            "date__day": "2026-07-30",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "235"
+          },
+          {
+            "date__day": "2026-07-31",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "33"
+          },
+          {
+            "date__day": "2026-07-31",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "268"
+          },
+          {
+            "date__day": "2026-08-03",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "264"
+          },
+          {
+            "date__day": "2026-08-03",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "5"
+          },
+          {
+            "date__day": "2026-08-03",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "377"
+          },
+          {
+            "date__day": "2026-08-03",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "5"
+          },
+          {
+            "date__day": "2026-08-04",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "82"
+          },
+          {
+            "date__day": "2026-08-04",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "5"
+          },
+          {
+            "date__day": "2026-08-05",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "521"
+          },
+          {
+            "date__day": "2026-08-05",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "248"
+          },
+          {
+            "date__day": "2026-08-05",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "85"
+          },
+          {
+            "date__day": "2026-08-06",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "487"
+          },
+          {
+            "date__day": "2026-08-06",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "1699"
+          },
+          {
+            "date__day": "2026-08-06",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "352"
+          },
+          {
+            "date__day": "2026-08-07",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "337"
+          },
+          {
+            "date__day": "2026-08-07",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "160"
+          },
+          {
+            "date__day": "2026-08-07",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "47"
+          },
+          {
+            "date__day": "2026-08-10",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "780"
+          },
+          {
+            "date__day": "2026-08-10",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "85"
+          },
+          {
+            "date__day": "2026-08-10",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "308"
+          },
+          {
+            "date__day": "2026-08-11",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "74"
+          },
+          {
+            "date__day": "2026-08-11",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "37"
+          },
+          {
+            "date__day": "2026-08-12",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "354"
+          },
+          {
+            "date__day": "2026-08-12",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "722"
+          },
+          {
+            "date__day": "2026-08-13",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "218"
+          },
+          {
+            "date__day": "2026-08-13",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "438"
+          },
+          {
+            "date__day": "2026-08-14",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "283"
+          },
+          {
+            "date__day": "2026-08-14",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "43"
+          },
+          {
+            "date__day": "2026-08-14",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "656"
+          },
+          {
+            "date__day": "2026-08-17",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "381"
+          },
+          {
+            "date__day": "2026-08-17",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "762"
+          },
+          {
+            "date__day": "2026-08-18",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "9"
+          },
+          {
+            "date__day": "2026-08-18",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "18"
+          },
+          {
+            "date__day": "2026-08-19",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "440"
+          },
+          {
+            "date__day": "2026-08-19",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "16"
+          },
+          {
+            "date__day": "2026-08-19",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "884"
+          },
+          {
+            "date__day": "2026-08-19",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "121"
+          },
+          {
+            "date__day": "2026-08-20",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "284"
+          },
+          {
+            "date__day": "2026-08-20",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "141"
+          },
+          {
+            "date__day": "2026-08-21",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "5"
+          },
+          {
+            "date__day": "2026-08-21",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "12"
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "137"
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "1006"
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "156"
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "deepseek/deepseek-v4-flash-20260423",
+            "request_count": "154"
+          },
+          {
+            "date__day": "2026-08-24",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "50"
+          },
+          {
+            "date__day": "2026-08-25",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "52"
+          },
+          {
+            "date__day": "2026-08-25",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "614"
+          },
+          {
+            "date__day": "2026-08-25",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "63"
+          },
+          {
+            "date__day": "2026-08-25",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "184"
+          },
+          {
+            "date__day": "2026-08-26",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "516"
+          },
+          {
+            "date__day": "2026-08-26",
+            "model": "moonshotai/kimi-k3-20260715",
+            "request_count": "2"
+          },
+          {
+            "date__day": "2026-08-26",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "224"
+          },
+          {
+            "date__day": "2026-08-31",
+            "model": "google/gemini-3.5-flash-lite-20260721",
+            "request_count": "91"
+          },
+          {
+            "date__day": "2026-08-31",
+            "model": "deepseek/deepseek-v4-pro-20260423",
+            "request_count": "27"
+          },
+          {
+            "date__day": "2026-08-31",
+            "model": "deepseek/deepseek-v4-flash-20260731",
+            "request_count": "20"
+          }
+        ],
+        "metadata": {
+          "query_time_ms": 12,
+          "row_count": 83,
+          "truncated": false
+        },
+        "labels": {
+          "model": {
+            "deepseek/deepseek-v4-flash-20260731": "DeepSeek V4 Flash 0731",
+            "deepseek/deepseek-v4-flash-20260423": "DeepSeek V4 Flash 0423",
+            "deepseek/deepseek-v4-pro-20260423": "DeepSeek V4 Pro 0423",
+            "google/gemini-3.5-flash-lite-20260721": "Gemini 3.5 Flash Lite",
+            "moonshotai/kimi-k3-20260715": "Kimi K3"
+          }
+        },
+        "totalSeries": {
+          "data": [
+            {
+              "date__day": "2026-07-15",
+              "request_count": "617"
+            },
+            {
+              "date__day": "2026-07-16",
+              "request_count": "411"
+            },
+            {
+              "date__day": "2026-07-17",
+              "request_count": "1173"
+            },
+            {
+              "date__day": "2026-07-20",
+              "request_count": "794"
+            },
+            {
+              "date__day": "2026-07-21",
+              "request_count": "396"
+            },
+            {
+              "date__day": "2026-07-22",
+              "request_count": "204"
+            },
+            {
+              "date__day": "2026-07-23",
+              "request_count": "380"
+            },
+            {
+              "date__day": "2026-07-24",
+              "request_count": "46"
+            },
+            {
+              "date__day": "2026-07-25",
+              "request_count": "39"
+            },
+            {
+              "date__day": "2026-07-27",
+              "request_count": "575"
+            },
+            {
+              "date__day": "2026-07-28",
+              "request_count": "813"
+            },
+            {
+              "date__day": "2026-07-29",
+              "request_count": "682"
+            },
+            {
+              "date__day": "2026-07-30",
+              "request_count": "239"
+            },
+            {
+              "date__day": "2026-07-31",
+              "request_count": "302"
+            },
+            {
+              "date__day": "2026-08-03",
+              "request_count": "695"
+            },
+            {
+              "date__day": "2026-08-04",
+              "request_count": "89"
+            },
+            {
+              "date__day": "2026-08-05",
+              "request_count": "858"
+            },
+            {
+              "date__day": "2026-08-06",
+              "request_count": "2547"
+            },
+            {
+              "date__day": "2026-08-07",
+              "request_count": "546"
+            },
+            {
+              "date__day": "2026-08-10",
+              "request_count": "1179"
+            },
+            {
+              "date__day": "2026-08-11",
+              "request_count": "111"
+            },
+            {
+              "date__day": "2026-08-12",
+              "request_count": "1083"
+            },
+            {
+              "date__day": "2026-08-13",
+              "request_count": "657"
+            },
+            {
+              "date__day": "2026-08-14",
+              "request_count": "984"
+            },
+            {
+              "date__day": "2026-08-17",
+              "request_count": "1143"
+            },
+            {
+              "date__day": "2026-08-18",
+              "request_count": "27"
+            },
+            {
+              "date__day": "2026-08-19",
+              "request_count": "1467"
+            },
+            {
+              "date__day": "2026-08-20",
+              "request_count": "426"
+            },
+            {
+              "date__day": "2026-08-21",
+              "request_count": "18"
+            },
+            {
+              "date__day": "2026-08-24",
+              "request_count": "1509"
+            },
+            {
+              "date__day": "2026-08-25",
+              "request_count": "921"
+            },
+            {
+              "date__day": "2026-08-26",
+              "request_count": "779"
+            },
+            {
+              "date__day": "2026-08-31",
+              "request_count": "139"
+            }
+          ],
+          "metadata": {
+            "query_time_ms": 10,
+            "row_count": 33,
+            "truncated": false
+          }
+        },
+        "cachedAt": 1788960324669
+      }
+    }
+  },
+  {
+    "url": "https://openrouter.ai/api/frontend/v1/private/analytics-query",
+    "data": {
+      "data": {
+        "data": [
+          {
+            "date__day": "2026-07-15",
+            "total_usage": 4.048969,
+            "request_count": "617",
+            "cache_hit_rate": 0.8325118675283272,
+            "tokens_prompt": "29650656",
+            "tokens_completion": "272094",
+            "reasoning_tokens": "102023",
+            "cached_tokens": "24684523",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-16",
+            "total_usage": 2.180754,
+            "request_count": "411",
+            "cache_hit_rate": 0.8463559061134532,
+            "tokens_prompt": "19128747",
+            "tokens_completion": "193779",
+            "reasoning_tokens": "61189",
+            "cached_tokens": "16189728",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-17",
+            "total_usage": 9.863261,
+            "request_count": "1173",
+            "cache_hit_rate": 0.8861700361986291,
+            "tokens_prompt": "83392937",
+            "tokens_completion": "518958",
+            "reasoning_tokens": "137504",
+            "cached_tokens": "73900322",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-20",
+            "total_usage": 15.060159,
+            "request_count": "794",
+            "cache_hit_rate": 0.8683915745406459,
+            "tokens_prompt": "52575175",
+            "tokens_completion": "384001",
+            "reasoning_tokens": "85583",
+            "cached_tokens": "45655839",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-21",
+            "total_usage": 7.882008,
+            "request_count": "396",
+            "cache_hit_rate": 0.9124473361042746,
+            "tokens_prompt": "33580406",
+            "tokens_completion": "234005",
+            "reasoning_tokens": "108584",
+            "cached_tokens": "30640352",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-22",
+            "total_usage": 2.778426,
+            "request_count": "204",
+            "cache_hit_rate": 0.7411634045175779,
+            "tokens_prompt": "9196698",
+            "tokens_completion": "172949",
+            "reasoning_tokens": "29711",
+            "cached_tokens": "6816256",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-23",
+            "total_usage": 3.196418,
+            "request_count": "380",
+            "cache_hit_rate": 0.7122908689580976,
+            "tokens_prompt": "24746924",
+            "tokens_completion": "273362",
+            "reasoning_tokens": "71434",
+            "cached_tokens": "17627008",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-24",
+            "total_usage": 0.876075,
+            "request_count": "46",
+            "cache_hit_rate": 0.4960985529871967,
+            "tokens_prompt": "2044626",
+            "tokens_completion": "44566",
+            "reasoning_tokens": "5651",
+            "cached_tokens": "1014336",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-25",
+            "total_usage": 5.458045,
+            "request_count": "39",
+            "cache_hit_rate": 0.9157196002157458,
+            "tokens_prompt": "4981787",
+            "tokens_completion": "35925",
+            "reasoning_tokens": "1490",
+            "cached_tokens": "4561920",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-27",
+            "total_usage": 9.466295,
+            "request_count": "575",
+            "cache_hit_rate": 0.8539323251277695,
+            "tokens_prompt": "29743802",
+            "tokens_completion": "345699",
+            "reasoning_tokens": "67686",
+            "cached_tokens": "25399194",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-28",
+            "total_usage": 32.531506,
+            "request_count": "813",
+            "cache_hit_rate": 0.8567956361644891,
+            "tokens_prompt": "57225805",
+            "tokens_completion": "475837",
+            "reasoning_tokens": "181266",
+            "cached_tokens": "49030820",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-29",
+            "total_usage": 26.70478,
+            "request_count": "682",
+            "cache_hit_rate": 0.8233715151575834,
+            "tokens_prompt": "39549708",
+            "tokens_completion": "351484",
+            "reasoning_tokens": "57436",
+            "cached_tokens": "32564103",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-30",
+            "total_usage": 0.938829,
+            "request_count": "239",
+            "cache_hit_rate": 0.6200562423389301,
+            "tokens_prompt": "10968605",
+            "tokens_completion": "141420",
+            "reasoning_tokens": "25623",
+            "cached_tokens": "6801152",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-07-31",
+            "total_usage": 2.029672,
+            "request_count": "302",
+            "cache_hit_rate": 0.6758525086122253,
+            "tokens_prompt": "10029928",
+            "tokens_completion": "143488",
+            "reasoning_tokens": "15124",
+            "cached_tokens": "6778752",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-03",
+            "total_usage": 6.558675,
+            "request_count": "695",
+            "cache_hit_rate": 0.7908491557912913,
+            "tokens_prompt": "41470906",
+            "tokens_completion": "341675",
+            "reasoning_tokens": "130439",
+            "cached_tokens": "32797231",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-04",
+            "total_usage": 0.147152,
+            "request_count": "89",
+            "cache_hit_rate": 0.8176285601046038,
+            "tokens_prompt": "3509623",
+            "tokens_completion": "60419",
+            "reasoning_tokens": "42668",
+            "cached_tokens": "2869568",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-05",
+            "total_usage": 2.715252,
+            "request_count": "858",
+            "cache_hit_rate": 0.7420117830744659,
+            "tokens_prompt": "24848693",
+            "tokens_completion": "155691",
+            "reasoning_tokens": "51605",
+            "cached_tokens": "18438023",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-06",
+            "total_usage": 10.162854,
+            "request_count": "2547",
+            "cache_hit_rate": 0.7421341921463639,
+            "tokens_prompt": "86323174",
+            "tokens_completion": "610037",
+            "reasoning_tokens": "269374",
+            "cached_tokens": "64063379",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-07",
+            "total_usage": 2.9567,
+            "request_count": "546",
+            "cache_hit_rate": 0.7150118024807409,
+            "tokens_prompt": "14144484",
+            "tokens_completion": "153415",
+            "reasoning_tokens": "76108",
+            "cached_tokens": "10113473",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-10",
+            "total_usage": 8.351385,
+            "request_count": "1179",
+            "cache_hit_rate": 0.632053086260083,
+            "tokens_prompt": "27703741",
+            "tokens_completion": "294776",
+            "reasoning_tokens": "155600",
+            "cached_tokens": "17510235",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-11",
+            "total_usage": 0.238867,
+            "request_count": "111",
+            "cache_hit_rate": 0.6364681004460754,
+            "tokens_prompt": "2837861",
+            "tokens_completion": "43934",
+            "reasoning_tokens": "21295",
+            "cached_tokens": "1806208",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-12",
+            "total_usage": 2.146557,
+            "request_count": "1083",
+            "cache_hit_rate": 0.6540288780290024,
+            "tokens_prompt": "21980586",
+            "tokens_completion": "189031",
+            "reasoning_tokens": "67993",
+            "cached_tokens": "14375938",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-13",
+            "total_usage": 2.023703,
+            "request_count": "657",
+            "cache_hit_rate": 0.6669229453517321,
+            "tokens_prompt": "22772085",
+            "tokens_completion": "166403",
+            "reasoning_tokens": "82991",
+            "cached_tokens": "15187226",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-14",
+            "total_usage": 3.806027,
+            "request_count": "984",
+            "cache_hit_rate": 0.6544910763604419,
+            "tokens_prompt": "36627656",
+            "tokens_completion": "245549",
+            "reasoning_tokens": "134328",
+            "cached_tokens": "23972474",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-17",
+            "total_usage": 2.981265,
+            "request_count": "1143",
+            "cache_hit_rate": 0.6857396896871234,
+            "tokens_prompt": "29566804",
+            "tokens_completion": "270648",
+            "reasoning_tokens": "109390",
+            "cached_tokens": "20275131",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-18",
+            "total_usage": 0.048002,
+            "request_count": "27",
+            "cache_hit_rate": 0.5506275079913788,
+            "tokens_prompt": "453301",
+            "tokens_completion": "5682",
+            "reasoning_tokens": "521",
+            "cached_tokens": "249600",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-19",
+            "total_usage": 8.905543,
+            "request_count": "1467",
+            "cache_hit_rate": 0.6945986372748107,
+            "tokens_prompt": "42276609",
+            "tokens_completion": "500578",
+            "reasoning_tokens": "226683",
+            "cached_tokens": "29365275",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-20",
+            "total_usage": 6.145634,
+            "request_count": "426",
+            "cache_hit_rate": 0.7726298985203202,
+            "tokens_prompt": "19403589",
+            "tokens_completion": "110721",
+            "reasoning_tokens": "53452",
+            "cached_tokens": "14991793",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-21",
+            "total_usage": 0.176034,
+            "request_count": "18",
+            "cache_hit_rate": 0.42553015755022816,
+            "tokens_prompt": "193716",
+            "tokens_completion": "3487",
+            "reasoning_tokens": "2180",
+            "cached_tokens": "82432",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-24",
+            "total_usage": 8.765901,
+            "request_count": "1509",
+            "cache_hit_rate": 0.6944616389040692,
+            "tokens_prompt": "39526621",
+            "tokens_completion": "302772",
+            "reasoning_tokens": "81021",
+            "cached_tokens": "27449722",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-25",
+            "total_usage": 5.65356,
+            "request_count": "921",
+            "cache_hit_rate": 0.5742825826889604,
+            "tokens_prompt": "18713411",
+            "tokens_completion": "193752",
+            "reasoning_tokens": "96679",
+            "cached_tokens": "10746786",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-26",
+            "total_usage": 3.860539,
+            "request_count": "779",
+            "cache_hit_rate": 0.6245834754793416,
+            "tokens_prompt": "21448017",
+            "tokens_completion": "109377",
+            "reasoning_tokens": "28103",
+            "cached_tokens": "13396077",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          },
+          {
+            "date__day": "2026-08-31",
+            "total_usage": 1.096471,
+            "request_count": "139",
+            "cache_hit_rate": 0.6488664757283008,
+            "tokens_prompt": "5538611",
+            "tokens_completion": "41523",
+            "reasoning_tokens": "12753",
+            "cached_tokens": "3593819",
+            "byok_usage": 0,
+            "byok_request_count": "0"
+          }
+        ],
+        "metadata": {
+          "query_time_ms": 18,
+          "row_count": 33,
+          "truncated": false
+        },
+        "cachedAt": 1788960324532
+      }
+    }
+  }
+]

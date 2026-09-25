@@ -1,0 +1,621 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 10,
+  "messages": [
+    {
+      "ts": "1784537309.488579",
+      "thread_ts": "1784537309.488579",
+      "user": "U09P40E8LN6",
+      "text": "bisogna capire perchè ogni volta che apriamo openrouter( qui nello screen c'è davide ma lo fa a tutti ) apre nano banana e consuma pochissimi token ma li consuma <https://openrouter.ai/logs|openrouter.ai/logs>",
+      "type": "message",
+      "reply_count": 9,
+      "reactions": [
+        {
+          "name": "banana",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "67eWS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bisogna capire perchè ogni volta che apriamo openrouter( qui nello screen c'è davide ma lo fa a tutti ) apre nano banana e consuma pochissimi token ma li consuma "
+                },
+                {
+                  "type": "link",
+                  "url": "https://openrouter.ai/logs",
+                  "text": "openrouter.ai/logs",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://openrouter.ai/dynamic-og?title=Sign+In&description=Sign+in+to+your+OpenRouter+account.",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 23554,
+          "from_url": "https://openrouter.ai/logs",
+          "service_icon": "https://openrouter.ai/favicon.ico",
+          "id": 1,
+          "original_url": "https://openrouter.ai/logs",
+          "fallback": "OpenRouter: Sign In | OpenRouter",
+          "text": "Sign in to your OpenRouter account.",
+          "title": "Sign In | OpenRouter",
+          "title_link": "https://openrouter.ai/logs",
+          "service_name": "OpenRouter"
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BK985P0BS",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 504688,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BK985P0BS/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BK985P0BS/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1784537348.932129",
+      "thread_ts": "1784537309.488579",
+      "user": "U0ALTAL9GCA",
+      "text": "Si, ho notato anche io. Voi che CLI utilizzate?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9CHAR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si, ho notato anche io. Voi che CLI utilizzate?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784537375.517559",
+      "thread_ts": "1784537309.488579",
+      "user": "U09P40E8LN6",
+      "text": "opencode!",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KbrAU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "opencode!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784537386.845409",
+      "thread_ts": "1784537309.488579",
+      "user": "U09P40E8LN6",
+      "text": "forse è proprio opencode il problema?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ll+Tk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "forse è proprio opencode il problema?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784537395.437329",
+      "thread_ts": "1784537309.488579",
+      "user": "U0ALTAL9GCA",
+      "text": "Anche io, vediamo davide cosa utilizza e capiamo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WOarm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Anche io, vediamo davide cosa utilizza e capiamo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784537402.980909",
+      "thread_ts": "1784537309.488579",
+      "user": "U09P40E8LN6",
+      "text": "opencode pure lui vedo dai log",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CsGWd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "opencode pure lui vedo dai log"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784537415.626939",
+      "thread_ts": "1784537309.488579",
+      "user": "U0ALTAL9GCA",
+      "text": "Allora dobbiamo fare un test con un altra CLI",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T68U4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Allora dobbiamo fare un test con un altra CLI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784537827.851539",
+      "thread_ts": "1784537309.488579",
+      "user": "U09P40E8LN6",
+      "text": "Gemini:\n1. Perché OpenCode fa una chiamata all'avvio?\nOgni volta che si apre OpenCode o si avvia una nuova sessione, il tool esegue una chiamata in background per gestire operazioni leggere di pulizia e manutenzione, in particolare per *generare automaticamente il titolo della conversazione* (`title generation`).\nPer evitare di consumare token costosi del modello primario (es. _Claude 3.5 Sonnet_ o _GPT-4o_), OpenCode delega questi compiti a un modello secondario più economico e veloce, gestito dal parametro interno *`small_model`*.\n2. Perché proprio \"Nano Banana 2\"?\nSu OpenRouter, *\"Nano Banana 2\"* è l'alias interno utilizzato per identificare una variante leggera di Gemini (_`google/gemini-3.1-flash-image-preview`_).\nQuando ci si connette tramite OpenRouter e non si specifica manualmente quale modello leggero usare, OpenCode chiede a OpenRouter quale sia il modello \"small\" di default per quel provider. La mappatura predefinita di OpenRouter in OpenCode indirizza questa richiesta proprio su *Nano Banana 2*.\n3. È un bug?\n• *L'azione in sé è intenzionale:* OpenCode genera titoli e riassunti per l'interfaccia. \n• *La scelta del modello è una falla di configurazione:* Far chiamare un modello orientato all'anteprima/immagini come Nano Banana 2 per generare del semplice testo di titolo è un'impostazione di fallback decisamente infelice che può consumare crediti inaspettati. \n4. Come risolvere il problema\nÈ possibile sovrascrivere questo comportamento impostando un modello leggero diverso (o gratuito) per il parametro `small_model`.\nMetodo A: File di configurazione `opencode.json`\nNel file di configurazione globale (`~/.config/opencode/opencode.json`) o di progetto, definire esplicitamente lo `small_model`:\nJSON\n\n\n```{\n  \"model\": \"openrouter/anthropic/claude-3.5-sonnet\",\n  \"small_model\": \"openrouter/google/gemini-2.0-flash-exp:free\"\n}```\nMetodo B: Variabile d'ambiente\nImpostare la variabile nel proprio terminale (nel file\n`.bashrc`, `.zshrc` o `.env`):\nBash\n\n\n```export OPENCODE_SMALL_MODEL=\"openrouter/google/gemini-2.0-flash-exp:free\"```\nIn questo modo, le chiamate automatiche all'avvio verranno reindirizzate verso un modello veloce e gratuito senza intaccare i crediti di OpenRouter.\nVuoi una mano a configurare il tuo file\n`opencode.json` con i modelli e i provider che usi di solito?\n\n\n\nvediamo se è vero",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "pray",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        },
+        {
+          "name": "pray::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QAIXt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Gemini:\n1. Perché OpenCode fa una chiamata all'avvio?\nOgni volta che si apre OpenCode o si avvia una nuova sessione, il tool esegue una chiamata in background per gestire operazioni leggere di pulizia e manutenzione, in particolare per "
+                },
+                {
+                  "type": "text",
+                  "text": "generare automaticamente il titolo della conversazione",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ("
+                },
+                {
+                  "type": "text",
+                  "text": "title generation",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ").\nPer evitare di consumare token costosi del modello primario (es. "
+                },
+                {
+                  "type": "text",
+                  "text": "Claude 3.5 Sonnet",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " o "
+                },
+                {
+                  "type": "text",
+                  "text": "GPT-4o",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "), OpenCode delega questi compiti a un modello secondario più economico e veloce, gestito dal parametro interno "
+                },
+                {
+                  "type": "text",
+                  "text": "small_model",
+                  "style": {
+                    "bold": true,
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ".\n2. Perché proprio \"Nano Banana 2\"?\nSu OpenRouter, "
+                },
+                {
+                  "type": "text",
+                  "text": "\"Nano Banana 2\"",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " è l'alias interno utilizzato per identificare una variante leggera di Gemini ("
+                },
+                {
+                  "type": "text",
+                  "text": "google/gemini-3.1-flash-image-preview",
+                  "style": {
+                    "italic": true,
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ").\nQuando ci si connette tramite OpenRouter e non si specifica manualmente quale modello leggero usare, OpenCode chiede a OpenRouter quale sia il modello \"small\" di default per quel provider. La mappatura predefinita di OpenRouter in OpenCode indirizza questa richiesta proprio su "
+                },
+                {
+                  "type": "text",
+                  "text": "Nano Banana 2",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ".\n3. È un bug?\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "L'azione in sé è intenzionale:",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " OpenCode genera titoli e riassunti per l'interfaccia. "
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "La scelta del modello è una falla di configurazione:",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " Far chiamare un modello orientato all'anteprima/immagini come Nano Banana 2 per generare del semplice testo di titolo è un'impostazione di fallback decisamente infelice che può consumare crediti inaspettati. "
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "4. Come risolvere il problema\nÈ possibile sovrascrivere questo comportamento impostando un modello leggero diverso (o gratuito) per il parametro "
+                },
+                {
+                  "type": "text",
+                  "text": "small_model",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ".\nMetodo A: File di configurazione "
+                },
+                {
+                  "type": "text",
+                  "text": "opencode.json",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nNel file di configurazione globale ("
+                },
+                {
+                  "type": "text",
+                  "text": "~/.config/opencode/opencode.json",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ") o di progetto, definire esplicitamente lo "
+                },
+                {
+                  "type": "text",
+                  "text": "small_model",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ":\nJSON\n\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "{\n  \"model\": \"openrouter/anthropic/claude-3.5-sonnet\",\n  \"small_model\": \"openrouter/google/gemini-2.0-flash-exp:free\"\n}"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Metodo B: Variabile d'ambiente\nImpostare la variabile nel proprio terminale (nel file\n"
+                },
+                {
+                  "type": "text",
+                  "text": ".bashrc",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "text",
+                  "text": ".zshrc",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " o "
+                },
+                {
+                  "type": "text",
+                  "text": ".env",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "):\nBash\n\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "export OPENCODE_SMALL_MODEL=\"openrouter/google/gemini-2.0-flash-exp:free\""
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "In questo modo, le chiamate automatiche all'avvio verranno reindirizzate verso un modello veloce e gratuito senza intaccare i crediti di OpenRouter.\nVuoi una mano a configurare il tuo file\n"
+                },
+                {
+                  "type": "text",
+                  "text": "opencode.json",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " con i modelli e i provider che usi di solito?\n\n\n\nvediamo se è vero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784543515.734209",
+      "thread_ts": "1784537309.488579",
+      "user": "U08F42UJQEP",
+      "text": "sì c'è scritto nella doc che ci si potrebbero trovare dei costi per la generazione del nome della sessione",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k+YZM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì c'è scritto nella doc che ci si potrebbero trovare dei costi per la generazione del nome della sessione"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784544533.582609",
+      "thread_ts": "1784537309.488579",
+      "user": "U09P40E8LN6",
+      "text": "Pollo io che non l’avevo letto :joy::exploding_head:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q3U3U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Pollo io che non l’avevo letto "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "shocked_face_with_exploding_head",
+                  "unicode": "1f92f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

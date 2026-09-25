@@ -1,0 +1,17 @@
+{
+  "name": "openrouter-confluence-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Tool di supporto al workflow di pubblicazione su Confluence dei documenti della selezione software OpenRouter (generazione body HTML da markdown).",
+  "type": "module",
+  "bin": {
+    "gen-body-confluence": "gen-body-confluence.mjs"
+  },
+  "scripts": {
+    "gen": "node gen-body-confluence.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "^5.4.2",
+    "markdown-it": "^15.0.2"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1787313648.466069",
+      "thread_ts": "1787313648.466069",
+      "user": "U08F42UJQEP",
+      "text": "oddio, creo delle lambda con un coding agent direttamente dalla console di aws? magari è già possibile farlo",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "981ax",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "oddio, creo delle lambda con un coding agent direttamente dalla console di aws? magari è già possibile farlo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787314598.062559",
+      "thread_ts": "1787313648.466069",
+      "user": "U0AKR9GTN4U",
+      "text": "non ci ho ancora provato, ma non mi stupirebbe che amazon q lo facesse... tra l'altro credo sia di fatto diventato un editor remoto di vscode (non so quanto personalizzabile)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J+bXR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non ci ho ancora provato, ma non mi stupirebbe che amazon q lo facesse... tra l'altro credo sia di fatto diventato un editor remoto di vscode (non so quanto personalizzabile)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    }
+  ]
+}

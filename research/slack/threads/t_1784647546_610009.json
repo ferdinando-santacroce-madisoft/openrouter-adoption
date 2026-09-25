@@ -1,0 +1,881 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 33,
+  "messages": [
+    {
+      "ts": "1784647546.610009",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Amici dell'AI, quelli di Swarmia mi chiedono:\n&gt; <@U08KA9A2BMZ>, thanks for the extra info! Which AI agents/harnesses do you specifically use in Visual Studio and JetBrains IDEs?\nChe gli rispondo?",
+      "type": "message",
+      "reply_count": 32,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YcXy6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Amici dell'AI, quelli di Swarmia mi chiedono:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                },
+                {
+                  "type": "text",
+                  "text": ", thanks for the extra info! Which AI agents/harnesses do you specifically use in Visual Studio and JetBrains IDEs?"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Che gli rispondo?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647572.385389",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "In pratica gli ho chiesto se c'è modo di integrare Swarmia con OpenRouter e da quello che capisco, il tutto dipende dal client che si usa",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ggDXS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "In pratica gli ho chiesto se c'è modo di integrare Swarmia con OpenRouter e da quello che capisco, il tutto dipende dal client che si usa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647589.124529",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "ti rispondo qua",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y+vYZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ti rispondo qua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647611.419809",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "potenzialmente ognuno può usare quello che vuole, da pi agent fino a claude code",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QS3FD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "potenzialmente ognuno può usare quello che vuole, da pi agent fino a claude code"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647636.161909",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "possiamo fare un poll ma per il momento non ci siamo dati nessun vincolo in tal senso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YCyV6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "possiamo fare un poll ma per il momento non ci siamo dati nessun vincolo in tal senso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647643.893389",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Hum interessante....",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "clW3n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Hum interessante...."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647655.504249",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "chiamo all'appello il mio amico <@U0B0ZPLKA3B> :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f8AHL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "chiamo all'appello il mio amico "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U0B0ZPLKA3B"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647684.988639",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Perché la policy di gruppo in ambito AI è piuttosto rigida e abbiamo bisogno di definire bene i confini anche solo per comunicarli al gruppo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BlVSM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Perché la policy di gruppo in ambito AI è piuttosto rigida e abbiamo bisogno di definire bene i confini anche solo per comunicarli al gruppo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647729.097809",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "ah quindi non riguarda solo i modelli insomma",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nEv2L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ah quindi non riguarda solo i modelli insomma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647735.711899",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Secondo voi ci possono essere criticità di sicurezza legati all'harness?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LvHvl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Secondo voi ci possono essere criticità di sicurezza legati all'harness?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647741.329839",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "per i modelli usiamo solo quelli zero data retention",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "83zyy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per i modelli usiamo solo quelli zero data retention"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647742.838799",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U08F42UJQEP> non zo!",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0/kr1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " non zo!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647750.632659",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Spero di no :wink:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "80d5u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Spero di no "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647771.134179",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Comunque al momento voi che Harness state usando?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jf0vQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Comunque al momento voi che Harness state usando?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647781.523259",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "io opencode",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MruYu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io opencode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647782.861909",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "OpenCode?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sVgU8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "OpenCode?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647793.399759",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "e credo anche Massimiliano",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cH0sF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e credo anche Massimiliano"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647796.242739",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "gli altri non so",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l03VV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gli altri non so"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647822.006289",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "per quanto riguarda l'harness penso ci possano essere le stesse criticità che ci sono per altri software",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wqgLZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per quanto riguarda l'harness penso ci possano essere le stesse criticità che ci sono per altri software"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647830.261799",
+      "thread_ts": "1784647546.610009",
+      "user": "U0B0ZPLKA3B",
+      "text": "si con Nando ci siamo dati come configurazione di utilizzare solo i modelli senza data retention",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xss6q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si con Nando ci siamo dati come configurazione di utilizzare solo i modelli senza data retention"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647845.168209",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Il punto non è sui modelli ma nell'harness",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ShpJJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Il punto non è sui modelli ma nell'harness"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647849.971899",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "sì sì quella è proprio la policy configurata su openrouter",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0B0ZPLKA3B"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XjZ43",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì sì quella è proprio la policy configurata su openrouter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647859.877769",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Ad esempio OpenCode, Claude Code, ecc",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RA19+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ad esempio OpenCode, Claude Code, ecc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647883.710019",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "Ogni dev può collegare l'harness che vuole a OpenRouter, le due cose sono svincolate",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qTwas",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ogni dev può collegare l'harness che vuole a OpenRouter, le due cose sono svincolate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647904.624859",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "per l'harness vedo più preoccupanti in caso le skill rispetto all'harness",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+pz+y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per l'harness vedo più preoccupanti in caso le skill rispetto all'harness"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647938.436829",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "per l'harness le criticità che posso vedere sono quelle dei normali software, almeno per quelle open",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EuZsP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per l'harness le criticità che posso vedere sono quelle dei normali software, almeno per quelle open"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784647989.098549",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "quelle closed non lo sai cosa fanno quando usi modelli non loro",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VHJZw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "quelle closed non lo sai cosa fanno quando usi modelli non loro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784648009.847369",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "però se c'è una policy da rispettare anche sull'harness tocca che ne parliamo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "76RRX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però se c'è una policy da rispettare anche sull'harness tocca che ne parliamo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784648025.810259",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "nel senso che ne parliamo e l'applichiamo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a0AEl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nel senso che ne parliamo e l'applichiamo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784648055.820139",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "perchè comunque la possibilità c'era anche prima",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KbsPS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè comunque la possibilità c'era anche prima"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784648068.429339",
+      "thread_ts": "1784647546.610009",
+      "user": "U08KA9A2BMZ",
+      "text": "No no, la policy è molto generale, probabilmente dobbiamo noi comunicare come la implementiamo per assicurarci che sia compliant",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0AHFw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "No no, la policy è molto generale, probabilmente dobbiamo noi comunicare come la implementiamo per assicurarci che sia compliant"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784648076.175969",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "nel senso che opencode mi sembra funzioni anche con copilot",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WYvSo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nel senso che opencode mi sembra funzioni anche con copilot"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784648085.839969",
+      "thread_ts": "1784647546.610009",
+      "user": "U08F42UJQEP",
+      "text": "ah ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ANCMi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ah ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0B0ZPLKA3B",
+      "name": "pasquale.siciliano",
+      "real_name": "Pasquale Siciliano",
+      "email": "pasquale.siciliano@madisoft.it"
+    }
+  ]
+}

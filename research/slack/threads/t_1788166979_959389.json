@@ -1,0 +1,222 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 7,
+  "messages": [
+    {
+      "ts": "1788166979.959389",
+      "thread_ts": "1788166979.959389",
+      "user": "U0ALTAL9GCA",
+      "text": "Buondi :slightly_smiling_face:\nSto provando ad utilizzare openrouter con opencode, ma nonostante non ho superato nessun limite mi esce questo errore\n\"\nThis request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits\n\"",
+      "type": "message",
+      "reply_count": 6,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cV+w6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Buondi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": "\nSto provando ad utilizzare openrouter con opencode, ma nonostante non ho superato nessun limite mi esce questo errore\n\"\nThis request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits\n\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788166992.409139",
+      "thread_ts": "1788166979.959389",
+      "user": "U0ALTAL9GCA",
+      "text": "Sapete di cosa si tratta?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1UXpd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sapete di cosa si tratta?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788167440.894669",
+      "thread_ts": "1788166979.959389",
+      "user": "U096LKSL2T0",
+      "text": "Abbiamo finito i soldi :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3T739",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Abbiamo finito i soldi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788167453.213739",
+      "thread_ts": "1788166979.959389",
+      "user": "U0ALTAL9GCA",
+      "text": "Ah :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1sqd4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ah "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788167462.335339",
+      "thread_ts": "1788166979.959389",
+      "user": "U096LKSL2T0",
+      "text": "(almeno credo, venerdì avanzavano 3$ :smile: )",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f/t18",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(almeno credo, venerdì avanzavano 3$ "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": " )"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788167573.163099",
+      "thread_ts": "1788166979.959389",
+      "user": "U096LKSL2T0",
+      "text": "",
+      "type": "message",
+      "files": [
+        {
+          "id": "F0BTMH02C67",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 60414,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BTMH02C67/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BTMH02C67/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1788167598.987269",
+      "thread_ts": "1788166979.959389",
+      "user": "U0ALTAL9GCA",
+      "text": "Chiaro, infatti con il modello DSV4 Flash fa ancora qualcosa",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SAy05",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chiaro, infatti con il modello DSV4 Flash fa ancora qualcosa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

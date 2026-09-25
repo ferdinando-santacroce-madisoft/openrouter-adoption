@@ -1,0 +1,73 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1784109853.561749",
+      "thread_ts": "1784109853.561749",
+      "user": "U0ALTAL9GCA",
+      "text": "<@U096LKSL2T0> purtroppo non ho ricevuto l'invito",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4xk7s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " purtroppo non ho ricevuto l'invito"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784109930.650549",
+      "thread_ts": "1784109853.561749",
+      "user": "U096LKSL2T0",
+      "text": "l'avevo creato prima, rti ho aggiunto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RGkB0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "l'avevo creato prima, rti ho aggiunto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

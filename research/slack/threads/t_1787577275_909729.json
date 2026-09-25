@@ -1,0 +1,550 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 18,
+  "messages": [
+    {
+      "ts": "1787577275.909729",
+      "thread_ts": "1787577275.909729",
+      "user": "U087RH5C7FA",
+      "text": "Per chi usa opencode + deepseek: anche a voi partono un sacco di chiamate di subagent che usano gemini 3.5 flash light? Avete provato a forzare deepseek anche su subagents?",
+      "type": "message",
+      "reply_count": 17,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IwS+i",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Per chi usa opencode + deepseek: anche a voi partono un sacco di chiamate di subagent che usano gemini 3.5 flash light? Avete provato a forzare deepseek anche su subagents?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577299.531889",
+      "thread_ts": "1787577275.909729",
+      "user": "U09P40E8LN6",
+      "text": "si a quanto ho capito serve per il titolo del subagent",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qNwgC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si a quanto ho capito serve per il titolo del subagent"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577320.113269",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "anche il classificatore usa quello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m6351",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche il classificatore usa quello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577339.768499",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "non c'entra il modello che scegli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mx4g/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non c'entra il modello che scegli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577376.823719",
+      "thread_ts": "1787577275.909729",
+      "user": "U087RH5C7FA",
+      "text": "e deve per forza usare gemini quindi?\nIo stavo anche provando con queste config:\n```{\n  \"$schema\": \"<https://opencode.ai/config.json>\",\n  \"mcp\": {},\n  \"instructions\": [],\n  \"agents\": {\n    \"explore\": {\n      \"model\": \"openrouter/deepseek/deepseek-v4-flash\"\n    },\n    \"scout\": {\n      \"model\": \"openrouter/deepseek/deepseek-v4-flash\"\n    },\n    \"general\": {\n      \"model\": \"openrouter/deepseek/deepseek-v4-flash\"\n    }\n  }\n}```\nMa sembra non gliene freghi molto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QR/Gi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e deve per forza usare gemini quindi?\nIo stavo anche provando con queste config:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "{\n  \"$schema\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://opencode.ai/config.json"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n  \"mcp\": {},\n  \"instructions\": [],\n  \"agents\": {\n    \"explore\": {\n      \"model\": \"openrouter/deepseek/deepseek-v4-flash\"\n    },\n    \"scout\": {\n      \"model\": \"openrouter/deepseek/deepseek-v4-flash\"\n    },\n    \"general\": {\n      \"model\": \"openrouter/deepseek/deepseek-v4-flash\"\n    }\n  }\n}"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ma sembra non gliene freghi molto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577408.629539",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "per quanto riguarda il mdello per i titoli devi definire lo small model",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XX9ef",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per quanto riguarda il mdello per i titoli devi definire lo small model"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577431.359339",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "il classificatore è lato openrouter quindi la configuazione di opencode è inifluoente",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rvdTr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "il classificatore è lato openrouter quindi la configuazione di opencode è inifluoente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577468.682669",
+      "thread_ts": "1787577275.909729",
+      "user": "U087RH5C7FA",
+      "text": "Ok chiaro, quindi è una cosa che dovremmo eventualmente modificare lato config di OpenRouter a livello aziendale?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pPeVp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ok chiaro, quindi è una cosa che dovremmo eventualmente modificare lato config di OpenRouter a livello aziendale?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577531.846359",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "i titoli puoi farlo a livello di config di opencode, il classificatore si fa a livello di openrouter ma non hai tutta sta scelta",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ByOf/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i titoli puoi farlo a livello di config di opencode, il classificatore si fa a livello di openrouter ma non hai tutta sta scelta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577560.053679",
+      "thread_ts": "1787577275.909729",
+      "user": "U087RH5C7FA",
+      "text": "ok grazie, era più per curiosità",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OGKRv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok grazie, era più per curiosità"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577595.094729",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "prova a definire questo come small model nella config di opencode `\"small_model\": \"openrouter/openai/gpt-oss-20b:free\",`",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U087RH5C7FA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EyJoq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "prova a definire questo come small model nella config di opencode "
+                },
+                {
+                  "type": "text",
+                  "text": "\"small_model\": \"openrouter/openai/gpt-oss-20b:free\",",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577607.041069",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "che per dare i titoli alle sessioni dovrebbe bastare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uAtdz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "che per dare i titoli alle sessioni dovrebbe bastare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577614.736699",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "tanto è solo per riferimento tuo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PZlKc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tanto è solo per riferimento tuo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787577629.772049",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "potrebbero chiamarsi anche tutte Gigi per quanto mi riguarda",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U087RH5C7FA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A+jPL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "potrebbero chiamarsi anche tutte Gigi per quanto mi riguarda"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787585613.311979",
+      "thread_ts": "1787577275.909729",
+      "user": "U087RH5C7FA",
+      "text": "<@U08F42UJQEP> Usando Deepseek flash spendo più di classificatore che di modello selezionato.\nChe altri modelli ci sono eventualmente disponibili per ridurre il consumo? Gemini dovrebbe essere già leggero di suo ma mi pare strano che faccia più lavoro del modello che scelgo per sviluppare.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZXpN1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " Usando Deepseek flash spendo più di classificatore che di modello selezionato.\nChe altri modelli ci sono eventualmente disponibili per ridurre il consumo? Gemini dovrebbe essere già leggero di suo ma mi pare strano che faccia più lavoro del modello che scelgo per sviluppare."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSCQTPZUZ",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 15537,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSCQTPZUZ/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSCQTPZUZ/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787585860.102359",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "(stai usando una versione vecchia di ds4 flash) per il momento abbiamo selezionato quello indicato come best value nella lista disponibile. Non viene elencato il costo quindi sarebbe da indagare, mi aspetto che passando alla 3.1 già si spenda meno",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l2Wxn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(stai usando una versione vecchia di ds4 flash) per il momento abbiamo selezionato quello indicato come best value nella lista disponibile. Non viene elencato il costo quindi sarebbe da indagare, mi aspetto che passando alla 3.1 già si spenda meno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787585879.340449",
+      "thread_ts": "1787577275.909729",
+      "user": "U08F42UJQEP",
+      "text": "questa è la lista",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U087RH5C7FA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9l68d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "questa è la lista"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BS90E8VTQ",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 19265,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BS90E8VTQ/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BS90E8VTQ/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787586506.296269",
+      "thread_ts": "1787577275.909729",
+      "user": "U087RH5C7FA",
+      "text": "Ah grazie hai ragione, passo intanto alla versione ds4 più recente",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z9c3G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ah grazie hai ragione, passo intanto alla versione ds4 più recente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U087RH5C7FA",
+      "name": "lorenzo.piersante",
+      "real_name": "Lorenzo Piersante",
+      "email": "lorenzo.piersante@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

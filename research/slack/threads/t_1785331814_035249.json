@@ -1,0 +1,306 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 6,
+  "messages": [
+    {
+      "ts": "1785331814.035249",
+      "thread_ts": "1785331814.035249",
+      "user": "U087RH5C7FA",
+      "text": "<@U08KA9A2BMZ> Ciao, sto lavorando a delle API per gli Interpelli e sto sviluppando in maniera principalmente agentica.\nGeneralmente:\n• Mi creo un file markdown per ogni feature con tutti i dettagli\n• Itero con l'LLM per pianificare lo sviluppo e correggere le specifiche nel file markdown dove serve\n• Faccio partire l'agent che procede con lo sviluppo\n• Fixo eventualmente a mano qualche cosetta da poco che rimane fuori per risparmiare qualche token\nIn questo contesto in particolare il lavoro è molto semplice e ripetitivo e questa modalità di sviluppo mi sta risparmiando parecchio tempo.\nNon ti so fare una stima esatta ma a spanne un risparmio del 30-40% sul tempo c'è.\nIn media sto spendendo circa 3$ a giornata di lavoro con DeepSeek V4 pro.\n\nSi potrebbe alzare un po' il tetto di spesa per un paio di settimane (questa corrente e la prossima, poi sono in ferie) in modo da completare la lavorazione in questa modalità?\nUna cosa come 12$ a settimana (6$ in più) mi potrebbe bastare :money_mouth_face:",
+      "type": "message",
+      "reply_count": 5,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MH69c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08KA9A2BMZ"
+                },
+                {
+                  "type": "text",
+                  "text": " Ciao, sto lavorando a delle API per gli Interpelli e sto sviluppando in maniera principalmente agentica.\nGeneralmente:\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Mi creo un file markdown per ogni feature con tutti i dettagli"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Itero con l'LLM per pianificare lo sviluppo e correggere le specifiche nel file markdown dove serve"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Faccio partire l'agent che procede con lo sviluppo"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Fixo eventualmente a mano qualche cosetta da poco che rimane fuori per risparmiare qualche token"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "In questo contesto in particolare il lavoro è molto semplice e ripetitivo e questa modalità di sviluppo mi sta risparmiando parecchio tempo.\nNon ti so fare una stima esatta ma a spanne un risparmio del 30-40% sul tempo c'è.\nIn media sto spendendo circa 3$ a giornata di lavoro con DeepSeek V4 pro.\n\nSi potrebbe alzare un po' il tetto di spesa per un paio di settimane (questa corrente e la prossima, poi sono in ferie) in modo da completare la lavorazione in questa modalità?\nUna cosa come 12$ a settimana (6$ in più) mi potrebbe bastare "
+                },
+                {
+                  "type": "emoji",
+                  "name": "money_mouth_face",
+                  "unicode": "1f911"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785333196.720919",
+      "thread_ts": "1785331814.035249",
+      "user": "U08F42UJQEP",
+      "text": "ma hai provato ad usare i modelli pro solo per il planning?",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "shMOL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma hai provato ad usare i modelli pro solo per il planning?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785333527.419949",
+      "thread_ts": "1785331814.035249",
+      "user": "U087RH5C7FA",
+      "text": "Si forse si potrebbe risparmiare qualcosa però mi pare chi il pro mi faccia un lavoro migliore anche in fase di scrittura (mi dirai grazie al cazzo :rolling_on_the_floor_laughing:) e deepseek non è che abbia proprio un costo astronomico",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q8Arv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si forse si potrebbe risparmiare qualcosa però mi pare chi il pro mi faccia un lavoro migliore anche in fase di scrittura (mi dirai grazie al cazzo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                },
+                {
+                  "type": "text",
+                  "text": ") e deepseek non è che abbia proprio un costo astronomico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785336817.394389",
+      "thread_ts": "1785331814.035249",
+      "user": "U08F42UJQEP",
+      "text": "comunque a livello di costo ds4 flash costa un quinto <https://openrouter.ai/compare/deepseek/deepseek-v4-flash/deepseek/deepseek-v4-pro|openrouter.ai/compare/…/deepseek-v4-pro>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f9W2t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque a livello di costo ds4 flash costa un quinto "
+                },
+                {
+                  "type": "link",
+                  "url": "https://openrouter.ai/compare/deepseek/deepseek-v4-flash/deepseek/deepseek-v4-pro",
+                  "text": "openrouter.ai/compare/…/deepseek-v4-pro",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://openrouter.ai/dynamic-og?title=DeepSeek+V4+Flash+vs+DeepSeek+V4+Pro+-+AI+Model+Comparison&description=Compare+DeepSeek+V4+Flash+from+DeepSeek+and+DeepSeek+V4+Pro+from+DeepSeek+on+key+metrics+including+benchmarks%2C+price%2C+context+length%2C+and+other+model+features.",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 70944,
+          "from_url": "https://openrouter.ai/compare/deepseek/deepseek-v4-flash/deepseek/deepseek-v4-pro",
+          "service_icon": "https://openrouter.ai/favicon/glyph.png",
+          "id": 1,
+          "original_url": "https://openrouter.ai/compare/deepseek/deepseek-v4-flash/deepseek/deepseek-v4-pro",
+          "fallback": "OpenRouter: DeepSeek V4 Flash vs DeepSeek V4 Pro - AI Model Comparison",
+          "text": "Compare DeepSeek V4 Flash from DeepSeek and DeepSeek V4 Pro from DeepSeek on key metrics including benchmarks, price, context length, and other model features.",
+          "title": "DeepSeek V4 Flash vs DeepSeek V4 Pro - AI Model Comparison",
+          "title_link": "https://openrouter.ai/compare/deepseek/deepseek-v4-flash/deepseek/deepseek-v4-pro",
+          "service_name": "OpenRouter"
+        }
+      ]
+    },
+    {
+      "ts": "1785337072.117169",
+      "thread_ts": "1785331814.035249",
+      "user": "U087RH5C7FA",
+      "text": "Va bene magari riprovo anche così a farmelo durare un po' di più :+1::skin-tone-2:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CgJc+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Va bene magari riprovo anche così a farmelo durare un po' di più "
+                },
+                {
+                  "type": "emoji",
+                  "name": "+1",
+                  "unicode": "1f44d-1f3fb",
+                  "skin_tone": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785338223.150089",
+      "thread_ts": "1785331814.035249",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U087RH5C7FA> ottimo esperimento. Per il budget però al momento non riesco a darti conferma. Magari parlane con Diego e Nando appena rientrano dalle ferie. Fai conto che il budget che comunque avremo al momento sono sempre quei 20$ al mese con l'opportunità di chiedere budget ad-hoc presentando la richiesta come avevamo comunicato. Quindi ai fine dell’esperimento provare a capire anche i vari modelli più economici come suggerito da Davide è un’ottima cosa.\n\nIo sarò in ferie fino al 23 Agosto, se mi sentite su questo canale è perché sto giocando un po’ e studiando durante le ferie :sweat_smile:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U087RH5C7FA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kV1pE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U087RH5C7FA"
+                },
+                {
+                  "type": "text",
+                  "text": " ottimo esperimento. Per il budget però al momento non riesco a darti conferma. Magari parlane con Diego e Nando appena rientrano dalle ferie. Fai conto che il budget che comunque avremo al momento sono sempre quei 20$ al mese con l'opportunità di chiedere budget ad-hoc presenta"
+                },
+                {
+                  "type": "text",
+                  "text": "ndo"
+                },
+                {
+                  "type": "text",
+                  "text": " la richiesta come avevamo comunicato. Quindi ai fine dell’esperimento provare a capire anche i vari modelli più economici come suggerito da Davide è un’ottima cosa.\n\nIo sarò in ferie fino al 23 Agosto, se mi sentite su questo canale è perché sto giocando un po’ e studiando durante le ferie "
+                },
+                {
+                  "type": "emoji",
+                  "name": "sweat_smile",
+                  "unicode": "1f605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U087RH5C7FA",
+      "name": "lorenzo.piersante",
+      "real_name": "Lorenzo Piersante",
+      "email": "lorenzo.piersante@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    }
+  ]
+}

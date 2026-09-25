@@ -1,0 +1,380 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 13,
+  "messages": [
+    {
+      "ts": "1784618223.693249",
+      "thread_ts": "1784618223.693249",
+      "user": "U09P40E8LN6",
+      "text": "p.s. c'è modo di togliere questi provider <@U08F42UJQEP>? ora ci guardo, perchè in teoria con la policy che ha messo nando questi non dovrebbero apparire",
+      "type": "message",
+      "reply_count": 12,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FmIK5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "p.s. c'è modo di togliere questi provider "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": "? ora ci guardo, perchè in teoria con la policy che ha messo nando questi non dovrebbero apparire"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BJMFZGFPG",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 58791,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BJMFZGFPG/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BJMFZGFPG/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1784618256.551479",
+      "thread_ts": "1784618223.693249",
+      "user": "U09P40E8LN6",
+      "text": "anzi appaiono perchè sono di opencode e non penso ci possiamo fare qualcosa",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NhG5w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anzi appaiono perchè sono di opencode e non penso ci possiamo fare qualcosa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618268.384589",
+      "thread_ts": "1784618223.693249",
+      "user": "U09P40E8LN6",
+      "text": "unica cosa bisogna attenzionare che quelli sono free e c'è il training on",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NDQy8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "unica cosa bisogna attenzionare che quelli sono free e c'è il training on"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618320.443319",
+      "thread_ts": "1784618223.693249",
+      "user": "U08F42UJQEP",
+      "text": "di preciso non lo so ma secondo me nella config qualcosa si può fare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KZwIQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "di preciso non lo so ma secondo me nella config qualcosa si può fare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618824.977579",
+      "thread_ts": "1784618223.693249",
+      "user": "U0AKR9GTN4U",
+      "text": "secondo me va fatto nel client se si può",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fE8UZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "secondo me va fatto nel client se si può"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618854.642839",
+      "thread_ts": "1784618223.693249",
+      "user": "U09P40E8LN6",
+      "text": "SI credo si possa fare solo li",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0zIaJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SI credo si possa fare solo li"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618864.434829",
+      "thread_ts": "1784618223.693249",
+      "user": "U08F42UJQEP",
+      "text": "",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U",
+            "U087RH5C7FA",
+            "U096LKSL2T0"
+          ],
+          "count": 3
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BJ87CKXE3",
+          "name": "opencode.jsonc",
+          "title": "opencode.jsonc",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "size": 212,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BJ87CKXE3/opencode.jsonc",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BJ87CKXE3/opencode.jsonc",
+          "mode": "snippet"
+        }
+      ]
+    },
+    {
+      "ts": "1784618869.593239",
+      "thread_ts": "1784618223.693249",
+      "user": "U08F42UJQEP",
+      "text": "così sono disabilitati",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2eTYc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "così sono disabilitati"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618876.195769",
+      "thread_ts": "1784618223.693249",
+      "user": "U09P40E8LN6",
+      "text": "mitico",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Iifno",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mitico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618913.311039",
+      "thread_ts": "1784618223.693249",
+      "user": "U08F42UJQEP",
+      "text": "adesso devo capire dove sbaglio a dargli la config degli small model",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uYbc2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "adesso devo capire dove sbaglio a dargli la config degli small model"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618919.215719",
+      "thread_ts": "1784618223.693249",
+      "user": "U08F42UJQEP",
+      "text": "per la generazione dei titoli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xyZO9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per la generazione dei titoli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784618935.625719",
+      "thread_ts": "1784618223.693249",
+      "user": "U08F42UJQEP",
+      "text": "perchè sbaglierò l'identificativo in qualche modo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GZ6lK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè sbaglierò l'identificativo in qualche modo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784620553.273589",
+      "thread_ts": "1784618223.693249",
+      "user": "U08F42UJQEP",
+      "text": "ok sbagliavo l'id del modello, così funziona. Anche l'identificativo di gemini 2.0 free in realtà non esiste e non funzionava",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AuRhV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok sbagliavo l'id del modello, così funziona. Anche l'identificativo di gemini 2.0 free in realtà non esiste e non funzionava"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BJTF2Q0MA",
+          "name": "opencode.jsonc",
+          "title": "opencode.jsonc",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "size": 268,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BJTF2Q0MA/opencode.jsonc",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BJTF2Q0MA/opencode.jsonc",
+          "mode": "snippet"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    }
+  ]
+}

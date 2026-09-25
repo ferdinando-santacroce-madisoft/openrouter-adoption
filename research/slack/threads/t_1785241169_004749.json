@@ -1,0 +1,171 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 3,
+  "messages": [
+    {
+      "ts": "1785241169.004749",
+      "thread_ts": "1785241169.004749",
+      "user": "U08KA9A2BMZ",
+      "text": "Io ho sempre più l’impressione che la scelta dei tool è sicuramente necessaria, ma ancora più importante è decidere il metodo che vogliamo utilizzare e a seconda della necessità che abbiamo:\n• Assistenza allo sviluppo del codice \n• Sviluppo agentico di nuove features\n• Sviluppo agentico per ammodernamento architetturale",
+      "type": "message",
+      "reply_count": 2,
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "ok_hand::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "15Y4E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Io ho sempre più l’impressione che la scelta dei tool è sicuramente necessaria, ma ancora più importante è decidere il metodo che vogliamo utilizzare e a seconda della necessità che abbiamo:"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Assistenza allo sviluppo del codice "
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Sviluppo agentico di nuove features"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Sviluppo agentico per ammodernamento architetturale"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "offset": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785242228.148709",
+      "thread_ts": "1785241169.004749",
+      "user": "U0AKR9GTN4U",
+      "text": "Aggiungerei anche assistenza al troubleshooting e/o monitoraggio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o3QX1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Aggiungerei anche assistenza al troubleshooting e/o monitoraggio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785245203.198729",
+      "thread_ts": "1785241169.004749",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U0AKR9GTN4U> sono piuttosto sicuro che abbiamo bisogno di capire se AI può migliorare il nostro SDLC. Tu per troubleshooting e/o monitoraggio non credo parli di SDLC, ma di Operations Infrastrutturali. Io credo che il peso di queste operations sia dato da una infra legacy, e investirei più nel migrare tutto velocemente nella nuova infra che ottimizzare processi che andranno scomparendo una volta che saremo nella nuova infra. La priorità resta creare la nuova infra, spezzare i servizi e chiudere la infra legacy :wink:.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ytpmM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0AKR9GTN4U"
+                },
+                {
+                  "type": "text",
+                  "text": " sono piuttosto sicuro che abbiamo bisogno di capire se AI può migliorare il nostro SDLC. Tu per troubleshooting e/o monitoraggio non credo parli di SDLC, ma di Operations Infrastrutturali. Io credo che il peso di queste operations sia dato da una infra legacy, e investirei più nel migrare tutto velocemente nella nuova infra che ottimizzare processi che andranno scomparendo una volta che saremo nella nuova infra. La priorità resta creare la nuova infra, spezzare i servizi e chiudere la infra legacy "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    }
+  ]
+}

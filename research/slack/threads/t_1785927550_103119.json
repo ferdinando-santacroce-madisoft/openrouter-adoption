@@ -1,0 +1,326 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 10,
+  "messages": [
+    {
+      "ts": "1785927550.103119",
+      "thread_ts": "1785927550.103119",
+      "user": "U0ALTAL9GCA",
+      "text": "Scusate ma come posso copiare (senza prendere anche la colonna destra) il testo all'interno della sezione dove l'LLM mi risponde?",
+      "type": "message",
+      "reply_count": 9,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/+kL9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Scusate ma come posso copiare (senza prendere anche la colonna destra) il testo all'interno della sezione dove l'LLM mi risponde?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785927557.024799",
+      "thread_ts": "1785927550.103119",
+      "user": "U0ALTAL9GCA",
+      "text": "Parlo di Opencode",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I4E2V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Parlo di Opencode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785932383.669629",
+      "thread_ts": "1785927550.103119",
+      "user": "U096LKSL2T0",
+      "text": "io faccio col mouse :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HXFIu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io faccio col mouse "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785932472.420549",
+      "thread_ts": "1785927550.103119",
+      "user": "U0ALTAL9GCA",
+      "text": "Anche io :slightly_smiling_face: ma giustamente ogni new line va da sinistra fino a destra (quindi prende anche la colonna destra).\nTu la sessione la apri nel client ssh oppure in quello dell'editor del progetto? (VS code o Phpstorm)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rwHNd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Anche io "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": " ma giustamente ogni new line va da sinistra fino a destra (quindi prende anche la colonna destra).\nTu la sessione la apri nel client ssh oppure in quello dell'editor del progetto? (VS code o Phpstorm)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785932762.350589",
+      "thread_ts": "1785927550.103119",
+      "user": "U096LKSL2T0",
+      "text": "vediamo velocemente insieme?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xg9Rf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vediamo velocemente insieme?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785932813.463649",
+      "thread_ts": "1785927550.103119",
+      "user": "U0ALTAL9GCA",
+      "text": "Giusto 2 min",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sA/gF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Giusto 2 min"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785932890.103609",
+      "thread_ts": "1785927550.103119",
+      "user": "U096LKSL2T0",
+      "text": "OK!",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gQcee",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "OK!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BN8EUJ1BK",
+          "name": "Screencast_20260805_142742.webm",
+          "title": "Screencast_20260805_142742.webm",
+          "mimetype": "video/webm",
+          "filetype": "webm",
+          "size": 2007405,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BN8EUJ1BK/screencast_20260805_142742.webm",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BN8EUJ1BK/screencast_20260805_142742.webm",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1785932897.601019",
+      "thread_ts": "1785927550.103119",
+      "user": "U096LKSL2T0",
+      "text": "qui un videino intanto :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sxNWP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "qui un videino intanto "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785933536.956099",
+      "thread_ts": "1785927550.103119",
+      "user": "U0ALTAL9GCA",
+      "text": "Per storicità, il problema si pone utilizzando l'ssh client da dentro PhpStorm",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0Seyn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Per storicità, il problema si pone utilizzando l'ssh client da dentro PhpStorm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785933770.385129",
+      "thread_ts": "1785927550.103119",
+      "user": "U096LKSL2T0",
+      "text": "Si pone usando il terminale integrato di PHPStorm in generale direi :smile:\nPS: <@U0ALTAL9GCA> in OpenCode puoi esportare le sessioni in file markdown, nel caso ti servisse di copiare tanta roba",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "st6Vw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si pone usando il terminale integrato di PHPStorm in generale direi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": "\nPS: "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U0ALTAL9GCA"
+                },
+                {
+                  "type": "text",
+                  "text": " in OpenCode puoi esportare le sessioni in file markdown, nel caso ti servisse di copiare tanta roba"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

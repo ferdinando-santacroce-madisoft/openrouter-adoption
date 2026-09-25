@@ -1,0 +1,939 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 35,
+  "messages": [
+    {
+      "ts": "1787667936.643329",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "Scorrevo linkedin...",
+      "type": "message",
+      "reply_count": 34,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2YSMK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Scorrevo linkedin..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSHSKHQBG",
+          "name": "Screenshot 2026-08-25 alle 16.25.22.png",
+          "title": "Screenshot 2026-08-25 alle 16.25.22.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 394916,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSHSKHQBG/screenshot_2026-08-25_alle_16.25.22.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSHSKHQBG/screenshot_2026-08-25_alle_16.25.22.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787668029.026059",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "sui modelli giganormici sono d'accordo a mani basse",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iYOC7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sui modelli giganormici sono d'accordo a mani basse"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668062.046249",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "però mi sembra che ds4 flash sia un pezzo avanti su quella leaderboard nonostante sia uscito dopo nella versione di luglio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "64WML",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però mi sembra che ds4 flash sia un pezzo avanti su quella leaderboard nonostante sia uscito dopo nella versione di luglio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668101.157549",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "poi da uno che vende un corso di copilot, che praticamente non ha i modelli openweight, non so se mi aspetterei un commento diverso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I2LQg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "poi da uno che vende un corso di copilot, che praticamente non ha i modelli openweight, non so se mi aspetterei un commento diverso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668110.830159",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "eh infatti ho letto dopo ahahahah",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GhFT7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh infatti ho letto dopo ahahahah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668171.979139",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "consumerà un botto ma io sto amando kimik3",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MkfEW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "consumerà un botto ma io sto amando kimik3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668181.242359",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "tra l'altro openrouter dove ds4 flash è quantizzato in maniera secondo me anche abbastanza palese mentre luna, non essendo ow, dubito che lo sia",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RweUQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tra l'altro openrouter dove ds4 flash è quantizzato in maniera secondo me anche abbastanza palese mentre luna, non essendo ow, dubito che lo sia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668182.716019",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "tanta tanta roba",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XDqnJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tanta tanta roba"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668196.572179",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "anche a me piace",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e6aul",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche a me piace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668209.511979",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "però per me ds4 flash rimane il coltellino svizzero",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cGNH9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però per me ds4 flash rimane il coltellino svizzero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668216.525769",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "se riescono a farlo costare meno",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xzSDU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "se riescono a farlo costare meno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668217.718789",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "sarebbe top",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "poHOC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sarebbe top"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668226.843459",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "eh ma ds4 pro e flash li ho provarti non sono male",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EaZGR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh ma ds4 pro e flash li ho provarti non sono male"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668234.011409",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "ma kimi3 per me imbattibile",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NcJbH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma kimi3 per me imbattibile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668242.732439",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "del tipo che kimi lo uso solo se proprio devo fare qualcosa di livello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CuHW9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "del tipo che kimi lo uso solo se proprio devo fare qualcosa di livello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668252.624239",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "io faccio solo cose di livello :sunglasses:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EQuei",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io faccio solo cose di livello "
+                },
+                {
+                  "type": "emoji",
+                  "name": "sunglasses",
+                  "unicode": "1f60e"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668256.836179",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "a parte cazzate",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rYXiJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a parte cazzate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668258.200959",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "cioè se non è del tipo: ho questa issue dobbiamo fare questo e quello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R8OMM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè se non è del tipo: ho questa issue dobbiamo fare questo e quello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668266.626849",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "devo imparare a usare i modelli meno costosi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r5ysq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "devo imparare a usare i modelli meno costosi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668281.840089",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "ma sparo cannonate anche perchè mi voglio obbligare a scriverre codice a mano :rolling_on_the_floor_laughing:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8LLxg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma sparo cannonate anche perchè mi voglio obbligare a scriverre codice a mano "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668391.867199",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "io faccio il contrario: adesso pianifico con lui ma ho già una bozza del plan in testa e poi gli faccio la review su gh",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WUdcg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io faccio il contrario: adesso pianifico con lui ma ho già una bozza del plan in testa e poi gli faccio la review su gh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787668428.346819",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "si forse è la miglior ocsa",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FMOBN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si forse è la miglior ocsa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787675952.125109",
+      "thread_ts": "1787667936.643329",
+      "user": "U096LKSL2T0",
+      "text": "Sto mese ho deciso di regalare i miei 20 euro a OpenAI e mi sono fatto abbonamento a Codex; non male in effetti, `codex` CLI non mi piace, e quindi ora ho un agente OpenCode che usa `codex` CLI come schiavetto :grin:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nTs4d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sto mese ho deciso di regalare i miei 20 euro a OpenAI e mi sono fatto abbonamento a Codex; non male in effetti, "
+                },
+                {
+                  "type": "text",
+                  "text": "codex",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " CLI non mi piace, e quindi ora ho un agente OpenCode che usa "
+                },
+                {
+                  "type": "text",
+                  "text": "codex",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " CLI come schiavetto "
+                },
+                {
+                  "type": "emoji",
+                  "name": "grin",
+                  "unicode": "1f601"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787681130.854939",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "Che ti avevo detto ??? ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZjEfq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "C"
+                },
+                {
+                  "type": "text",
+                  "text": "he ti avevo detto ??? "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787682187.402909",
+      "thread_ts": "1787667936.643329",
+      "user": "U096LKSL2T0",
+      "text": "Eh beh, con i costi che ha è il minimo :joy:\nI saldi estivi finiranno prima o poi, comunque",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xpalx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Eh beh, con i costi che ha è il minimo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "text",
+                  "text": "\nI saldi estivi finiranno prima o poi, comunque"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787683339.723149",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "sicuro",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "leuoF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sicuro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787727758.485629",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "più che i saldi estivi la cosa che mi preoccupa è se lo inshittano apposta per farti passare al taglio di modello superiore e intanto ce ne uno della concorrenza che costa una cifra decente e funziona bene. Comunque un minimo vendor lock in lo sei anche se poi nel progetto hai tutto portabile, mentre con un router di qualche tipo se c'è qualcosa di più conveniente basta che cambi la selezione del modello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+37xl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "più che i saldi estivi la cosa che mi preoccupa è se lo inshittano apposta per farti passare al taglio di modello superiore e intanto ce ne uno della concorrenza che costa una cifra decente e funziona bene. Comunque un minimo vendor lock in lo sei anche se poi nel progetto hai tutto portabile, mentre con un router di qualche tipo se c'è qualcosa di più conveniente basta che cambi la selezione del modello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787727807.350939",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "tanto io il declino di sonnet l'ho visto, avessi avuto solo anthropic come provider avrei dovuto necessariamente alzare i costi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/FoLG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tanto io il declino di sonnet l'ho visto, avessi avuto solo anthropic come provider avrei dovuto necessariamente alzare i costi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787727832.292219",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "o adeguarmi a qualcosa che non è più all'altezza delle aspettative",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HFVAm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "o adeguarmi a qualcosa che non è più all'altezza delle aspettative"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728097.188699",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "oltre al fatto che comunque io oggettivamente con ds4 flash mi sto trovando meglio che con qualsiasi altro modello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DyAqb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "oltre al fatto che comunque io oggettivamente con ds4 flash mi sto trovando meglio che con qualsiasi altro modello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728109.044279",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "modello livello sonnet intendo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9eHdF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "modello livello sonnet intendo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728483.525959",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "sul lock in non sono d'accordo, è un abbonamento mensile esci quando vuoi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UoOh0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sul lock in non sono d'accordo, è un abbonamento mensile esci quando vuoi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728633.206559",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "la fai più facile di quello che è anche perchè non è che un'azienda può cambiare provider di un servizio ogni 6 mesi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eis7k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "la fai più facile di quello che è anche perchè non è che un'azienda può cambiare provider di un servizio ogni 6 mesi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728706.570249",
+      "thread_ts": "1787667936.643329",
+      "user": "U09P40E8LN6",
+      "text": "Nel nostro caso no , hai ragione",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z8E6+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nel nostro caso no , hai ragione"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787728725.095749",
+      "thread_ts": "1787667936.643329",
+      "user": "U08F42UJQEP",
+      "text": "oltre al fatto che le cli non sono così standard, quindi o ne prendi una generica (col timore che ti bannino perchè google ha detto che lo può fare se non usi gemini cli) o non ne usi mai una al 100% perchè devi essere pronto a switchare in ogni momento",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kOW+G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "oltre al fatto che le cli non sono così standard, quindi o ne prendi una generica (col timore che ti bannino perchè google ha detto che lo può fare se non usi gemini cli) o non ne usi mai una al 100% perchè devi essere pronto a switchare in ogni momento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

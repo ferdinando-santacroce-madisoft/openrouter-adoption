@@ -1,0 +1,223 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 6,
+  "messages": [
+    {
+      "ts": "1784269841.888639",
+      "thread_ts": "1784269841.888639",
+      "user": "U09P40E8LN6",
+      "text": "<https://openrouter.ai/moonshotai/kimi-k3|openrouter.ai/moonshotai/kimi-k3>",
+      "type": "message",
+      "reply_count": 5,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2t0d0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://openrouter.ai/moonshotai/kimi-k3",
+                  "text": "openrouter.ai/moonshotai/kimi-k3",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://openrouter.ai/moonshotai/kimi-k3/opengraph-image-1oizug?881c0f91cee14758",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 44268,
+          "from_url": "https://openrouter.ai/moonshotai/kimi-k3",
+          "service_icon": "https://openrouter.ai/favicon.ico",
+          "id": 1,
+          "original_url": "https://openrouter.ai/moonshotai/kimi-k3",
+          "fallback": "Kimi K3 - API Pricing &amp; Benchmarks",
+          "text": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. $3 per million input tokens, $15 per million output tokens. 1,048,576 token context window. Includes independent benchmarks from Artificial Analysis.",
+          "title": "Kimi K3 - API Pricing &amp; Benchmarks",
+          "title_link": "https://openrouter.ai/moonshotai/kimi-k3",
+          "service_name": "openrouter.ai"
+        }
+      ]
+    },
+    {
+      "ts": "1784273703.365609",
+      "thread_ts": "1784269841.888639",
+      "user": "U08F42UJQEP",
+      "text": "non ho visto il pricing degli altri espresso in milioni di token, ma non mi sembra economico",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ItOJK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non ho visto il pricing degli altri espresso in milioni di token, ma non mi sembra economico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784273854.110959",
+      "thread_ts": "1784269841.888639",
+      "user": "U09P40E8LN6",
+      "text": "no non lo è ma dice è un \"equivalente\" di fable 5 e gpt 5.6 e costa 1/3",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HQwYY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "no non lo è ma dice è un \"equivalente\" di fable 5 e gpt 5.6 e costa 1/3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784274614.147599",
+      "thread_ts": "1784269841.888639",
+      "user": "U096LKSL2T0",
+      "text": "Esatto, vediamo se è vero :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "prbGu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Esatto, vediamo se è vero "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784274741.149979",
+      "thread_ts": "1784269841.888639",
+      "user": "U096LKSL2T0",
+      "text": "Comunque bel passo avanti, i cinesi oramai sono col fiato sul collo... :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TRLR/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Comunque bel passo avanti, i cinesi oramai sono col fiato sul collo... "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784274791.533259",
+      "thread_ts": "1784269841.888639",
+      "user": "U09P40E8LN6",
+      "text": "ma openrouter non ha emma? volevo provare un modello italiano :eyes: :rolling_on_the_floor_laughing:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uN9iD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma openrouter non ha emma? volevo provare un modello italiano "
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

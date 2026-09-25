@@ -1,0 +1,83 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1784040673.415549",
+      "thread_ts": "1784040673.415549",
+      "user": "U09P40E8LN6",
+      "text": "Posso intanto nazzicarci?",
+      "type": "message",
+      "reply_count": 1,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kxv9o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Posso intanto nazzicarci?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784041037.997609",
+      "thread_ts": "1784040673.415549",
+      "user": "U096LKSL2T0",
+      "text": "Vai, prova a fare qualcosa e tieni traccia. Dobbiamo darci degli obiettivi misurabili, non possiamo arrivare al termini e dire \"ci piace!\" e basta, domani ne parliamo :wink:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c5+zK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vai, prova a fare qualcosa e tieni traccia. Dobbiamo darci degli obiettivi misurabili, non possiamo arrivare al termini e dire \"ci piace!\" e basta, domani ne parliamo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 5,
+  "messages": [
+    {
+      "ts": "1787920824.426649",
+      "user": "U096LKSL2T0",
+      "text": "Riavvio il PC",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jhec3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Riavvio il PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787920827.590419",
+      "thread_ts": "1787920827.590419",
+      "user": "U096LKSL2T0",
+      "text": "",
+      "type": "message",
+      "reply_count": 2,
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U08F42UJQEP",
+            "U0B0ZPLKA3B"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hCn+5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSY8L6M0X",
+          "name": "IMG20260828143955.jpg",
+          "title": "IMG20260828143955.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "size": 1252163,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSY8L6M0X/img20260828143955.jpg",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSY8L6M0X/img20260828143955.jpg",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787931407.974319",
+      "thread_ts": "1787931407.974319",
+      "user": "U09P40E8LN6",
+      "text": "qui la forbice c'è",
+      "type": "message",
+      "reply_count": 8,
+      "reactions": [
+        {
+          "name": "hankey",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OslYX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "qui la forbice c'è"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSZM2P45D",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 403922,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSZM2P45D/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSZM2P45D/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1788166979.959389",
+      "thread_ts": "1788166979.959389",
+      "user": "U0ALTAL9GCA",
+      "text": "Buondi :slightly_smiling_face:\nSto provando ad utilizzare openrouter con opencode, ma nonostante non ho superato nessun limite mi esce questo errore\n\"\nThis request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits\n\"",
+      "type": "message",
+      "reply_count": 6,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cV+w6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Buondi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": "\nSto provando ad utilizzare openrouter con opencode, ma nonostante non ho superato nessun limite mi esce questo errore\n\"\nThis request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits\n\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1788946908.975589",
+      "thread_ts": "1788946908.975589",
+      "user": "U0AKR9GTN4U",
+      "text": "<https://artisanalsoftwaresociety.com/|artisanalsoftwaresociety.com>",
+      "type": "message",
+      "reply_count": 7,
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6",
+            "U096LKSL2T0"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R7tRY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://artisanalsoftwaresociety.com/",
+                  "text": "artisanalsoftwaresociety.com",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://artisanalsoftwaresociety.com/og-card.png",
+          "image_width": 1200,
+          "image_height": 630,
+          "image_bytes": 73309,
+          "from_url": "https://artisanalsoftwaresociety.com/",
+          "id": 1,
+          "original_url": "https://artisanalsoftwaresociety.com/",
+          "fallback": "Artisanal Software Society: Artisanal Software Society — Software, made the hard way.",
+          "text": "The Artisanal Software Society is an international professional organization dedicated to preserving traditional software development methods.",
+          "title": "Artisanal Software Society — Software, made the hard way.",
+          "title_link": "https://artisanalsoftwaresociety.com/",
+          "service_name": "Artisanal Software Society"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    }
+  ]
+}

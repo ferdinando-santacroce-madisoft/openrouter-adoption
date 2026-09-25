@@ -1,0 +1,341 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 12,
+  "messages": [
+    {
+      "ts": "1785763897.562859",
+      "thread_ts": "1785763897.562859",
+      "user": "U09P40E8LN6",
+      "text": "non utilizzate kimi 3 è da stamani che mi fa spendere e poi si spegne a metà dell'opera :smile:",
+      "type": "message",
+      "reply_count": 11,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Yk2M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non utilizzate kimi 3 è da stamani che mi fa spendere e poi si spegne a metà dell'opera "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BNG9G3LP2",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 102784,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BNG9G3LP2/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BNG9G3LP2/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1785763934.007829",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "ste robe sarebbero da veder di mettere a posto con il routing",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VbVML",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ste robe sarebbero da veder di mettere a posto con il routing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785763974.523839",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "perchè sono la cosa che mi fanno dubitare di più di openrouter (cc <@U096LKSL2T0>)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iBVKG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè sono la cosa che mi fanno dubitare di più di openrouter (cc "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785763997.105249",
+      "thread_ts": "1785763897.562859",
+      "user": "U09P40E8LN6",
+      "text": "mi è successo pure con deepseek pro",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bCUrw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mi è successo pure con deepseek pro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764021.961699",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "a me non è mai successo però i token in output sono molto variabili",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "01q0V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a me non è mai successo però i token in output sono molto variabili"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764050.017949",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "cioè capace che passo da 6 token al secondo a 30 token al secondo in una giornata",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0ROai",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè capace che passo da 6 token al secondo a 30 token al secondo in una giornata"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764068.828159",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "6 token al secondo specialmente nel reasoning sono abbastanza male",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d39Vy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "6 token al secondo specialmente nel reasoning sono abbastanza male"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764222.468999",
+      "thread_ts": "1785763897.562859",
+      "user": "U096LKSL2T0",
+      "text": "Da verificare, magari hanno avuto problemi i provider",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c6ErD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Da verificare, magari hanno avuto problemi i provider"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764234.480709",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "secondo me sì",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lshCL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "secondo me sì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764294.981699",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "perchè come ho detto tante volte io DS4 Flash lo uso a casa ma con opencode come provider e la differenza secondo me si vede",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V3s4c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè come ho detto tante volte io DS4 Flash lo uso a casa ma con opencode come provider e la differenza secondo me si vede"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764302.564069",
+      "thread_ts": "1785763897.562859",
+      "user": "U08F42UJQEP",
+      "text": "è più stabile",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VUJR2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "è più stabile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764421.241919",
+      "thread_ts": "1785763897.562859",
+      "user": "U096LKSL2T0",
+      "text": "Anche io sto usando quello personale, non noto problemi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U51OY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Anche io sto usando quello personale, non noto problemi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

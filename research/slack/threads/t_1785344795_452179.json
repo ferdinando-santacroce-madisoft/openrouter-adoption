@@ -1,0 +1,1071 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 40,
+  "messages": [
+    {
+      "ts": "1785344795.452179",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U0B0ZPLKA3B> quando puoi, puoi fare un recap anche qua di quello che emerso con il gruppo come regole di utilizzo all’AI per capire con <@U096LKSL2T0> e il gruppo di test se la direzione che abbiamo preso è compliant oppure no? Grazie mille",
+      "type": "message",
+      "reply_count": 39,
+      "reactions": [
+        {
+          "name": "shaking_face",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jfV+2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0B0ZPLKA3B"
+                },
+                {
+                  "type": "text",
+                  "text": " quando puoi, puoi fare un recap anche qua di quello che emerso con il gruppo come regole di utilizzo all’AI per capire con "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " e il gruppo di test se la direzione che abbiamo preso è compliant oppure no? Grazie mille"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785397130.958529",
+      "thread_ts": "1785344795.452179",
+      "user": "U0B0ZPLKA3B",
+      "text": "ciao, l'utilizzo di strumenti di AI (per condivisione codice sorgente, segreti industriali e proprietà intellettuale dell'azienda) senza licenza \"enterprise\" (quindi senza un contratto diretto con l'azienda fornitore che ci metta in sicurezza rispetto al trattamento dei dati che forniamo allo strumento AI) è *severamente vietato*. Possiamo ad esempio usare Gemini poiché siamo certi che con la nostra licenza i dati non addestrino i modelli e non vengono salvati nei datacenter extra EU, mentre per strumenti come MCP o LLM/chatbot possiamo utilizzarli ma solamente per utilizzo in locale, quindi senza condividere esternamente all'ambiente di lavoro (PC o sessione) il codice sorgente o i dati aziendali.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n0V7s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ciao, l'utilizzo di strumenti di AI (per condivisione codice sorgente, segreti industriali e proprietà intellettuale dell'azienda) senza licenza \"enterprise\" (quindi senza un contratto diretto con l'azienda fornitore che ci metta in sicurezza rispetto al trattamento dei dati che forniamo allo strumento AI) è "
+                },
+                {
+                  "type": "text",
+                  "text": "severamente vietato",
+                  "style": {
+                    "bold": true,
+                    "underline": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ". Possiamo ad esempio usare Gemini poiché siamo certi che con la nostra licenza i dati non addestrino i modelli e non vengono salvati nei datacenter extra EU, mentre per strumenti come MCP o LLM/chatbot possiamo utilizzarli ma solamente per utilizzo in locale, quindi senza condividere esternamente all'ambiente di lavoro (PC o sessione) il codice sorgente o i dati aziendali."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398242.737849",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "quindi abbiamo ufficialmente il nullaosta per gli mcp locali?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/3rEe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "quindi abbiamo ufficialmente il nullaosta per gli mcp locali?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398263.975969",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "che siano 100% locali intendo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "twPPS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "che siano 100% locali intendo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398501.272349",
+      "thread_ts": "1785344795.452179",
+      "user": "U0B0ZPLKA3B",
+      "text": "in teoria si, in pratica c'è da formalizzare un'eccezione tramite un apposito documento da firmare e vanno validati gli strumenti MCP da utilizzare (vietato libero arbitrio). Appena torna Nando capiamo meglio la questione openrouter, in alternativa valutiamo l'utilizzo di MCP locali",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ah3N+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "in teoria si, in pratica c'è da formalizzare un'eccezione tramite un apposito documento da firmare e vanno validati gli strumenti MCP da utilizzare (vietato libero arbitrio). Appena torna Nando capiamo meglio la questione openrouter, in alternativa valutiamo l'utilizzo di MCP locali"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398534.502119",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "spetta che sono due robe diverse, openrouter non è un mcp",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zp2e6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "spetta che sono due robe diverse, openrouter non è un mcp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398600.534659",
+      "thread_ts": "1785344795.452179",
+      "user": "U0B0ZPLKA3B",
+      "text": "mi correggo, \"strumenti AI\" in generale",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nhdb2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mi correggo, \"strumenti AI\" in generale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785398608.390309",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "ah ok",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ANCMi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ah ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399702.282359",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "occhio a Gemini : Gemini chat, se utilizziamo gemini cli / agy con email aziendale non ha i termini e condizioni della chat",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+eTpe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "occhio a Gemini : Gemini chat, se utilizziamo gemini cli / agy con email aziendale non ha i termini e condizioni della chat"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399720.164739",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "mi andai a leggere i termini e ricadiamo sul piano free",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CUal3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mi andai a leggere i termini e ricadiamo sul piano free"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399762.834279",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "anche con la mail aziendale? (mai usato gemini cli comunque)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bwQc8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche con la mail aziendale? (mai usato gemini cli comunque)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399785.930739",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "si si , felice di essere contraddetto ma feci un analisi tempo fa e praticamente via chat abbiamo opt out",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1zMaP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si si , felice di essere contraddetto ma feci un analisi tempo fa e praticamente via chat abbiamo opt out"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399794.996259",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "gemini cli / agy è come se fosse un altro prodotto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PCDkY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gemini cli / agy è come se fosse un altro prodotto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399811.263689",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "e ricadiamo a pieno sul piano free con training abilitato",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RC7kx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e ricadiamo a pieno sul piano free con training abilitato"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785399819.414279",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "per quello è strano che davano tutti quei token :eyes: ahahahah",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "scream",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZgHpD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per quello è strano che davano tutti quei token "
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                },
+                {
+                  "type": "text",
+                  "text": " ahahahah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785402999.476929",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "Ma ad esempio io sto usando OpenCode, con OpenRouter come provider e AutoRouting come modello. Se gli chiedo di analizzare il progetto Nuvola per trovarmi i BoundedContext, lui fa partire degli agenti che iniziano a leggere il codice. Secondo voi quello in questo caso il codice viene inviato fino al modello, oppure l’agente crea una sorta di contesto locale? Come si fa a capire nel dettaglio che cosa combina? Perché da utente stupido ammetto che molti dettagli per me sono ignoti. Io non so realmente quello che sta facendo il modello e come si muovono le informazioni. Chi ne sa di più mi può spiegare?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0FblW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ma ad esempio io sto usando OpenCode, con OpenRouter come provider e AutoRouting come modello. Se gli chiedo di analizzare il progetto Nuvola per trovarmi i BoundedContext, lui fa partire degli agenti che iniziano a leggere il codice. Secondo voi quello in questo caso il codice viene inviato fino al modello, oppure l’agente crea una sorta di contesto locale? Come si fa a capire nel dettaglio che cosa combina? Perché da utente stupido ammetto che molti dettagli per me sono ignoti. Io non so realmente quello che sta facendo il modello e come si muovono le informazioni. Chi ne sa di più mi può spiegare?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403042.801429",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "il codice arriva al modello",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VqD7m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "il codice arriva al modello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403069.429219",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "potremmo guardare i log ma mi stupirei tantissimo fosse il contrario",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s9kSN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "potremmo guardare i log ma mi stupirei tantissimo fosse il contrario"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403200.227459",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "opencode espone dei tool al modello che gli permettono di leggere e modificare il codice in un formato (mcp) che al modello è stato insegnato come usare durante il fine tuning (praticamente gli è stato detto \"quando l'utente ti chiede di fare questa cosa e sai che ci sono queste cose a tua disposizione, usa queste prima di generare una risposta\"). Praticamente sono delle rpc che fa il modello su opencde",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EAesF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "opencode espone dei tool al modello che gli permettono di leggere e modificare il codice in un formato (mcp) che al modello è stato insegnato come usare durante il fine tuning (praticamente gli è stato detto \"quando l'utente ti chiede di fare questa cosa e sai che ci sono queste cose a tua disposizione, usa queste prima di generare una risposta\"). Praticamente sono delle rpc che fa il modello su opencde"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403216.945799",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "opencode legge la risposta del modello e capisce che quella è la richiesta di usare dei tool",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IjYjk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "opencode legge la risposta del modello e capisce che quella è la richiesta di usare dei tool"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403226.220169",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "il feedback del tool finisce nel contesto del modello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U1sQ3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "il feedback del tool finisce nel contesto del modello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403251.196289",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "il contesto viene mandato tutte le volte al modello (viene cachata l'attenzione per non dover rifare inferenza da zero)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ShPv2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "il contesto viene mandato tutte le volte al modello (viene cachata l'attenzione per non dover rifare inferenza da zero)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403312.974299",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "(chiaramente la cache funziona finchè il modello rimane quello, se cambi modello ciao ciao cache)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6DF2W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(chiaramente la cache funziona finchè il modello rimane quello, se cambi modello ciao ciao cache)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403329.977029",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "se vuoi qualche chiarimento dimmi pure, se ti so rispondere",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2EFSr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "se vuoi qualche chiarimento dimmi pure, se ti so rispondere"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403403.241199",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "Ok, allora siamo non compliant al momento :sweat_smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/41le",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ok, allora siamo non compliant al momento "
+                },
+                {
+                  "type": "emoji",
+                  "name": "sweat_smile",
+                  "unicode": "1f605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403426.347369",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "è così con tutti i modelli di ia comunque",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Y7xr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "è così con tutti i modelli di ia comunque"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403444.327219",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "a meno che non li installi localmente, ma non c'è dell'hardware sensato",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5FFHw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a meno che non li installi localmente, ma non c'è dell'hardware sensato"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403454.764359",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "(tutti i modelli e tutte le harness)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MsdnC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(tutti i modelli e tutte le harness)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403593.705289",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "Allora bisogna capire con molta attenzione se con il piano Enterprise di OpenRouter siamo compliant e come questo incide sui costi, e se a quel punto può essere più sensato fare contratto diretto con Claude per stare più sicuri.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fNILY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Allora bisogna capire con molta attenzione se con il piano Enterprise di OpenRouter siamo compliant e come questo incide sui costi, e se a quel punto può essere più sensato fare contratto diretto con Claude per stare più sicuri."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403671.296759",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "con openrouter abbiamo attivato solo i modelli zero data retention",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xzp+R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "con openrouter abbiamo attivato solo i modelli zero data retention"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403695.075479",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "cioè i provider zero data retention, perchè lui di fatto fa solo da router",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6pEBg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cioè i provider zero data retention, perchè lui di fatto fa solo da router"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403761.041599",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "Poi la certezza non ce l'hai mai, hanno infilato tanti di quei testi coperti dal diritto d'autore dentro al modello senza chiedere niente a nessuno che sinceramente la loro parola la vedo un po' come carta igienica",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GCZbl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Poi la certezza non ce l'hai mai, hanno infilato tanti di quei testi coperti dal diritto d'autore dentro al modello senza chiedere niente a nessuno che sinceramente la loro parola la vedo un po' come carta igienica"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403819.820859",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "però l'idea: \"salto uno step e potrei avere una certezza in più\" non è priva di senso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AqSoU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però l'idea: \"salto uno step e potrei avere una certezza in più\" non è priva di senso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403831.208209",
+      "thread_ts": "1785344795.452179",
+      "user": "U08F42UJQEP",
+      "text": "più intermediari ci sono e più è probabile il leak",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VVpyL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "più intermediari ci sono e più è probabile il leak"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785404549.317529",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "Bisogna capire bene anche il gruppo cosa preferisce. È una decisione dove va coinvolto come stakeholder interessato perché il rischio è troppo alto per andare in totale autonomia e chiedere.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nCBeA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Bisogna capire bene anche il gruppo cosa preferisce. È una decisione dove va coinvolto come stakeholder interessato perché il rischio è troppo alto per andare in totale autonomia e chiedere."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785404573.208729",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "loro cosa utilizzano internamente?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "07J9I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "loro cosa utilizzano internamente?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405534.276519",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "Eh sinceramente non lo so, ma possiamo informarci facilmente ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "khlCD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Eh sinceramente non lo so, ma possiamo informarci facilmente "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405574.188879",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "Non sarebbe anche male muovere il gruppo per un accordo enterprise con Anthropic visto che ha aperto in Italia.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hx7Kt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Non sarebbe anche male muovere il gruppo per un accordo enterprise con Anthropic visto che ha aperto in Itali"
+                },
+                {
+                  "type": "text",
+                  "text": "a."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405643.372659",
+      "thread_ts": "1785344795.452179",
+      "user": "U09P40E8LN6",
+      "text": "Se ci danno maggiore tranquillità direi proprio di si !",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GuwWs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Se ci danno maggiore tranquillità direi proprio di si !"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405958.986989",
+      "thread_ts": "1785344795.452179",
+      "user": "U08KA9A2BMZ",
+      "text": "A me la darebbero, ma poi bisogna sempre capire il trade off con i costi.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SULT/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "A me la darebbero, ma poi bisogna sempre capire il trade off con i costi."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U0B0ZPLKA3B",
+      "name": "pasquale.siciliano",
+      "real_name": "Pasquale Siciliano",
+      "email": "pasquale.siciliano@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

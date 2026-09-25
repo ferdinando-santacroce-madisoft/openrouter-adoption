@@ -1,0 +1,228 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 4,
+  "messages": [
+    {
+      "ts": "1786689612.744109",
+      "thread_ts": "1786689612.744109",
+      "user": "U0ALTAL9GCA",
+      "text": "<https://deepseek.com/harness/en/|deepseek.com/harness/en>",
+      "type": "message",
+      "reply_count": 3,
+      "reactions": [
+        {
+          "name": "rocket",
+          "users": [
+            "U08F42UJQEP"
+          ],
+          "count": 1
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DSUVB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://deepseek.com/harness/en/",
+                  "text": "deepseek.com/harness/en",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://deepseek.com/harness/en/",
+          "service_icon": "https://deepseek.com/favicon.ico",
+          "id": 1,
+          "original_url": "https://deepseek.com/harness/en/",
+          "fallback": "DeepSeek Harness developer preview: Everything is a plugin",
+          "text": "DeepSeek Harness is now available in developer preview to developers building agent harnesses worldwide, with the source code released at the same time. Every agent capability is implemented as a plugin that can be swapped or recomposed.",
+          "title": "DeepSeek Harness developer preview: Everything is a plugin",
+          "title_link": "https://deepseek.com/harness/en/",
+          "service_name": "deepseek.com"
+        }
+      ]
+    },
+    {
+      "ts": "1786693258.968549",
+      "thread_ts": "1786689612.744109",
+      "user": "U096LKSL2T0",
+      "text": "<https://www.reddit.com/r/opencodeCLI/comments/1vn8mid/deepseek_new_pricing_ouch/|reddit.com/r/opencodeCLI/…/deepseek_new_pricing_ouch>\n\n```1M cache hit:\n- Old: $0.0028\n- New: Peak : $0.014 (5x) and Off-peak: $0.007 (2.5x)\n1M output:\n- Old: $0.28\n- New: Peak: $1.32 (4.7x) and Off-peak: $0.66 (2.35x)```\n",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KAGbm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/opencodeCLI/comments/1vn8mid/deepseek_new_pricing_ouch/",
+                  "text": "reddit.com/r/opencodeCLI/…/deepseek_new_pricing_ouch",
+                  "truncated": true,
+                  "unsafe": true
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1M cache hit:\n- Old: $0.0028\n- New: Peak : $0.014 (5x) and Off-peak: $0.007 (2.5x)\n1M output:\n- Old: $0.28\n- New: Peak: $1.32 (4.7x) and Off-peak: $0.66 (2.35x)"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://share.redd.it/preview/post/1vn8mid",
+          "image_width": 1120,
+          "image_height": 584,
+          "image_bytes": 58715,
+          "from_url": "https://www.reddit.com/r/opencodeCLI/comments/1vn8mid/deepseek_new_pricing_ouch/",
+          "service_icon": "https://www.reddit.com/favicon.ico",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/opencodeCLI/comments/1vn8mid/deepseek_new_pricing_ouch/",
+          "fallback": "Reddit: From the opencodeCLI community on Reddit: DeepSeek new pricing. Ouch.",
+          "text": "Explore this post and more from the opencodeCLI community",
+          "title": "From the opencodeCLI community on Reddit: DeepSeek new pricing. Ouch.",
+          "title_link": "https://www.reddit.com/r/opencodeCLI/comments/1vn8mid/deepseek_new_pricing_ouch/",
+          "service_name": "Reddit"
+        }
+      ]
+    },
+    {
+      "ts": "1786693489.177649",
+      "thread_ts": "1786689612.744109",
+      "user": "U096LKSL2T0",
+      "text": "Aumentano i prezzi, ma rimangono comunque bassi :smile:\n<https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable|decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zTJFC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Aumentano i prezzi, ma rimangono comunque bassi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+                  "text": "decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg",
+          "image_width": 1024,
+          "image_height": 512,
+          "image_bytes": 73380,
+          "from_url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+          "service_icon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-32x32.png",
+          "ts": 1786557665,
+          "id": 1,
+          "original_url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+          "fallback": "Decrypt: China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price - Decrypt",
+          "text": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers tell a different story.",
+          "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price - Decrypt",
+          "title_link": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+          "service_name": "Decrypt"
+        }
+      ]
+    },
+    {
+      "ts": "1786696730.889479",
+      "thread_ts": "1786689612.744109",
+      "user": "U0ALTAL9GCA",
+      "text": "Semple plezzi economici",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "cn",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KahAj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Semple plezzi economici"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

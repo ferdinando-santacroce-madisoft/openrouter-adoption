@@ -1,0 +1,958 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 34,
+  "messages": [
+    {
+      "ts": "1785764346.487059",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Allarme! <@U0AKR9GTN4U> ha speso ~40$ (GPT Sol): come è riuscito?\n(non è per dare colpa a marco eh, ma doveva essere bloccato :smile: )",
+      "type": "message",
+      "reply_count": 33,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KF2U1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Allarme! "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U0AKR9GTN4U"
+                },
+                {
+                  "type": "text",
+                  "text": " ha speso ~40$ (GPT Sol): come è riuscito?\n(non è per dare colpa a marco eh, ma doveva essere bloccato "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                },
+                {
+                  "type": "text",
+                  "text": " )"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764372.870149",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "...",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Rxunc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764391.830809",
+      "thread_ts": "1785764346.487059",
+      "user": "U0ALTAL9GCA",
+      "text": "Aveva la chiave api creata nel workspace generico (senza guardrail)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x07QN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Aveva la chiave api creata nel workspace generico (senza guardrail)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764396.405559",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "ma Francesco gli aveva anche detto di spostare la chiave",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cI9Mi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma Francesco gli aveva anche detto di spostare la chiave"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764415.315899",
+      "thread_ts": "1785764346.487059",
+      "user": "U09P40E8LN6",
+      "text": "ma forse nando si riferisce al fatto dell'altra settiman no?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Br2Xc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma forse nando si riferisce al fatto dell'altra settiman no?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764442.585909",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Sì, 28 e 29",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dOiUm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sì, 28 e 29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764453.954259",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "ha speso 40$ in due giorni",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7OCse",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ha speso 40$ in due giorni"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764455.635559",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "",
+      "type": "message",
+      "files": [
+        {
+          "id": "F0BML2BK5C6",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 276651,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BML2BK5C6/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BML2BK5C6/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1785764458.294359",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "non male",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vwYpC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non male"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764471.826199",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Si sboccia! :money_mouth_face:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TBfLY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si sboccia! "
+                },
+                {
+                  "type": "emoji",
+                  "name": "money_mouth_face",
+                  "unicode": "1f911"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764486.832569",
+      "thread_ts": "1785764346.487059",
+      "user": "U0AKR9GTN4U",
+      "text": "era nel workspace sbagliato, Francesco me le aveva bloccate.\nNon me ne sono accorto a causa del problema segnalato  da Massimiliano, opencode ha lanciato un sacco di subagent e nell'interfaccia non avevo contezza di cosa facesse",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZH5Hj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "era nel workspace sbagliato, Francesco me le aveva bloccate.\nNon me ne sono accorto a causa del problema segnalato  da Massimiliano, opencode ha lanciato un sacco di subagent e nell'interfaccia non avevo contezza di cosa facesse"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764499.514749",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "dobbiamo mettere i guardrail nel workspace di defautl",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AZf3b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dobbiamo mettere i guardrail nel workspace di defautl"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764502.700889",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "tipo a zero",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EOyaE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tipo a zero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764510.973129",
+      "thread_ts": "1785764346.487059",
+      "user": "U0AKR9GTN4U",
+      "text": "ha in effetti lavorato su più repo, nuvola2 e devops che sono molto grandi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fxdBR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ha in effetti lavorato su più repo, nuvola2 e devops che sono molto grandi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764511.138539",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "se non si può rimuovere il workspace",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vZbqJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "se non si può rimuovere il workspace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764537.611859",
+      "thread_ts": "1785764346.487059",
+      "user": "U0AKR9GTN4U",
+      "text": "ad ogni modo non ho creato altre chiavi vista quella spesa, la mia sperimentazione è conclusa e rientro nel budget (spero)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d9RVx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ad ogni modo non ho creato altre chiavi vista quella spesa, la mia sperimentazione è conclusa e rientro nel budget (spero)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764593.887149",
+      "thread_ts": "1785764346.487059",
+      "user": "U0AKR9GTN4U",
+      "text": "ed il fatto che abbia usato GPT Sol è perché mi sono fidato dell'auto router. Mai più",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZIFWS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ed il fatto che abbia usato GPT Sol è perché mi sono fidato dell'auto router. Mai più"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764634.661759",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Vai tranquillo, ci sono passato anche io, spendendo tutti i soldi sul mio account personale :joy:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "myTZ4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vai tranquillo, ci sono passato anche io, spendendo tutti i soldi sul mio account personale "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764651.899069",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Cerco un buco domani epr fare un punto tutti insieme",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08F42UJQEP",
+            "U0AKR9GTN4U"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jtW9N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Cerco un buco domani epr fare un punto tutti insieme"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764939.191469",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "\"Saintcross we have a problem\" io alle 10:30 non ci sono",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jtJqT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\"Saintcross we have a problem\" io alle 10:30 non ci sono"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785764948.617079",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "ci sono sicuramente dalle 12 in poi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8/4zL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ci sono sicuramente dalle 12 in poi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765021.389329",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "<@U08F42UJQEP> Ouch, I have canned something, I see... :grin:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e54DB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " Ouch, I have canned something, I see... "
+                },
+                {
+                  "type": "emoji",
+                  "name": "grin",
+                  "unicode": "1f601"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765104.727949",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Ah no, sei tu che non hai appuntamenti noti a calendario :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6VEIZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ah no, sei tu che non hai appuntamenti noti a calendario "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765113.488449",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "OK, sposto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WvvC2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "OK, sposto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765137.582499",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "sì perchè sono in permesso sul calendario condiviso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c+pHJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì perchè sono in permesso sul calendario condiviso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765159.716109",
+      "thread_ts": "1785764346.487059",
+      "user": "U0ALTAL9GCA",
+      "text": "<@U096LKSL2T0> nel mio caso sono in ferie",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gK1Xj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " nel mio caso sono in ferie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765166.385409",
+      "thread_ts": "1785764346.487059",
+      "user": "U0ALTAL9GCA",
+      "text": "solo domani si intende",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0c5cj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "solo domani si intende"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765167.818969",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Ah ecco, sorry, non ce l'avevo abilitato :sweat_smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SF2/3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ah ecco, sorry, non ce l'avevo abilitato "
+                },
+                {
+                  "type": "emoji",
+                  "name": "sweat_smile",
+                  "unicode": "1f605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765308.484819",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Messo alle 14:30 :+1:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CgkA9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Messo alle 14:30 "
+                },
+                {
+                  "type": "emoji",
+                  "name": "+1",
+                  "unicode": "1f44d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765317.300969",
+      "thread_ts": "1785764346.487059",
+      "user": "U08F42UJQEP",
+      "text": "ok grazie",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xx8+f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ok grazie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765357.304799",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "<@U0ALTAL9GCA> serve giusto a me per tirare un po' le fila sulle ultime 2 settimane, poi ci sentiremo ancora :+1:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EiI+E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0ALTAL9GCA"
+                },
+                {
+                  "type": "text",
+                  "text": " serve giusto a me per tirare un po' le fila sulle ultime 2 settimane, poi ci sentiremo ancora "
+                },
+                {
+                  "type": "emoji",
+                  "name": "+1",
+                  "unicode": "1f44d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785765378.061259",
+      "thread_ts": "1785764346.487059",
+      "user": "U0ALTAL9GCA",
+      "text": "Si, tranquillo. Appena posso condivido i miei feedback direttamente qui in chat condivisa",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pmfx5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si, tranquillo. Appena posso condivido i miei feedback direttamente qui in chat condivisa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785782912.168489",
+      "thread_ts": "1785764346.487059",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U096LKSL2T0> vorrei anch'io dare i miei feedback. Però io torno il 24. Va bene se tiriamo le conclusioni a fine mese?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CqZRE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U096LKSL2T0"
+                },
+                {
+                  "type": "text",
+                  "text": " vorrei anch'io dare i miei feedback. Però io torno il 24. Va bene se tiriamo le conclusioni a fine mese?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785783987.368139",
+      "thread_ts": "1785764346.487059",
+      "user": "U096LKSL2T0",
+      "text": "Sì sì, questa è un check intermedio diciamo :smile:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "53Gdg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sì sì, questa è un check intermedio diciamo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    }
+  ]
+}

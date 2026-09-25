@@ -1,0 +1,123 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 4,
+  "messages": [
+    {
+      "ts": "1785483578.620449",
+      "thread_ts": "1785483578.620449",
+      "user": "U08F42UJQEP",
+      "text": "comunque io dico di openrouter ma ho fatto una domanda a claude da chat e starà rispondendo a 2 token al secondo",
+      "type": "message",
+      "reply_count": 3,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DDiE9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque io dico di openrouter ma ho fatto una domanda a claude da chat e starà rispondendo a 2 token al secondo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785483712.290239",
+      "thread_ts": "1785483578.620449",
+      "user": "U0AKR9GTN4U",
+      "text": "ieri sera claude ha dato qualche problema anche a me, addirittura mi sembrava si perdesse qualche messaggio senza dare risposta",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KkJi1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ieri sera claude ha dato qualche problema anche a me, addirittura mi sembrava si perdesse qualche messaggio senza dare risposta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785483737.447129",
+      "thread_ts": "1785483578.620449",
+      "user": "U08F42UJQEP",
+      "text": "per contro oggi con DS4 Flash va molto meglio",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8LZ5c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per contro oggi con DS4 Flash va molto meglio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785484345.928189",
+      "thread_ts": "1785483578.620449",
+      "user": "U0ALTAL9GCA",
+      "text": "Anche a me ieri DS4 Flash andava lento ad una certa si è proprio impallato.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OcGbm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Anche a me ieri DS4 Flash andava lento ad una certa si è proprio impallato."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    }
+  ]
+}

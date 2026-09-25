@@ -1,0 +1,225 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 7,
+  "messages": [
+    {
+      "ts": "1784652369.109339",
+      "thread_ts": "1784652369.109339",
+      "user": "U08KA9A2BMZ",
+      "text": "Ho installato OpenCode e ho configurato openrouter come provider, aggiungengo la chiave. Ora però mi chiede di scegliere il modello. Io avevo capito che c'era la possibilità di permettere ad OpenRouter di scegliere il modello migliore a seconda del task, se è così che modello dovrei scegliere? Se non è così, mi dite quali sono i vostri modelli favoriti? Thanks",
+      "type": "message",
+      "reply_count": 6,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "24FfV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho installato OpenCode e ho configurato openrouter come provider, aggiungengo la chiave. Ora però mi chiede di scegliere il modello. Io avevo capito che c'era la possibilità di permettere ad OpenRouter di scegliere il modello migliore a seconda del task, se è così che modello dovrei scegliere? Se non è così, mi dite quali sono i vostri modelli favoriti? Thanks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784652429.372919",
+      "thread_ts": "1784652369.109339",
+      "user": "U09P40E8LN6",
+      "text": "Kimi3 e GLM5.2 occhio a kimi3 che spawna subagent e mi ha puppato tanti soldi senza accorgemene perchè in UI mi faceva vedere il costo dell'agente principale",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G5GLq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Kimi3 e GLM5.2 occhio a kimi3 che spawna subagent e mi ha puppato tanti soldi senza accorgemene perchè in UI mi faceva vedere il costo dell'agente principale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784652449.527909",
+      "thread_ts": "1784652369.109339",
+      "user": "U09P40E8LN6",
+      "text": "comunque se scorri tra i modelli mi pare c'è la funzionalità per far scegliere quello migliore",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SKQdD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque se scorri tra i modelli mi pare c'è la funzionalità per far scegliere quello migliore"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784652504.968569",
+      "thread_ts": "1784652369.109339",
+      "user": "U0ALTAL9GCA",
+      "text": "Per il momento Qualità/Prezzo io preferisco DeepSeek V4 Pro e DeepSeek V4 Flash",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yW74x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Per il momento Qualità/Prezzo io preferisco DeepSeek V4 Pro e DeepSeek V4 Flash"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784652634.806309",
+      "thread_ts": "1784652369.109339",
+      "user": "U08KA9A2BMZ",
+      "text": "Ok il modello che sceglie da solo dovreppe essere \"Auto Router\"",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f9d+B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ok il modello che sceglie da solo dovreppe essere \"Auto Router\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784705180.002459",
+      "thread_ts": "1784652369.109339",
+      "user": "U0AKR9GTN4U",
+      "text": "personalmente dipende dal task, haiku per i task \"semplici\", al momento sto provando deepseek v4 pro e Kimi3. Prossimamente provo i modelli reasoning di anthropic per fare un confronto indiretto anche con Claude Code, perché per ora con kimi3 e deepseek mi sembra che i risultati siano peggiori. Ma non ho ancora un confronto vero visto che claude l'ho usato su altri progetti non legati a madisoft, quindi ovviamente con contesti molto diversi ed in quei contesti non c'è paragone tra opencode con quei modelli di cui sopra e claude code con Sonnet 5 (per non parlare di Fable, ma li serve aprire un mutuo)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J99tU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "personalmente dipende dal task, haiku per i task \"semplici\", al momento sto provando deepseek v4 pro e Kimi3. Prossimamente provo i modelli reasoning di anthropic per fare un confronto indiretto anche con Claude Code, perché per ora con kimi3 e deepseek mi sembra che i risultati siano peggiori. Ma non ho ancora un confronto vero visto che claude l'ho usato su altri progetti non legati a madisoft, quindi ovviamente con contesti molto diversi ed in quei contesti non c'è paragone tra opencode con quei modelli di cui sopra e claude code con Sonnet 5 (per non parlare di Fable, ma li serve aprire un mutuo)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784726470.312059",
+      "thread_ts": "1784652369.109339",
+      "user": "U08F42UJQEP",
+      "text": "leggo adesso, io l'80% dei task lo faccio con DS4 Flash, non per sentirmi Sanfilippo ma perchè mi ci trovo oggettivamente bene",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JFHqw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "leggo adesso, io l'80% dei task lo faccio con DS4 Flash, non per sentirmi Sanfilippo ma perchè mi ci trovo oggettivamente bene"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

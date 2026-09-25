@@ -1,0 +1,275 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 9,
+  "messages": [
+    {
+      "ts": "1787931407.974319",
+      "thread_ts": "1787931407.974319",
+      "user": "U09P40E8LN6",
+      "text": "qui la forbice c'è",
+      "type": "message",
+      "reply_count": 8,
+      "reactions": [
+        {
+          "name": "hankey",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OslYX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "qui la forbice c'è"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSZM2P45D",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 403922,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSZM2P45D/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSZM2P45D/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787931421.442069",
+      "thread_ts": "1787931407.974319",
+      "user": "U09P40E8LN6",
+      "text": "a proposito del discorso di prima hahaha",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9P47d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a proposito del discorso di prima hahaha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787931452.380029",
+      "thread_ts": "1787931407.974319",
+      "user": "U08F42UJQEP",
+      "text": "sì giusto la forbice ti ci compri con quei soldi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R5Ezd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì giusto la forbice ti ci compri con quei soldi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787931456.587219",
+      "thread_ts": "1787931407.974319",
+      "user": "U09P40E8LN6",
+      "text": "AHHAHAHAH",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VxQ/b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AHHAHAHAH"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787931461.550779",
+      "thread_ts": "1787931407.974319",
+      "user": "U08F42UJQEP",
+      "text": "la forbice per tagliarti le vene",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/ZEz+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "la forbice per tagliarti le vene"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787931475.495409",
+      "thread_ts": "1787931407.974319",
+      "user": "U0B0ZPLKA3B",
+      "text": "ma non i fazzoletti per asciugarti le lacrime, già fuori budget",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/T+kc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma non i fazzoletti per asciugarti le lacrime, già fuori budget"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787931486.088539",
+      "thread_ts": "1787931407.974319",
+      "user": "U09P40E8LN6",
+      "text": ":rolling_on_the_floor_laughing:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SElLO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787931492.611999",
+      "thread_ts": "1787931407.974319",
+      "user": "U08F42UJQEP",
+      "text": "però è uno stage, i prezzi sono quelli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "78Q9T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però è uno stage, i prezzi sono quelli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787931498.116339",
+      "thread_ts": "1787931407.974319",
+      "user": "U0B0ZPLKA3B",
+      "text": "#amala",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xk9aM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "#amala"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0B0ZPLKA3B",
+      "name": "pasquale.siciliano",
+      "real_name": "Pasquale Siciliano",
+      "email": "pasquale.siciliano@madisoft.it"
+    }
+  ]
+}

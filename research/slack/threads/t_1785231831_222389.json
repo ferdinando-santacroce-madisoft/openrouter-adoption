@@ -1,0 +1,1008 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 33,
+  "messages": [
+    {
+      "ts": "1785231831.222389",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Ho fatto un esperimento con il `plan mode`  per avere un piano a barra verde di estrazione del modulo `Comunicazioni` . Poi ho iniziato ad eseguirlo sul mio Mac e stavo facendo modificare all'AI lo script per far partire Nuvola con Docker nel Mac e ho finito i soldi?\n\nChe ne pensate di questo piano? Sulla carta sembra sensato.",
+      "type": "message",
+      "reply_count": 32,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MsIQe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ho fatto un esperimento con il "
+                },
+                {
+                  "type": "text",
+                  "text": "plan mode",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  per avere un piano a barra verde di estrazione del modulo "
+                },
+                {
+                  "type": "text",
+                  "text": "Comunicazioni",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " . Poi ho iniziato ad eseguirlo sul mio Mac e stavo facendo modificare all'AI lo script per far partire Nuvola con Docker nel Mac e ho finito i soldi?\n\nChe ne pensate di questo piano? Sulla carta sembra sensato."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BLDJYJBHS",
+          "name": "Piano estrazione Comunicazioni",
+          "title": "Piano estrazione Comunicazioni",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "size": 8843,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BLDJYJBHS/piano_estrazione_comunicazioni",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BLDJYJBHS/piano_estrazione_comunicazioni",
+          "mode": "snippet"
+        }
+      ]
+    },
+    {
+      "ts": "1785232014.540299",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "perchè i controller fuori da infrastructure?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wli6f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè i controller fuori da infrastructure?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232026.166229",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "è la prima cosa che ho notato, non ho finito di leggere",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TjPoR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "è la prima cosa che ho notato, non ho finito di leggere"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232077.258279",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Secondo me perché è un purista e segue il pattern del Framework less :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xIdq+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Secondo me perché è un purista e segue il pattern del Framework less "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232116.933409",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Non è un vincolo che gli ho dato io, è stata una sua scelta. La capisco perché dove mettere i Controller divide le migliori famiglie ed è stato causa di divorzi :smile:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2lIzV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Non è un vincolo che gli ho dato io, è stata una sua scelta. La capisco perché dove mettere i Controller divide le migliori famiglie ed è stato causa di divorzi "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232172.417459",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "ma quindi, considerando che non penso mappi le entità di dominio perchè sarebbe greve, le entità mappate dove le metterebbe?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bSv7z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma quindi, considerando che non penso mappi le entità di dominio perchè sarebbe greve, le entità mappate dove le metterebbe?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232174.880669",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Questo è fa parte di quel contesto e/o skill che dovremmo fargli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J/bka",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Questo è fa parte di quel contesto e/o skill che dovremmo fargli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232229.742019",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Eh bisognerebbe farlo eseguire per avere tutti i dettagli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qwLYD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Eh bisognerebbe farlo eseguire per avere tutti i dettagli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232230.785759",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "anche questa\n```- Regole PHPArkitect per impedire dipendenze Domain → legacy/Symfony.```\nperchè solo su domain?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FcuBq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche questa\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "- Regole PHPArkitect per impedire dipendenze Domain → legacy/Symfony."
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè solo su domain?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232255.952369",
+      "thread_ts": "1785231831.222389",
+      "user": "U0ALTAL9GCA",
+      "text": "Io ho la sensazione che sia un piano di massima ma che ogni punto vado poi fatto iterare con un altro Plan.\nSecondo me è troppo complesso per far si che non generi problemi nell'esecuzione di questo piano",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ",
+            "U08F42UJQEP",
+            "U0AKR9GTN4U"
+          ],
+          "count": 3
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0iUEi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Io ho la sensazione che sia un piano di massima ma che ogni punto vado poi fatto iterare con un altro Plan.\nSecondo me è troppo complesso per far si che non generi problemi nell'esecuzione di questo piano"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232257.000419",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "forse come primo step",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/RLE4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "forse come primo step"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232275.229069",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "<@U0ALTAL9GCA> anche secondo me",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tMyvA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0ALTAL9GCA"
+                },
+                {
+                  "type": "text",
+                  "text": " anche secondo me"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232300.158609",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Si ci sta anche per me",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2MPyp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si ci sta anche per me"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232305.587149",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "anche perchè con tutta la roba che avrà letto per farlo un minimo di context rot vuoi che non ci sia?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7gRCB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche perchè con tutta la roba che avrà letto per farlo un minimo di context rot vuoi che non ci sia?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232522.665029",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Però sarebbe interessante un esperimento in mob programming su un piano così complesso, no?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vwQi6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Però sarebbe interessante un esperimento in mob programming su un piano così complesso, no?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232582.079579",
+      "thread_ts": "1785231831.222389",
+      "user": "U08KA9A2BMZ",
+      "text": "Su questi passi potrebbe veramente avere impatto se trovassimo il modo di farlo funzionare bene.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0ro1O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Su questi passi potrebbe veramente avere impatto se trovassimo il modo di farlo funzionare bene."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232737.572789",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "io ho fatto un esperimento su di un mio vecchio progetto moooooolto più piccolo di nuvola che nasceva con la struttura symfony classica e glil'ho fatto dividere in bounded context. PHPArkitect secondo me è fondamentale anche con regole custom per far fare al modello gli spostamenti che servono",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kprzi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io ho fatto un esperimento su di un mio vecchio progetto moooooolto più piccolo di nuvola che nasceva con la struttura symfony classica e glil'ho fatto dividere in bounded context. PHPArkitect secondo me è fondamentale anche con regole custom per far fare al modello gli spostamenti che servono"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232742.764229",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "In fine settimana ho fatto degli esperimenti con Claude Code su un app che volevo fare, ho trovato comodo spezzettare le specifiche così e dare poi un prompt per ogni sessione e fare piccole pillole di memoria quando facevamo qualcosa di non ovvio che non era scritto sulle spec",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "16XGX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "In fine settimana ho fatto degli esperimenti con Claude Code su un app che volevo fare, ho trovato comodo spezzettare le specifiche così e dare poi un prompt per ogni sessione e fare piccole pillole di memoria quando facevamo qualcosa di non ovvio che non era scritto sulle spec"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BL81Q72Q6",
+          "name": "Screenshot 2026-07-28 alle 11.58.14.png",
+          "title": "Screenshot 2026-07-28 alle 11.58.14.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 225277,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BL81Q72Q6/screenshot_2026-07-28_alle_11.58.14.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BL81Q72Q6/screenshot_2026-07-28_alle_11.58.14.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1785232777.348659",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "Però.. questo sviluppo fatto così a mio parere regge solo con piani non come il nostro",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mppwI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Però.. questo sviluppo fatto così a mio parere regge solo con piani non come il nostro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232778.136649",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "poi ci ho messo su altri due o tre tool me sono trasversali alla separazione",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TurLK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "poi ci ho messo su altri due o tre tool me sono trasversali alla separazione"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232807.387929",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "piani nel senso di billing , puoi fare i token save che vuoi ma uno sviluppo così costa tanto",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K+Sgn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "piani nel senso di billing , puoi fare i token save che vuoi ma uno sviluppo così costa tanto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232834.933049",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "<@U09P40E8LN6> ma qualche framework di sdd lo hai mai usato?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lnZ8l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " ma qualche framework di sdd lo hai mai usato?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232838.516909",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "sulle \"pillole\" di memoria : <https://github.com/addyosmani/agent-skills/pull/429|github.com/addyosmani/agent-skills/pull/429> se può servire",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6p5rI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sulle \"pillole\" di memoria : "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/addyosmani/agent-skills/pull/429",
+                  "text": "github.com/addyosmani/agent-skills/pull/429",
+                  "truncated": true
+                },
+                {
+                  "type": "text",
+                  "text": " se può servire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232858.955439",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "per le pillole di memoria sarebbe da approfondire anche llm wiki",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s+dHX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per le pillole di memoria sarebbe da approfondire anche llm wiki"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232917.493989",
+      "thread_ts": "1785231831.222389",
+      "user": "U0ALTAL9GCA",
+      "text": "Per un progetto personale stavo valutando di utilizzare ARchetipo (quello dei colleghi di Nando) o Agent Skills :slightly_smiling_face:\nSecondo me quello di github troppo prolisso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YUKcJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Per un progetto personale stavo valutando di utilizzare ARchetipo (quello dei colleghi di Nando) o Agent Skills "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": "\nSecondo me quello di github troppo prolisso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785232970.176089",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "per framework cosa intendi? io ho usato le skill per fare le spec e poi le ho spezzettate per renderle il più atomico possibile così da fargl ifare task ben delineati senza troppo contesto",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xBxVy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per framework cosa intendi? io ho usato le skill per fare le spec e poi le ho spezzettate per renderle il più atomico possibile così da fargl ifare task ben delineati senza troppo contesto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785233005.322299",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "per la spec le he tirate giù così <https://github.com/addyosmani/agent-skills/blob/main/skills/spec-driven-development/SKILL.md|github.com/addyosmani/agent-skills/blob/…/SKILL.md>",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9vrif",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per la spec le he tirate giù così "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/addyosmani/agent-skills/blob/main/skills/spec-driven-development/SKILL.md",
+                  "text": "github.com/addyosmani/agent-skills/blob/…/SKILL.md",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785233007.757399",
+      "thread_ts": "1785231831.222389",
+      "user": "U08F42UJQEP",
+      "text": "bmad o speckit per citarne due",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rH/OS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bmad o speckit per citarne due"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785233010.528889",
+      "thread_ts": "1785231831.222389",
+      "user": "U0ALTAL9GCA",
+      "text": "Scusa <@U09P40E8LN6> ma Agent Skills non ha già questo approccio al suo interno?",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "st8yi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Scusa "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " ma Agent Skills non ha già questo approccio al suo interno?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785233057.141859",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "yep è quel workflow ! avevo messo la PR che verrà mergiata a breve per la memoria e in più ho provato senza skills a spezzettarle ancora di più",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "muscle::skin-tone-2",
+          "users": [
+            "U0ALTAL9GCA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bm2X/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yep è quel workflow ! avevo messo la PR che verrà mergiata a breve per la memoria e in più ho provato senza skills a spezzettarle ancora di più"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785233063.041569",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "ma in pratica è quello",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G/hj9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma in pratica è quello"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785233259.705489",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "cooomunque codex &gt;&gt;&gt;&gt;&gt; claude",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UVI0b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cooomunque codex >>>>> claude"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785233265.086769",
+      "thread_ts": "1785231831.222389",
+      "user": "U09P40E8LN6",
+      "text": "in questo momento",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pEITu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "in questo momento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 19,
+  "messages": [
+    {
+      "ts": "1787152714.074969",
+      "thread_ts": "1787152714.074969",
+      "user": "U096LKSL2T0",
+      "text": "<https://www.stagehand.dev/|stagehand.dev>",
+      "type": "message",
+      "reply_count": 18,
+      "reactions": [
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6",
+            "U08F42UJQEP"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0nJ3r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.stagehand.dev/",
+                  "text": "stagehand.dev",
+                  "truncated": true,
+                  "unsafe": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://stagehand.dev/opengraph-image.png?opengraph-image.09v5cm7evjnfi.png",
+          "image_width": 3600,
+          "image_height": 1890,
+          "image_bytes": 112090,
+          "from_url": "https://www.stagehand.dev/",
+          "service_icon": "https://www.stagehand.dev/apple-icon.png?apple-icon.0z3cugh0oz5_g.png",
+          "id": 1,
+          "original_url": "https://www.stagehand.dev/",
+          "fallback": "Stagehand: The SDK for browser agents | Stagehand",
+          "text": "Stagehand is the SDK for browser agents. Playwright-style API, self-healing selectors, and TypeScript, Python, and Go.",
+          "title": "The SDK for browser agents | Stagehand",
+          "title_link": "https://www.stagehand.dev/",
+          "service_name": "Stagehand"
+        }
+      ]
+    },
+    {
+      "ts": "1787152837.768709",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "bello diobò",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8MPNl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bello diobò"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787152853.548689",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "già struciolo quando lo vedo usare il browser tramite mcp di chrome",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MFwxI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "già struciolo quando lo vedo usare il browser tramite mcp di chrome"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787152858.052769",
+      "thread_ts": "1787152714.074969",
+      "user": "U096LKSL2T0",
+      "text": "Prossima skill da aggiungere al mio mazzo :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UkEn9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Prossima skill da aggiungere al mio mazzo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787152920.766449",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "comunque se arriviamo ad una quadra dobbiamo avere degli AI Champion di team e una Cop AI",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "heart",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6I8vD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "comunque se arriviamo ad una quadra dobbiamo avere degli AI Champion di team e una Cop AI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787152990.994329",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "perchè praticamente lo stiamo già fando",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NrrFn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "perchè praticamente lo stiamo già fando"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153001.462879",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "sia la gilda che questo canale stanno diventando delle cop",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2j9MD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sia la gilda che questo canale stanno diventando delle cop"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153005.252329",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "sotto mentite spoglie",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LV4lb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sotto mentite spoglie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153165.361029",
+      "thread_ts": "1787152714.074969",
+      "user": "U096LKSL2T0",
+      "text": "Sì, concordo; vediamo come prosegue al faccenda: se continuaimo, servirà un piano struturato di adozione e tuta una serie di iniziative per introdurre/sperimentare nuove modalità di sviluppo con agenti :robot_face:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FEwSB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sì, concordo; vediamo come prosegue al faccenda: se continuaimo, servirà un piano struturato di adozione e tuta una serie di iniziative per introdurre/sperimentare nuove modalità di sviluppo con agenti "
+                },
+                {
+                  "type": "emoji",
+                  "name": "robot_face",
+                  "unicode": "1f916"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153184.335799",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "infatti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i16RT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "infatti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153204.625299",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "anche se già quel \"se continuiamo\" mi manda nel panico :smile:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lTpWC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche se già quel \"se continuiamo\" mi manda nel panico "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153277.170269",
+      "thread_ts": "1787152714.074969",
+      "user": "U096LKSL2T0",
+      "text": "Pota... _\"del doman non v'è certezza\"_, diceva qualcuno :grin:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2FVwG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Pota... "
+                },
+                {
+                  "type": "text",
+                  "text": "\"del doman non v'è certezza\"",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ", diceva qualcuno "
+                },
+                {
+                  "type": "emoji",
+                  "name": "grin",
+                  "unicode": "1f601"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153282.776699",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "sì sì",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lZoHn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sì sì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153295.077599",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "però spero che in un modo o nell'altro si continui",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8HSLh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però spero che in un modo o nell'altro si continui"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153300.679739",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "anche con i vincoli del caso",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zg/hu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche con i vincoli del caso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153305.731629",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "ma che si continiui",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iYbf/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma che si continiui"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153398.868889",
+      "thread_ts": "1787152714.074969",
+      "user": "U096LKSL2T0",
+      "text": "Spero anche io, ci so facendo un sacco di cose utili e interessanti :sweat_smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0LndP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Spero anche io, ci so facendo un sacco di cose utili e interessanti "
+                },
+                {
+                  "type": "emoji",
+                  "name": "sweat_smile",
+                  "unicode": "1f605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153435.881949",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "infatti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i16RT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "infatti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787153441.220169",
+      "thread_ts": "1787152714.074969",
+      "user": "U08F42UJQEP",
+      "text": "e troppe potremmo farne",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sK6ai",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "e troppe potremmo farne"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

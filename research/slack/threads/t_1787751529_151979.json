@@ -1,0 +1,280 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 7,
+  "messages": [
+    {
+      "ts": "1787751529.151979",
+      "thread_ts": "1787751529.151979",
+      "user": "U09P40E8LN6",
+      "text": "<https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106|forum.italia.it/…/49106> regaliamo l'AI a quelli che han fatto l'app della CIE altro che",
+      "type": "message",
+      "reply_count": 6,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sgqug",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+                  "text": "forum.italia.it/…/49106",
+                  "truncated": true
+                },
+                {
+                  "type": "text",
+                  "text": " regaliamo l'AI a quelli che han fatto l'app della CIE altro che"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+          "service_icon": "https://forum.italia.it/uploads/default/optimized/2X/4/41491a2edacfa8385933bacd6563052430963d26_2_180x180.png",
+          "thumb_url": "https://forum.italia.it/uploads/default/original/3X/3/1/31d43c1fbb5e8f406c039b4916c9c58b31049c4f.jpeg",
+          "thumb_width": 776,
+          "thumb_height": 936,
+          "ts": 1787041844,
+          "id": 1,
+          "original_url": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+          "fallback": "Forum Italia: App native e \"Entra con CIE\": con le credenziali il login si chiude dentro l'app, passando dall'app CieID si finisce nel browser esterno",
+          "text": "Salve, stiamo integrando “Entra con CIE” nella nostra app mobile (Android e iOS) e ci siamo imbattuti in un comportamento che, dopo parecchie prove, ci sembra strutturale e non un difetto della nostra configurazione. In breve: nella scheda browser interna all’app, il login CIE con le credenziali (codice fiscale + psw) funziona perfettamente. Scegliendo invece il metodo di login con l’app CieID, l’esito dell’autenticazione finisce nel browser esterno e la nostra app non lo riceve mai. Per chiar...",
+          "title": "App native e \"Entra con CIE\": con le credenziali il login si chiude dentro l'app, passando dall'app CieID si finisce nel browser esterno",
+          "title_link": "https://forum.italia.it/t/app-native-e-entra-con-cie-con-le-credenziali-il-login-si-chiude-dentro-lapp-passando-dallapp-cieid-si-finisce-nel-browser-esterno/49106",
+          "service_name": "Forum Italia",
+          "fields": [
+            {
+              "value": "2 min :clock2:",
+              "title": "Tempo di lettura",
+              "short": true
+            },
+            {
+              "value": "3 :heart:",
+              "title": "Mi piace",
+              "short": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787751732.662649",
+      "thread_ts": "1787751529.151979",
+      "user": "U08F42UJQEP",
+      "text": "avevo letto *s*aluta*l*a*z*ia",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6",
+            "U096LKSL2T0"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ium+R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "avevo letto "
+                },
+                {
+                  "type": "text",
+                  "text": "s",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "aluta"
+                },
+                {
+                  "type": "text",
+                  "text": "l",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "a"
+                },
+                {
+                  "type": "text",
+                  "text": "z",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "ia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "id": "F0BSV2ZTMS6",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 2520,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BSV2ZTMS6/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BSV2ZTMS6/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1787751769.281739",
+      "thread_ts": "1787751529.151979",
+      "user": "U09P40E8LN6",
+      "text": "AHAHAHAH",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mxgnw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AHAHAHAH"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787751805.103139",
+      "thread_ts": "1787751529.151979",
+      "user": "U08F42UJQEP",
+      "text": "bello comunque il meccanismo con cui gestisce il flusso da un app all'altra (cioè poi immagino sia lo stesso di OIDC alla base, però non l'avevo mai pensato in chiave app)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "weD4m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bello comunque il meccanismo con cui gestisce il flusso da un app all'altra (cioè poi immagino sia lo stesso di OIDC alla base, però non l'avevo mai pensato in chiave app)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787751925.370369",
+      "thread_ts": "1787751529.151979",
+      "user": "U09P40E8LN6",
+      "text": "si è bello ma mamma mia per debuggare e capire che era colpa loro che cojoni",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nLHfF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "si è bello ma mamma mia per debuggare e capire che era colpa loro che cojoni"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787751926.799409",
+      "thread_ts": "1787751529.151979",
+      "user": "U09P40E8LN6",
+      "text": "ahahahhahaa",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "idrJ8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ahahahhahaa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787751940.003769",
+      "thread_ts": "1787751529.151979",
+      "user": "U08F42UJQEP",
+      "text": "eh immagino",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bPg4o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh immagino"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

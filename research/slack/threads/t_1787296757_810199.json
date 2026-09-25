@@ -1,0 +1,88 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 2,
+  "messages": [
+    {
+      "ts": "1787296757.810199",
+      "thread_ts": "1787296757.810199",
+      "user": "U08F42UJQEP",
+      "text": "condivido sta cosa che è una cazzata ma è stata la prima volta che ho provato a farla e mi ha sinceramente fatto ridere: ieri sera ho provato con ds4 flash GRATUITO di opencode a fare una cosa totalmente in vibe coding. Gli ho dato un pdf di un questionario e gli ho detto \"questa è la cartella del progetto, questo è il pdf, mi devi fare un'app react con la mui che proponga il questionario salvando le risposte nel localstorage e che alla fine mi presenti il risultato\". Premuto invio e mi sono andato a lavare i denti. Sono tornato 10 minuti dopo, aveva finito già da qualche minuto (tempo totale 7 minuti, bootstrap del progetto incluso) e si era fatto anche un giro nel browser per vedere che tornasse tutto. Layout scelto tutto lui e ci stava, ha fatto anche il salto logico di non assegnare un punteggio alla singola risposta come c'era scritto nel pdf ma di capire qual era la logica e modellarla. È una boiata assurda, ma mi ha fatto ridere un botto.",
+      "type": "message",
+      "reply_count": 1,
+      "reactions": [
+        {
+          "name": "robot_face",
+          "users": [
+            "U096LKSL2T0",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UQSnY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "condivido sta cosa che è una cazzata ma è stata la prima volta che ho provato a farla e mi ha sinceramente fatto ridere: ieri sera ho provato con ds4 flash GRATUITO di opencode a fare una cosa totalmente in vibe coding. Gli ho dato un pdf di un questionario e gli ho detto \"questa è la cartella del progetto, questo è il pdf, mi devi fare un'app react con la mui che proponga il questionario salvando le risposte nel localstorage e che alla fine mi presenti il risultato\". Premuto invio e mi sono andato a lavare i denti. Sono tornato 10 minuti dopo, aveva finito già da qualche minuto (tempo totale 7 minuti, bootstrap del progetto incluso) e si era fatto anche un giro nel browser per vedere che tornasse tutto. Layout scelto tutto lui e ci stava, ha fatto anche il salto logico di non assegnare un punteggio alla singola risposta come c'era scritto nel pdf ma di capire qual era la logica e modellarla. È una boiata assurda, ma mi ha fatto ridere un botto."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1787297122.631489",
+      "thread_ts": "1787296757.810199",
+      "user": "U0AKR9GTN4U",
+      "text": "nei mesi scorsi ho fatto una cosa simile con il pdf dei test di ingresso all'università di mia nipote, gli ho anche dovuto far mischiare le risposte perché quelle giuste erano sempre nella stessa posizione. con tanto di esito finale :)",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U096LKSL2T0"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aWljo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nei mesi scorsi ho fatto una cosa simile con il pdf dei test di ingresso all'università di mia nipote, gli ho anche dovuto far mischiare le risposte perché quelle giuste erano sempre nella stessa posizione. con tanto di esito finale :)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    }
+  ]
+}

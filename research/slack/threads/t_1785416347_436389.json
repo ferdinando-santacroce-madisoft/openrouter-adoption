@@ -1,0 +1,195 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 6,
+  "messages": [
+    {
+      "ts": "1785416347.436389",
+      "thread_ts": "1785416347.436389",
+      "user": "U08F42UJQEP",
+      "text": "oh comunque manco farlo apposta in pausa pranzo ho visto che è uscita la puntata di Software Engineering Daily che parla di questo =&gt; <https://docs.docker.com/ai/sandboxes/|docs.docker.com/ai/sandboxes>",
+      "type": "message",
+      "reply_count": 5,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mPpaE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "oh comunque manco farlo apposta in pausa pranzo ho visto che è uscita la puntata di Software Engineering Daily che parla di questo => "
+                },
+                {
+                  "type": "link",
+                  "url": "https://docs.docker.com/ai/sandboxes/",
+                  "text": "docs.docker.com/ai/sandboxes",
+                  "truncated": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "image_url": "https://docs.docker.com/images/thumbnail.webp",
+          "image_width": 2400,
+          "image_height": 1260,
+          "image_bytes": 37186,
+          "from_url": "https://docs.docker.com/ai/sandboxes/",
+          "service_icon": "https://docs.docker.com/apple-touch-icon.png",
+          "ts": 1784891573,
+          "id": 1,
+          "original_url": "https://docs.docker.com/ai/sandboxes/",
+          "fallback": "Docker Documentation: Docker Sandboxes",
+          "text": "Run AI coding agents in isolated environments",
+          "title": "Docker Sandboxes",
+          "title_link": "https://docs.docker.com/ai/sandboxes/",
+          "service_name": "Docker Documentation"
+        }
+      ]
+    },
+    {
+      "ts": "1785417632.950869",
+      "thread_ts": "1785416347.436389",
+      "user": "U0AKR9GTN4U",
+      "text": "me lo suggerirono per provare openclaw (che poi non ho usato perché non mi sono fidato)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JF52x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "me lo suggerirono per provare openclaw (che poi non ho usato perché non mi sono fidato)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785417659.187029",
+      "thread_ts": "1785416347.436389",
+      "user": "U08F42UJQEP",
+      "text": "non si fida nessuno di openclaw",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d0ymM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non si fida nessuno di openclaw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785417661.383799",
+      "thread_ts": "1785416347.436389",
+      "user": "U08F42UJQEP",
+      "text": ":smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QmSgQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785417669.443299",
+      "thread_ts": "1785416347.436389",
+      "user": "U08F42UJQEP",
+      "text": "ed è giusto così",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ywIep",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ed è giusto così"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785417725.870929",
+      "thread_ts": "1785416347.436389",
+      "user": "U0AKR9GTN4U",
+      "text": "eh si, o lo apri a tutto e letteralmente ti devi fidare al 100% o non lo apri a nulla di sensibile ed allora è poco utile. Per lo meno è quel che mi ha guidato nella scelta di non provarlo :smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DfoMw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh si, o lo apri a tutto e letteralmente ti devi fidare al 100% o non lo apri a nulla di sensibile ed allora è poco utile. Per lo meno è quel che mi ha guidato nella scelta di non provarlo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smile",
+                  "unicode": "1f604"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0AKR9GTN4U",
+      "name": "marco.martorana",
+      "real_name": "Marco Martorana",
+      "email": "marco.martorana@madisoft.it"
+    }
+  ]
+}

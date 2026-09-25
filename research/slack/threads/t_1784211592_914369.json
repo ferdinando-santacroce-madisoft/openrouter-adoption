@@ -1,0 +1,518 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 18,
+  "messages": [
+    {
+      "ts": "1784211592.914369",
+      "thread_ts": "1784211592.914369",
+      "user": "U087RH5C7FA",
+      "text": "Capita anche a voi l'errore: `{\"code\":400,\"message\":\"Corrupted thought signature.\",\"metadata\":{\"error_type\":\"invalid_request\"}}` ?",
+      "type": "message",
+      "reply_count": 17,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "esHqZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Capita anche a voi l'errore: "
+                },
+                {
+                  "type": "text",
+                  "text": "{\"code\":400,\"message\":\"Corrupted thought signature.\",\"metadata\":{\"error_type\":\"invalid_request\"}}",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784211646.442959",
+      "thread_ts": "1784211592.914369",
+      "user": "U09P40E8LN6",
+      "text": "No :open_mouth:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pQHUi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "No "
+                },
+                {
+                  "type": "emoji",
+                  "name": "open_mouth",
+                  "unicode": "1f62e"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784211653.989649",
+      "thread_ts": "1784211592.914369",
+      "user": "U09P40E8LN6",
+      "text": "non è che cerchi le donnine nude??",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3qOLJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "non è che cerchi le donnine nude??"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784211736.957929",
+      "thread_ts": "1784211592.914369",
+      "user": "U087RH5C7FA",
+      "text": "Nanobanana crea tutto all occorrenza :joy:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "banana",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lyFjU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nanobanana crea tutto all occorrenza "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784211870.652819",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "a me ha dato 503 ieri",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "elZkU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "a me ha dato 503 ieri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784211934.812319",
+      "thread_ts": "1784211592.914369",
+      "user": "U0ALTAL9GCA",
+      "text": "Nando diceva che ti poteva rifiutare quando nella richiesta c'erano dei dati sensibili",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zmcvT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nando diceva che ti poteva rifiutare quando nella richiesta c'erano dei dati sensibili"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784211941.905379",
+      "thread_ts": "1784211592.914369",
+      "user": "U0ALTAL9GCA",
+      "text": "*prompt",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xStm1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "*prompt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784212034.910779",
+      "thread_ts": "1784211592.914369",
+      "user": "U087RH5C7FA",
+      "text": "La mia richiesa era \"Cerca nella codebase gli utilizzi di questa libreria qui...\".\nPuò essere che scansionando il repo trova qualche secret o dato di fixture che interpreta sensibile, però mi pare un po' strano :thinking_face:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U5cd1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "La mia richiesa era \"Cerca nella codebase gli utilizzi di questa libreria qui...\".\nPuò essere che scansionando il repo trova qualche secret o dato di fixture che interpreta sensibile, però mi pare un po' strano "
+                },
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784212128.792639",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "però parla della firma",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NgtjJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però parla della firma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784212142.763709",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "della parte di reasoning mi sembra",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fJ6H2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "della parte di reasoning mi sembra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784213357.260189",
+      "thread_ts": "1784211592.914369",
+      "user": "U096LKSL2T0",
+      "text": "mai capitato, provate a guardare i log su OpenRouter",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U087RH5C7FA"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/BOep",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mai capitato, provate a guardare i log su OpenRouter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784213928.182359",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "",
+      "type": "message",
+      "files": [
+        {
+          "id": "F0BHQNGNM8V",
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "size": 60556,
+          "url_private": "https://files.slack.com/files-pri/T02BLG5NE-F0BHQNGNM8V/image.png",
+          "permalink": "https://madisoft.slack.com/files/U096LKSL2T0/F0BHQNGNM8V/image.png",
+          "mode": "hosted"
+        }
+      ]
+    },
+    {
+      "ts": "1784213957.099479",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "vedo 2 400 su lorenzo con i modelli di google",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6BdTm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vedo 2 400 su lorenzo con i modelli di google"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784213974.241119",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "Logs &gt; Upstream requests",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VTBRA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Logs > Upstream requests"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784214006.802759",
+      "thread_ts": "1784211592.914369",
+      "user": "U087RH5C7FA",
+      "text": "Si esatto!",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wYkYZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si esatto!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784214037.295789",
+      "thread_ts": "1784211592.914369",
+      "user": "U087RH5C7FA",
+      "text": "3.1 pro dava errore, ora sono sul 3 flash e non ho avuto problemi",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JMKdY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3.1 pro dava errore, ora sono sul 3 flash e non ho avuto problemi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784214084.527999",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "dà un idea del perchè è successo ma non dà troppi dettagli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "doidM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dà un idea del perchè è successo ma non dà troppi dettagli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784214096.306789",
+      "thread_ts": "1784211592.914369",
+      "user": "U08F42UJQEP",
+      "text": "però gli altri secondo me ne danno ancora meno",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e2I7Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però gli altri secondo me ne danno ancora meno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U087RH5C7FA",
+      "name": "lorenzo.piersante",
+      "real_name": "Lorenzo Piersante",
+      "email": "lorenzo.piersante@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    }
+  ]
+}

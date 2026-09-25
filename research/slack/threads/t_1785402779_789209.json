@@ -1,0 +1,1254 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 44,
+  "messages": [
+    {
+      "ts": "1785402779.789209",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U09P40E8LN6> il tuo amico Addy, con più grazia di Zio Bob, la dice però molto simile, o sbaglio: <https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-share-7488488715611455490-fFsB/>",
+      "type": "message",
+      "reply_count": 43,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4T9Bf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U09P40E8LN6"
+                },
+                {
+                  "type": "text",
+                  "text": " il tuo amico "
+                },
+                {
+                  "type": "text",
+                  "text": "Addy, con più grazia di Zio Bob, la dice però molto simile, o sbaglio: https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-share-7488488715611455490-fFsB/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785402831.158589",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "Lo sapevo che me lo condividevi!!! Dal momento in cui ho messo mi piace :joy::joy::joy::heart:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yIjKX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Lo sapevo che me lo condividevi!!! Dal momento in cui ho messo mi piace "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                },
+                {
+                  "type": "emoji",
+                  "name": "heart",
+                  "unicode": "2764-fe0f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403038.013989",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Eh ma lo so che hai un debole per Addy :wink:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        },
+        {
+          "name": "hearts",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "coaH+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Eh ma lo so che hai un debole per Addy "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403282.595029",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Però lui mi piace perché lo mette più su un piano concreto. Cioè dice, dato il vincolo che non ci possiamo permettere di leggere tutto il codice, come facciamo a fidarci? Lui lo vede come un vincolo ed effettivamente è più vicino anche al mio pensiero. Cioè io ne faccio un tema di costo/opportunità. Se usiamo l’AI in un SDLC standard, quindi con review umane, ho l’impressione che si perda molto del vatantaggio in termini di costo/opportunità. Sinceramente se il cycle time sullo sviluppo del codice resta più o meno uguale, non ci vedo un grande vantaggio nell’usare AI per ottimizzare questo processo. Allora aziendalmente spenderei meglio per ottimizzare altri processi: assistenza, product discovery, vendite.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/h+65",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Però lui mi piace perché lo mette più su un piano concreto. Cioè dice, dato il vincolo che non ci possiamo permettere di leggere tutto il codice, come facciamo a fidarci? Lui lo vede come un vincolo ed effettivamente è più vicino anche al mio pensiero. Cioè io ne faccio un tema di costo/opportunità. Se usiamo l’AI in un SDLC standard, quindi con review umane, ho l’impressione che si perda molto del vatantaggio in termini di costo/opportunità. Sinceramente se il cycle time sullo sviluppo del codice resta più o meno uguale, non ci vedo un grande vantaggio nell’usare AI per ottimizzare questo processo. Allora aziendalmente spenderei meglio per ottimizzare altri processi: assistenza, product discovery, vendite."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785403625.909389",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "my two cents: per lavorare con l'ia devi mettere talmente tanti di quei controlli che alla fine, come minimo, hai software di qualità superiore nello stesso tempo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nYqBi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "my two cents: per lavorare con l'ia devi mettere talmente tanti di quei controlli che alla fine, come minimo, hai software di qualità superiore nello stesso tempo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785404402.642039",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "E' la domanda da un milioni di dollari e mi piace infatti che ci confrontiamo spesso su queste cose perchè ogni giorno mi sveglio con un opinione diversa:rolling_on_the_floor_laughing:\n\nLe mie due opinioni ( e strade di sviluppo ) che mi sono fatto sono ( Potrebbero essere menate eh , sono pensieri e mi piace esporli per discuterne )  :\n\nSviluppo full agent si : ( approccio architetto )\n1- serve un piano che permetta di farlo , quindi costa $$$\n2 - mi trasformo nel ruolo dell'architetto e sviluppo capacità in quel senso ma perdo capacità di lettura del codice , quindi nel tempo che l'AI sviluppa studio per compensare quella parte? Non mi aspetterei di rileggere ogni singola riga ma dovrei sapere ad alto livello che stumenti usare, es. perchè studiare typescript, come usarlo , perchè non usare quell'api che il modello mi propone ma un altra che non sta contemplando ( più nuova , meno usata nei training.. )\n3 - lo studio quindi ricopre una parte importantissima ( ancora di più ) per mettere le mani quando qualcosa va storto e per scrivere i guardrails\n4 - ho paura che il codice pian piano diventi una black box\n\nSviluppo assistito via chat e uso agent solo per comprendere la repo o scovare bug : ( approccio tattico )\n1 - Il codice non lo scrivo ma lo faccio sputare funzione per funzione alla chat , quindi rimango operativo\n2 - ho più contesto e owenershiop del tutto\n3 - l'AI ha un costo marginale ( si potrebbe tenere solo gemini e copilot con un piano anche + basso )\n4 - inevitabilmente più lento nelle fasi di boilerplate .... quindi mi viene da pensare che si possa usare il primo approccio per un boilerplate e poi passare al secondo metodo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2M4DU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E' la domanda da un milioni di dollari e mi piace infatti che ci confrontiamo spesso su queste cose perchè ogni giorno mi sveglio con un opinione diversa"
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\nLe mie due opinioni ( e strade di sviluppo ) che mi sono fatto sono ( Potrebbero essere menate eh , sono pensieri e mi piace esporli per discuterne )  :\n\nSviluppo full agent si : ( approccio architetto )\n1- serve un piano che permetta di farlo , quindi costa $$$\n2 - mi trasformo nel ruolo dell'architetto e sviluppo capacità in quel senso ma perdo capacità di lettura del codice , quindi nel tempo che l'AI sviluppa studio per compensare quella parte? Non mi aspetterei di rileggere ogni singola riga ma dovrei sapere ad alto livello che stumenti usare, es. perchè studiare typescript, come usarlo , perchè non usare quell'api che il modello mi propone ma un altra che non sta contemplando ( più nuova , meno usata nei training.. )\n3 - lo studio quindi ricopre una parte importantissima ( ancora di più ) per mettere le mani quando qualcosa va storto e per scrivere i guardrails\n4 - ho paura che il codice pian piano diventi una black box\n\nSviluppo assistito via chat e uso agent solo per comprendere la repo o scovare bug : ( approccio tattico )\n1 - Il codice non lo scrivo ma lo faccio sputare funzione per funzione alla chat , quindi rimango operativo\n2 - ho più contesto e owenershiop del tutto\n3 - l'AI ha un costo marginale ( si potrebbe tenere solo gemini e copilot con un piano anche + basso )\n4 - inevitabilmente più lento nelle fasi di boilerplate .... quindi mi viene da pensare che si possa usare il primo approccio per un boilerplate e poi passare al secondo metodo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785404638.833889",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "io sono per la prima",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xpi16",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io sono per la prima"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785404686.615339",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "io dipende dai giorni ci sono dei giorni che mi sveglio pure con l'opinione 3 e dico : da oggi torno a fare tutto a mano :rolling_on_the_floor_laughing:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "U0AKR9GTN4U"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h+vmC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "io dipende dai giorni ci sono dei giorni che mi sveglio pure con l'opinione 3 e dico : da oggi torno a fare tutto a mano "
+                },
+                {
+                  "type": "emoji",
+                  "name": "rolling_on_the_floor_laughing",
+                  "unicode": "1f923"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785404904.305929",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Secondo me hai centrato i due approcci. Molti lo chiamano: agentico vs vibecoding.\n\nIo credo che uno non escluda l’altro. Sono due modalità che secondo me risolvono problemi diversi. Il punto è maturare con il tempo quale problemi risolvere con il primo metodo e/o il secondo anche a seconda degli obiettivi di business. \n\nAd esempio: voglio uscire veloce con una features che ha tanto valore ipotetico di business per validare se il mercato la vuole, vado di prima strada.\n\nOppure ho un pezzo legacy dove voglio invece imparare il dominio, capire bene il contesto, capire io come modellare il dominio, allora magari faccio vibe coding. \n\nSono solo degli esempi, non sono sicuro che siano calzanti. Ma secondo me dovremmo costruire un SDLC capace di reggere entrambi gli scenari e poi crearci una sensibilità di team su quando usare modalità agenti a, vibecoding o umana.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aBsUa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "S"
+                },
+                {
+                  "type": "text",
+                  "text": "econdo me hai centrato i due approcci. Molti lo chiamano: agentico vs vibecoding.\n\nIo credo che uno non escluda l’altro. Sono due modalità che secondo me risolvono problemi diversi. Il punto è maturare con il tempo quale problemi risolvere con il primo metodo e/o il secondo anche a seconda degli obiettivi di business. \n\nAd esempio: voglio uscire veloce con una features che ha tanto valore ipotetico di business per validare se il mercato la vuole, vado di prima strada.\n\nOppure ho un pezzo legacy dove voglio invece imparare il dominio, capire bene il contesto, capire io come modellare il dominio, allora magari faccio vibe coding. \n\nSono solo degli esempi, non sono sicuro che siano calzanti. Ma secondo me dovremmo costruire un SDLC capace di reggere entrambi gli scenari e poi crearci una sensibilità di team su quando usare modalità agenti a, vibecoding o umana."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785404926.009299",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Dovrebbe diventare parte dell’analisi che facciamo del problema di business che stiamo risolvendo. ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U88z0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Dovrebbe diventare parte dell"
+                },
+                {
+                  "type": "text",
+                  "text": "’analisi "
+                },
+                {
+                  "type": "text",
+                  "text": "che facciamo del problema di business che stiamo risolvendo. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405005.464769",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Kiro, lo strumento di AWS che va nella direzione di essere uno strumento già pronto per il roll-out aziendale usa proprio questo approccio. ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "py+b+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Kiro, lo strumento di AWS che va nella direzione di essere uno strumento già pronto per il roll-out aziendale usa proprio questo approccio. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405010.191369",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "Si sono d’accordo al 100%",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8tcI/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si sono d’accordo al 100%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405040.119519",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "Ed è pure una figata perché non “sprechi” troppo budget per feature che magari butti dopo un mese ",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "id/Vo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ed è pure una figata perché non “sprechi” troppo budget per feature che magari butti dopo un mese "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405059.390499",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "Invece se sai che deve restare fai uno sviluppo a modo ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iDWHS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Invece se sai che deve restare fai uno sviluppo a modo "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405094.625659",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "ma se sai che deve restare non lo scopri dopo?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mDHht",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma se sai che deve restare non lo scopri dopo?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405105.370149",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Io e Nando abbiamo fatto un workshop su Kiro, il loro approccio mi aveva colpito e anche loro basavano poi tanto sulla costruzione del contesto e degli agenti.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rocket",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1lXYR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Io e Nando abbiamo fatto un workshop su Kiro, il loro approccio mi aveva colpito e anche loro basavano poi tanto sulla costruzione del contesto e degli agenti."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405239.028669",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "Lo puoi scoprire prima o dopo penso, se lo scopri dopo rifattorizzi ",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KVzo5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Lo puoi scoprire prima o dopo penso, se lo scopri dopo rifattorizzi "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405250.523989",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "<@U08F42UJQEP> se ci pensi nel nostro mestiere sono tutte scommesse, alcune con confidence più alta, alcune con confidence più bassa. Quelle che hanno bassa confidence e alto impatto si preferisce far degli MVP economici e shipparle il prima possibile così da validarle. Ovviamente poi se vinci quelle scommesse va ripagato il costo di un eventuale debito.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g5s+U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08F42UJQEP"
+                },
+                {
+                  "type": "text",
+                  "text": " se ci pensi nel nostro mestiere sono tutte scommesse, alcune con confidence più alta, alcune con confidence più bassa. Quelle che hanno bassa confidence e alto impatto si preferisce far degli MVP economici e shipparle il prima possibile così da validarle. Ovviamente poi se vinci quelle scommesse va ripagato il costo di un eventuale debito."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405315.027499",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "però se poi l'mvp lo hai fatto fare all'ia senza vincoli, refattorizzarlo è un discreto cetriolo, se gli hai già messo i vincoli per fargli fare le cose a modo non vedo perchè interrompere",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u3tB6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però se poi l'mvp lo hai fatto fare all'ia senza vincoli, refattorizzarlo è un discreto cetriolo, se gli hai già messo i vincoli per fargli fare le cose a modo non vedo perchè interrompere"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405324.887549",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Ugualmente quick win che hanno alta confidence ma impatto basso, può aver senso farle cercando di risparmiare, meglio ancora se non si fanno (ma non è sempre possibile, vedi la compliance)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5ATBS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ugualmente quick win che hanno alta confidence ma impatto basso, può aver senso farle cercando di risparmiare, meglio ancora se non si fanno (ma non è sempre possibile, vedi la compliance)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405370.477189",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Quelle ad alta confidence e alto impatto sei disposto a spendere soldoni",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XLvU5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Quelle ad alta confidence e alto impatto sei disposto a spendere soldoni"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405409.556669",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "anche perchè i vincoli sono riproducibili (almeno sul greenfield)",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y8w91",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anche perchè i vincoli sono riproducibili (almeno sul greenfield)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405427.027369",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Se sviluppare in maniera agentica e super safe è sempre molto costoso, non sono sicuro che vorrei usarlo su confidence bassa e alto impatto. Per lo meno non subito.",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e2wFL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Se sviluppare in maniera agentica e super safe è sempre molto costoso, non sono sicuro che vorrei usarlo su confidence bassa e alto impatto. Per lo meno non subito."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405469.608009",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Comunque su questo possiamo creare una sorta di metodo decisionale che ci aiuti ad orientarci che modalità di sviluppo usare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8rnhL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Comunque su questo possiamo creare una sorta di metodo decisionale che ci aiuti ad orientarci che modalità di sviluppo usare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405472.967829",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "dovremmo approfondire",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S/RA1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dovremmo approfondire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405552.428129",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "nel senso che nella mia visione ho la mia harness, nel senso che ho dato all'agente dei criteri di accettazione che può eseguirsi da solo, e ho una serie di progetti con struttura standard e uso sempre quelli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PTOo7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nel senso che nella mia visione ho la mia harness, nel senso che ho dato all'agente dei criteri di accettazione che può eseguirsi da solo, e ho una serie di progetti con struttura standard e uso sempre quelli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405564.036679",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "Chiaro che dopo puoi avere un po' di vincoli",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Eikpu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chiaro che dopo puoi avere un po' di vincoli"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405573.187469",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "del tipo che non cambi linguaggio così facilmente",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jZm+e",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "del tipo che non cambi linguaggio così facilmente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405584.818549",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "ma anche se lo fai fare ad un umano i controlli sopra non li metti?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d7o9O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ma anche se lo fai fare ad un umano i controlli sopra non li metti?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405597.046869",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "generalmente metti gli stessi ma meno stringenti",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GDjJy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "generalmente metti gli stessi ma meno stringenti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405654.554859",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Sì, però il costo non cambia molto a seconda del modello che poi si usa per fare il piano o lo sviluppo?",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "htGI/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sì, però il costo non cambia molto a seconda del modello che poi si usa per fare il piano o lo sviluppo?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405717.807519",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "intendi LLM? quello penso sia indipendente",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DVxaS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "intendi LLM? quello penso sia indipendente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405740.822769",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "dobbiamo parlarne a voce secondo me",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xe/EA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dobbiamo parlarne a voce secondo me"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405758.319299",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "per chat è troppo lungo",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e+oCj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "per chat è troppo lungo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405803.597979",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Eh io sono spaparanzato in mezze ferie :sweat_smile:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IKoC7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Eh io sono spaparanzato in mezze ferie "
+                },
+                {
+                  "type": "emoji",
+                  "name": "sweat_smile",
+                  "unicode": "1f605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405812.532649",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "vai vai non ti preoccupare",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ILr8K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vai vai non ti preoccupare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405812.767649",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "A farmi pippe sull’AI :joy:",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U09P40E8LN6"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MXKFG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "A farmi pippe sull’AI "
+                },
+                {
+                  "type": "emoji",
+                  "name": "joy",
+                  "unicode": "1f602"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405827.140099",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "però in chat secondo me facciamo fatica a capirci",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rjtZq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "però in chat secondo me facciamo fatica a capirci"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405828.891429",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "CI ha cambiato a tutti quest'AI ahahahah",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sx0dk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "CI ha cambiato a tutti quest'AI ahahahah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405849.058029",
+      "thread_ts": "1785402779.789209",
+      "user": "U09P40E8LN6",
+      "text": "il corso da idraulico diventa sempre più interessante",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lUCr3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "il corso da idraulico diventa sempre più interessante"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405861.961169",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Si sì Davide sono d’accordo. Continuiamo intanto ad esplorare poi verso fine mese convergiamo :wink:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WY0bU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Si sì Davide sono d’accordo. Continuiamo intanto ad esplorare poi verso fine mese convergiamo "
+                },
+                {
+                  "type": "emoji",
+                  "name": "wink",
+                  "unicode": "1f609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405891.775099",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "ci sta",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gZzZe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ci sta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405911.420629",
+      "thread_ts": "1785402779.789209",
+      "user": "U08KA9A2BMZ",
+      "text": "Comunque sto gruppo di test e queste conversazioni sono per me “Food for Thought”.",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U08F42UJQEP",
+            "U09P40E8LN6"
+          ],
+          "count": 2
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LsB4u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Comunque sto gruppo di test e queste conversazioni sono per me “Food for Thou"
+                },
+                {
+                  "type": "text",
+                  "text": "ght”."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1785405929.621799",
+      "thread_ts": "1785402779.789209",
+      "user": "U08F42UJQEP",
+      "text": "eh anche per me",
+      "type": "message",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U08KA9A2BMZ"
+          ],
+          "count": 1
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sEA7I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eh anche per me"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08KA9A2BMZ",
+      "name": "francesco.trucchia",
+      "real_name": "Francesco Trucchia",
+      "email": "francesco.trucchia@madisoft.it"
+    },
+    {
+      "id": "U09P40E8LN6",
+      "name": "federicobartoli",
+      "real_name": "federicobartoli",
+      "email": "federico.bartoli@madisoft.it"
+    },
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    }
+  ]
+}

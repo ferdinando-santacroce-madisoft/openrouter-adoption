@@ -1,0 +1,128 @@
+{
+  "channel_id": "C0BH6EGF5GE",
+  "message_count": 4,
+  "messages": [
+    {
+      "ts": "1784040678.074589",
+      "thread_ts": "1784040678.074589",
+      "user": "U08F42UJQEP",
+      "text": "magari fissa un orario così sappiamo quando tenerci liberi",
+      "type": "message",
+      "reply_count": 3,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yuUnz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "magari fissa un orario così sappiamo quando tenerci liberi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784040898.352749",
+      "thread_ts": "1784040678.074589",
+      "user": "U096LKSL2T0",
+      "text": "mandato invito, 12-13",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kiKe+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mandato invito, 12-13"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784099038.765459",
+      "thread_ts": "1784040678.074589",
+      "user": "U0ALTAL9GCA",
+      "text": "Aggiungetemi quando potete :slightly_smiling_face:",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p95ts",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Aggiungetemi quando potete "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ts": "1784099520.082479",
+      "thread_ts": "1784040678.074589",
+      "user": "U096LKSL2T0",
+      "text": "Ti mandato invito via mail",
+      "type": "message",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8H+8K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ti mandato invito via mail"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U08F42UJQEP",
+      "name": "davide.fossacecchi",
+      "real_name": "Davide Fossacecchi",
+      "email": "davide.fossacecchi@madisoft.it"
+    },
+    {
+      "id": "U096LKSL2T0",
+      "name": "ferdinando.santacroce",
+      "real_name": "Ferdinando Santacroce",
+      "email": "ferdinando.santacroce@madisoft.it"
+    },
+    {
+      "id": "U0ALTAL9GCA",
+      "name": "massimiliano.conforti",
+      "real_name": "Massimiliano Conforti",
+      "email": "massimiliano.conforti@madisoft.it"
+    }
+  ]
+}
