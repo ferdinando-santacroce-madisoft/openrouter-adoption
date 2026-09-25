@@ -137,31 +137,46 @@ artifacts:
     title: "Software Selection Record (SSR) - OpenRouter"
     batch: openrouter_managed_pages
     maturity: ready_for_refinement
-    publication_status: draft
-    confluence_version: null
-    content_id: null
-    url: null
+    publication_status: published
+    confluence_version: '2'
+    content_id: "628260884"
+    url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/628260884"
+    published_body_path: snapshots-confluence/ssr_adozione_openrouter.html
+    published_body_sha256: c752b0aa67d37570ae8f2e7218a3645d4c9cc9213fa1c26f78565c28b38f27dd
+    last_drift_check_at: '2026-09-25'
+    last_published_at: '2026-09-25'
+    source_sha256: f8ae81b0161bf43ae3765c4f3034611ee0bccbabf9607323c62ac8a739779db6
   - source: contenuti/pitch-adozione-openrouter.md
     kind: pitch
     disposition: publish_page
     target_key: pitch_adozione_openrouter
-    parent_ref: selezione_software
+    parent_ref: ssr_adozione_openrouter
     title: "Pitch: adozione OpenRouter"
     batch: openrouter_managed_pages
     maturity: ready_for_refinement
-    publication_status: draft
-    confluence_version: null
-    content_id: null
-    url: null
+    publication_status: published
+    confluence_version: '2'
+    content_id: "629178369"
+    url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/629178369"
+    published_body_path: snapshots-confluence/pitch_adozione_openrouter.html
+    published_body_sha256: 43060d2e7f27930e39ea5ac98a8f49162e79d18153c71db6e81ce5ed50a5287d
+    last_drift_check_at: '2026-09-25'
+    last_published_at: '2026-09-25'
+    source_sha256: e77509ebf9e940fca117e0d8962b6c327623674b5bbbf811e6404df1ed4b4ea0
   - source: contenuti/report-finale-openrouter.md
     kind: report
     disposition: publish_page
     target_key: report_finale_openrouter
-    parent_ref: selezione_software
+    parent_ref: ssr_adozione_openrouter
     title: "Report finale: sperimentazione OpenRouter"
     batch: openrouter_managed_pages
     maturity: ready_for_refinement
-    publication_status: draft
-    confluence_version: null
-    content_id: null
-    url: null
+    publication_status: published
+    confluence_version: '2'
+    content_id: "629211137"
+    url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/629211137"
+    published_body_path: snapshots-confluence/report_finale_openrouter.html
+    published_body_sha256: eff0ba412bf65661ca87f67cf0ae338c0659e0a6abb350f4fd254dfa5256f58a
+    last_drift_check_at: '2026-09-25'
+    last_published_at: '2026-09-25'
+    source_sha256: fdec2ecee6fda08b4704cc82395e9a80e3ddd3695b0084d2cd5b10d2113a9862
