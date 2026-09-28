@@ -117,3 +117,4 @@ Ottimizzazione di budget aziendale: sfruttando il suffisso `:floor` all'interno 
 - **Metriche di successo:** incremento della velocità di delivery sui refactoring complessi e mantenimento della spesa entro la soglia storica dei 20$/mese per utente una volta eseguito il rollout definitivo.
 - **Owner responsabile:** Ferdinando Santacroce.
 - **Condizione di compliance:** prima della firma va ottenuta conferma scritta che il piano Business includa il routing EU-only e la Zero Data Retention contrattuale.
+- **Prosecuzione approvata:** il piano operativo di introduzione (budget, configurazione, roll out e formazione, misurazione) è in [Piano di rollout: adozione OpenRouter](piano-rollout-openrouter.md).

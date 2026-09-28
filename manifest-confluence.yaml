@@ -16,8 +16,8 @@ manifest:
   source_root: .
   source_inventory:
     captured_at: "2026-09-25"
-    files_in_scope: 3
-    markdown: 3
+    files_in_scope: 4
+    markdown: 4
     excludes:
       - manifest-confluence.yaml
       - snapshots-confluence/
@@ -125,7 +125,7 @@ target_hierarchy:
 batches:
   openrouter_managed_pages:
     order: 0
-    goal: "Pubblicazione e sincronizzazione delle 3 pagine della selezione software OpenRouter nello spazio TIS."
+    goal: "Pubblicazione e sincronizzazione delle pagine della selezione software OpenRouter nello spazio TIS."
     gate: local_content_approved_by_nando
 
 artifacts:
@@ -138,14 +138,14 @@ artifacts:
     batch: openrouter_managed_pages
     maturity: ready_for_refinement
     publication_status: published
-    confluence_version: '4'
+    confluence_version: '5'
     content_id: "628260884"
     url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/628260884"
     published_body_path: snapshots-confluence/ssr_adozione_openrouter.html
-    published_body_sha256: 23a368e2664b6e103c177d358fe4f5113c48096257388d2495b339305e1200f3
-    last_drift_check_at: '2026-09-25'
-    last_published_at: '2026-09-25'
-    source_sha256: da711e1aa30ca84d0fd085f78a4a00dc7bbfc671f7b1cf55741cce906935a55c
+    published_body_sha256: 586e96fd44fcdace5dc5cab364fe0ec957f3e93f8aa79474a1f1cc46964a26c5
+    last_drift_check_at: '2026-09-28'
+    last_published_at: '2026-09-28'
+    source_sha256: 5c096af4f4b5bcecc31bccc0d021b1b37264ba9fa37a069e2454399b642c622d
   - source: contenuti/pitch-adozione-openrouter.md
     kind: pitch
     disposition: publish_page
@@ -180,3 +180,20 @@ artifacts:
     last_drift_check_at: '2026-09-25'
     last_published_at: '2026-09-25'
     source_sha256: fdec2ecee6fda08b4704cc82395e9a80e3ddd3695b0084d2cd5b10d2113a9862
+  - source: contenuti/piano-rollout-openrouter.md
+    kind: rollout_plan
+    disposition: publish_page
+    target_key: piano_rollout_openrouter
+    parent_ref: ssr_adozione_openrouter
+    title: "Piano di rollout: adozione OpenRouter"
+    batch: openrouter_managed_pages
+    maturity: draft
+    publication_status: published
+    confluence_version: '1'
+    content_id: "631504913"
+    url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/631504913"
+    published_body_path: snapshots-confluence/piano_rollout_openrouter.html
+    published_body_sha256: 1835bbece25fb15459dda06cf55553380c99944ed72174d0d8a923c3386f1b92
+    last_drift_check_at: '2026-09-28'
+    last_published_at: '2026-09-28'
+    source_sha256: dab8684849730ecf8978be2e0c65cad731765765bec20bf173b5b77ae3b3ca3b
