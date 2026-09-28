@@ -84,9 +84,9 @@ Per semplicità si considerano i tre mesi che restano da qui a fine 2026: ottobr
 | Ottobre-dicembre 2026 | 1.500 $ | ~1.600 $ |
 | Anno 2027 | 6.000 $ | ~6.350 $ |
 
-L'iniziativa è quindi **sostanzialmente neutra**: non aggiunge un costo nuovo, ma **sposta** il budget ricorrente oggi allocato su Copilot verso OpenRouter. L'unica differenza è la fee di ricarica del 5,5% e l'eventuale periodo di sovrapposizione dei due strumenti.
+L'iniziativa è **sostanzialmente neutra**: non aggiunge un costo nuovo, ma **sposta** il budget ricorrente oggi allocato su Copilot verso OpenRouter. L'unica differenza è la fee di ricarica del 5,5% e l'eventuale periodo di sovrapposizione dei due strumenti.
 
-> **DA CONFERMARE con Diego Moretti**: la ricarica di ~1.600 $ per ottobre-dicembre 2026 e la stima di ~6.350 $ per il 2027, da inserire tra le spese preventivate.
+> **DA CONFERMARE con Diego**: la ricarica di ~1.600 $ per ottobre-dicembre 2026 e la stima di ~6.350 $ per il 2027.
 
 ### 2.6 Ipotesi e variabili da verificare
 
