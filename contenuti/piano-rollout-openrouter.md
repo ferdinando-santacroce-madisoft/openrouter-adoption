@@ -5,8 +5,8 @@
 | Campo | Valore |
 | :---- | :---- |
 | Titolo | Piano di rollout: adozione OpenRouter |
-| Versione | 0.1 (bozza) |
-| Data | 25/09/2026 |
+| Versione | 0.2 (bozza) |
+| Data | 01/10/2026 |
 | Autore / Owner | Ferdinando Santacroce |
 | Destinatari | Diego Moretti (CEO), Francesco Trucchia (CTO), Pasquale Siciliano (IT & Security), team di sviluppo |
 | Stato | BOZZA: ossatura da completare |
@@ -18,6 +18,7 @@
 | Versione | Data | Autore | Descrizione |
 | :---- | :---- | :---- | :---- |
 | 0.1 | 25/09/2026 | Ferdinando Santacroce | Prima ossatura del piano: capitoli, stima di budget e marcatori sui punti da esplorare. |
+| 0.2 | 01/10/2026 | Ferdinando Santacroce | Aggiunta l'attività di studio e analisi per l'integrazione OpenRouter - Swarmia (§4.1, §5.5), il principio guida in §5 (Swarmia come unico cruscotto) e il relativo punto aperto. |
 
 ## 1. Scopo del documento
 
@@ -148,6 +149,7 @@ La sperimentazione ha usato i classificatori di OpenRouter per taggare le genera
 | 4 | Formazione iniziale e materiali how-to | Ottobre 2026 | F. Santacroce + AI Champion |
 | 5 | Spostamento del budget ricorrente da Copilot a OpenRouter | Al rollout | F. Santacroce + Diego Moretti |
 | 6 | Monitoraggio consumi e checkpoint periodici | Continuo | F. Santacroce + Francesco Trucchia |
+| 7 | Studio e analisi di fattibilità per l'integrazione OpenRouter - Swarmia (raccolta dei dati d'uso per le metriche AI) | Novembre 2026 | F. Santacroce + Francesco Trucchia |
 
 > **DA APPROFONDIRE**: ordine di onboarding dei team, dipendenze e criteri di ingresso per ciascuna fase (i criteri di uscita del rollout sono in 1.2).
 > **Con Diego**: sottoscrizione del piano Business e approvazione del budget associato.
@@ -185,11 +187,14 @@ Rete di supporto di secondo livello: Nando e i partecipanti alla gilda sull'inte
 
 ## 5. Misurazione di adozione e impatto
 
+Principio guida: vogliamo che Swarmia resti l'unico strumento su cui i team osservano la salute e le performance, e che anche le metriche d'uso degli strumenti di intelligenza artificiale entrino a far parte di quel set. L'adozione di OpenRouter non deve vivere in una dashboard separata, ma diventare una delle dimensioni che i team già guardano e monitorano abitualmente. Per questo l'integrazione descritta in §5.5 è il perno della misurazione: porta i dati d'uso di OpenRouter dentro lo stesso cruscotto con cui leggiamo delivery e produttività.
+
 ### 5.1 Metriche di adozione
 
 - Utilizzatori attivi per team e per workspace.
 - Chiavi attive e consumi per modello e per caso d'uso.
 - Distribuzione dei livelli di autonomia (classifier) e dei tipi di lavoro.
+- Lettura di queste metriche dentro Swarmia, accanto a quelle di delivery già monitorate dai team (vedi §5.5).
 
 ### 5.2 Metriche di impatto sulla produttività
 
@@ -200,12 +205,30 @@ Rete di supporto di secondo livello: Nando e i partecipanti alla gilda sull'inte
 - Dashboard OpenRouter per workspace (consumi e modelli).
 - Classificatori OpenRouter (autonomia, tipo di lavoro).
 - Jira e GitHub per throughput e lead time.
-- Swarmia (integrazione custom da valutare).
+- Swarmia (integrazione custom, vedi §5.5).
 - Survey periodica di soddisfazione.
 
 ### 5.4 Cadenza dei checkpoint
 
 > **DA DECIDERE**: frequenza dei checkpoint (mensile magari all'inizio, poi trimestrale), chi analizza i dati, a chi vengono riportati e quali soglie fanno scattare correzioni.
+
+### 5.5 Integrazione con Swarmia: studio di fattibilità
+
+Obiettivo: capire come riversare in Swarmia i dati d'uso di OpenRouter, così che adozione e impatto dell'AI si leggano nella stessa piattaforma in cui l'azienda misura già produttività e delivery. Swarmia offre due funzionalità rilevanti:
+
+- la scheda **ROI** in *AI impact*: mette a confronto ciò che i team consegnano e i costi sostenuti (costo per storia o epica, per PR, per riga modificata), con lettura per team;
+- i **custom AI tools**: permettono di aggiungere uno strumento AI non nativo in due modi: collegando l'account Git del tool (se fa commit e review con un'identità propria) oppure inviando all'API di Swarmia i dati d'uso giornalieri per utente, inclusi costo, modello e token. OpenRouter, in quanto gateway e non coding tool con identità Git propria, ricade con ogni probabilità nel secondo caso.
+
+Attività dello studio:
+
+- verificare quali dati d'uso espone OpenRouter per utente e per chiave (token, costo, modello, timestamp) e con quale granularità;
+- definire la mappatura tra identità OpenRouter e utenti Swarmia;
+- valutare se, oltre ai consumi, sia possibile ricostruire anche le metriche di contributo (commit, PR) riconducibili all'uso di OpenRouter;
+- stabilire quali metriche di adozione (§5.1) e di impatto (§5.2) sono effettivamente derivabili da questa integrazione.
+
+Output atteso: nota di fattibilità con l'architettura dell'integrazione (raccolta dati da OpenRouter verso l'API custom di Swarmia), la stima dello sforzo e l'eventuale piano di realizzazione.
+
+> **DA ESPLORARE**: fattibilità tecnica dell'integrazione OpenRouter - Swarmia e mappatura delle identità; quali dati inviare via API custom. Riferimenti: [ROI dei tool AI](https://www.swarmia.com/changelog/2026-08-07-ai-roi/), [custom AI tools](https://www.swarmia.com/changelog/2026-08-19-custom-ai-tools/).
 
 ## 6. Rischi e mitigazioni
 
@@ -244,6 +267,7 @@ Rete di supporto di secondo livello: Nando e i partecipanti alla gilda sull'inte
 - **Formazione (§4.3)**: contenuti, durata, formato.
 - **AI Champion (§4.4)**: selezione, riconoscimento, carico, canale.
 - **Misurazione dell'impatto (§5.2, §5.4)**: indicatori, cadenza, soglie (all'attenzione di Francesco Trucchia, CTO).
+- **Integrazione Swarmia (§5.5)**: studio di fattibilità per riversare i dati d'uso di OpenRouter nelle metriche AI di Swarmia (attività di novembre 2026).
 - **Comunicazione (§4.5)**: piano e gestione del cambiamento.
 
 ## 9. Riferimenti
