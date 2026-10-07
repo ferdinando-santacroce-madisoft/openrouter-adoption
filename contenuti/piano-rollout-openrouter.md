@@ -5,8 +5,8 @@
 | Campo | Valore |
 | :---- | :---- |
 | Titolo | Piano di rollout: adozione OpenRouter |
-| Versione | 0.2 (bozza) |
-| Data | 01/10/2026 |
+| Versione | 0.3 (bozza) |
+| Data | 07/10/2026 |
 | Autore / Owner | Ferdinando Santacroce |
 | Destinatari | Diego Moretti (CEO), Francesco Trucchia (CTO), Pasquale Siciliano (IT & Security), team di sviluppo |
 | Stato | BOZZA: ossatura da completare |
@@ -19,6 +19,7 @@
 | :---- | :---- | :---- | :---- |
 | 0.1 | 25/09/2026 | Ferdinando Santacroce | Prima ossatura del piano: capitoli, stima di budget e marcatori sui punti da esplorare. |
 | 0.2 | 01/10/2026 | Ferdinando Santacroce | Aggiunta l'attività di studio e analisi per l'integrazione OpenRouter - Swarmia (§4.1, §5.5), il principio guida in §5 (Swarmia come unico cruscotto) e il relativo punto aperto. |
+| 0.3 | 07/10/2026 | Ferdinando Santacroce | Adeguata la fee di ricarica all'8% (piano Business, routing EU-only e ZDR): aggiornati fabbisogno 2026 e stima 2027 (§2.2, §2.3, §2.4, §2.5). |
 
 ## 1. Scopo del documento
 
@@ -55,7 +56,7 @@ OpenRouter non ha un abbonamento per persona. Il modello è diverso da Copilot:
 
 - Si **caricano crediti** una volta (pagamento anticipato) e i crediti vengono consumati in base all'uso reale (pay-as-you-go).
 - La stessa ricarica può essere **ripartita a piacere** tra gli utilizzatori, tramite workspace e chiavi API dedicate.
-- È prevista una **fee di piattaforma del 5,5%** sul momento della ricarica dei crediti.
+- È prevista una **fee di piattaforma dell'8%** sul momento della ricarica dei crediti. La fee sale dal 5,5% all'8% con il passaggio al piano Business, lo stesso che abilita il routing EU-only e la Zero Data Retention.
 - Il costo dipende dal modello scelto e dal routing (con l'istruzione `:floor` si può puntare al fornitore momentaneamente più economico).
 
 Conseguenza pratica: la richiesta non è una licenza a testa, ma una **ricarica di credito** con cui coprire l'equivalente del budget attuale.
@@ -67,27 +68,27 @@ Per semplicità si considerano i tre mesi che restano da qui a fine 2026: ottobr
 | Voce | Calcolo | Valore |
 | :---- | :---- | :---- |
 | Inferenza equivalente | 25 dev x 20 $ x 3 mesi | 1.500 $ |
-| Fee di ricarica 5,5% | 1.500 $ x 5,5% | 82,50 $ |
-| **Ricarica consigliata 2026** | arrotondamento | **~1.600 $** |
+| Fee di ricarica 8% | 1.500 $ x 8% | 120 $ |
+| **Ricarica consigliata 2026** | arrotondamento al successivo multiplo di 50 | **~1.650 $** |
 
 ### 2.4 Stima per il 2027
 
 | Voce | Calcolo | Valore |
 | :---- | :---- | :---- |
 | Inferenza equivalente | 25 dev x 20 $ x 12 mesi | 6.000 $ |
-| Fee di ricarica 5,5% | 6.000 $ x 5,5% | 330 $ |
-| **Ricarica consigliata 2027** | arrotondamento | **~6.350 $** |
+| Fee di ricarica 8% | 6.000 $ x 8% | 480 $ |
+| **Ricarica consigliata 2027** | arrotondamento al successivo multiplo di 50 | **~6.500 $** |
 
 ### 2.5 Sintesi della richiesta
 
 | Periodo | Copilot (status quo) | OpenRouter (equivalente + fee) |
 | :---- | :---- | :---- |
-| Ottobre-dicembre 2026 | 1.500 $ | ~1.600 $ |
-| Anno 2027 | 6.000 $ | ~6.350 $ |
+| Ottobre-dicembre 2026 | 1.500 $ | ~1.650 $ |
+| Anno 2027 | 6.000 $ | ~6.500 $ |
 
-L'iniziativa è **sostanzialmente neutra**: non aggiunge un costo nuovo, ma **sposta** il budget ricorrente oggi allocato su Copilot verso OpenRouter. L'unica differenza è la fee di ricarica del 5,5% e l'eventuale periodo di sovrapposizione dei due strumenti.
+L'iniziativa è **sostanzialmente neutra**: non aggiunge un costo nuovo, ma **sposta** il budget ricorrente oggi allocato su Copilot verso OpenRouter. L'unica differenza, con il piano Business, è la fee di ricarica dell'8% (120 $ per il trimestre 2026, 480 $ su base annua) e l'eventuale periodo di sovrapposizione dei due strumenti.
 
-> **DA CONFERMARE con Diego**: la ricarica di ~1.600 $ per ottobre-dicembre 2026 e la stima di ~6.350 $ per il 2027.
+> **DA CONFERMARE con Diego**: la ricarica di ~1.650 $ per ottobre-dicembre 2026 e la stima di ~6.500 $ per il 2027.
 
 ### 2.6 Ipotesi e variabili da verificare
 
