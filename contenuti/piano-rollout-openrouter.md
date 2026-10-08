@@ -5,8 +5,8 @@
 | Campo | Valore |
 | :---- | :---- |
 | Titolo | Piano di rollout: adozione OpenRouter |
-| Versione | 0.3 (bozza) |
-| Data | 07/10/2026 |
+| Versione | 0.4 (bozza) |
+| Data | 08/10/2026 |
 | Autore / Owner | Ferdinando Santacroce |
 | Destinatari | Diego Moretti (CEO), Francesco Trucchia (CTO), Pasquale Siciliano (IT & Security), team di sviluppo |
 | Stato | BOZZA: ossatura da completare |
@@ -20,6 +20,7 @@
 | 0.1 | 25/09/2026 | Ferdinando Santacroce | Prima ossatura del piano: capitoli, stima di budget e marcatori sui punti da esplorare. |
 | 0.2 | 01/10/2026 | Ferdinando Santacroce | Aggiunta l'attività di studio e analisi per l'integrazione OpenRouter - Swarmia (§4.1, §5.5), il principio guida in §5 (Swarmia come unico cruscotto) e il relativo punto aperto. |
 | 0.3 | 07/10/2026 | Ferdinando Santacroce | Adeguata la fee di ricarica all'8% (piano Business, routing EU-only e ZDR): aggiornati fabbisogno 2026 e stima 2027 (§2.2, §2.3, §2.4, §2.5). |
+| 0.4 | 08/10/2026 | Ferdinando Santacroce | Aggiunto il tema della review automatica delle PR come funzionalità Copilot da rimpiazzare (§2.1, §4.6, §6, §8). |
 
 ## 1. Scopo del documento
 
@@ -49,6 +50,7 @@ Il rollout si considera completato quando sono soddisfatti tutti i punti seguent
 - Costo attuale: **20 $/mese per persona**.
 - Popolazione assunta: **25 persone**.
 - Costo ricorrente: 25 x 20 $ = **500 $/mese**, pari a **6.000 $/anno**.
+- L'abbonamento non copre solo l'IDE: include anche funzioni lato GitHub (review automatica e su richiesta delle PR, Copilot Chat, coding agent). Dismettendo Copilot si spengono tutte insieme; vanno censite e rimpiazzate (vedi §4.6).
 
 ### 2.2 Come funziona il costo di OpenRouter
 
@@ -186,6 +188,23 @@ Rete di supporto di secondo livello: Nando e i partecipanti alla gilda sull'inte
 
 > **DA APPROFONDIRE**: piano di comunicazione (perché cambiamo, cosa cambia per i dev, cosa resta), gestione delle aspettative e dei casi d'uso, gestione del doppio strumento durante la transizione.
 
+### 4.6 Funzionalità Copilot da rimpiazzare: review automatica delle PR
+
+La dismissione di GitHub Copilot non spegne solo il completamento in IDE. L'abbonamento include funzioni usate in modo trasversale, prima fra tutte la **review automatica delle PR** direttamente su GitHub. Diversi sviluppatori la usano come primo filtro sulle pull request (ne è testimonianza la nota di Lorenzo Piersante riportata nel Report finale). Con la dismissione di Copilot queste review si interrompono: vanno censite le funzioni effettivamente in uso e definite le alternative.
+
+**Verifiche da fare:**
+
+- censire quali funzioni Copilot oltre all'IDE sono in uso (review automatica e su richiesta sulle PR, Copilot Chat su GitHub, coding agent sulle issue) e da chi;
+- stabilire cosa si perde esattamente alla disattivazione dell'abbonamento e con quale impatto sui flussi di review.
+
+**Alternative da valutare:**
+
+- **tooling esterno** di code review (ad es. CodeRabbit, Greptile, Qodo Merge / PR-Agent): da confrontare su costo, residenza dei dati (EU/ZDR), integrazione con GitHub e qualità delle review;
+- **soluzione interna** in pipeline CI che chiama un modello via OpenRouter: il Report finale documenta un esperimento interno di PR review agentica via API (es. Kimi 3), con esito positivo su PR corpose. Riprende il tema già aperto nella SSR (Temi aperti dai commenti di revisione).
+
+> **DA VERIFICARE**: funzioni Copilot oltre l'IDE effettivamente in uso e cosa si perde con la dismissione (review automatica delle PR in primis).
+> **DA DECIDERE**: alternativa per la review automatica delle PR (tooling esterno o pipeline interna su OpenRouter) e relativo owner.
+
 ## 5. Misurazione di adozione e impatto
 
 Principio guida: vogliamo che Swarmia resti l'unico strumento su cui i team osservano la salute e le performance, e che anche le metriche d'uso degli strumenti di intelligenza artificiale entrino a far parte di quel set. L'adozione di OpenRouter non deve vivere in una dashboard separata, ma diventare una delle dimensioni che i team già guardano e monitorano abitualmente. Per questo l'integrazione descritta in §5.5 è il perno della misurazione: porta i dati d'uso di OpenRouter dentro lo stesso cruscotto con cui leggiamo delivery e produttività.
@@ -240,6 +259,7 @@ Output atteso: nota di fattibilità con l'architettura dell'integrazione (raccol
 | Disomogeneità dei provider sullo stesso modello | Test di reattività prima dell'adozione per team |
 | Logging e tracciabilità (NIS2) contro rischi di privacy | Decisione formale condivisa con Pasquale |
 | Sovrapposizione Copilot e OpenRouter durante la transizione | Finestra di overlap breve e pianificata |
+| Perdita della review automatica delle PR con la dismissione di Copilot | Censimento delle funzioni in uso; alternativa con tooling esterno o pipeline interna su OpenRouter (§4.6) |
 | Adozione disomogenea tra i team | AI Champion per team e guide how-to dedicate |
 
 ## 7. Ruoli e responsabilità
@@ -265,6 +285,7 @@ Output atteso: nota di fattibilità con l'architettura dell'integrazione (raccol
 - **Chiavi API (§3.5)**: ciclo di vita e rotazione; disabilitare BYOK; logging e tracciabilità NIS2.
 - **Roll out (§4.1)**: ordine di onboarding, dipendenze e criteri di ingresso; sottoscrizione del piano e del budget con Diego Moretti.
 - **Percorsi di integrazione (§4.2)**: ricerca e guide how-to per A/B/C/D.
+- **Funzioni Copilot oltre l'IDE (§2.1, §4.6)**: censimento delle funzioni in uso (review automatica delle PR, Copilot Chat su GitHub, coding agent) e scelta dell'alternativa per la review automatica delle PR (tooling esterno o pipeline interna su OpenRouter).
 - **Formazione (§4.3)**: contenuti, durata, formato.
 - **AI Champion (§4.4)**: selezione, riconoscimento, carico, canale.
 - **Misurazione dell'impatto (§5.2, §5.4)**: indicatori, cadenza, soglie (all'attenzione di Francesco Trucchia, CTO).

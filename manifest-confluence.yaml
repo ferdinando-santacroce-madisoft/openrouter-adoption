@@ -189,11 +189,11 @@ artifacts:
     batch: openrouter_managed_pages
     maturity: draft
     publication_status: published
-    confluence_version: '5'
+    confluence_version: '6'
     content_id: "631504913"
     url: "https://madisoft.atlassian.net/wiki/spaces/TIS/pages/631504913"
     published_body_path: snapshots-confluence/piano_rollout_openrouter.html
-    published_body_sha256: 660eb1a762c2daf65451fb171939f4fe9c456d6e1f7ee69cde5c1da8b1c9fb20
-    last_drift_check_at: '2026-10-07'
-    last_published_at: '2026-10-07'
-    source_sha256: f1206002ddec51f4a6d8cbad642ccff9be05225f73e2ea7f4dcbad76bd0362de
+    published_body_sha256: 1326c734a083a764edb384749f423cd800b2696157adf171dc6af94612cc221b
+    last_drift_check_at: '2026-10-08'
+    last_published_at: '2026-10-08'
+    source_sha256: e9fe6210d8a65eb791d08d97eb5f83ebbaa6a1686febffc62ffb591332e97339
