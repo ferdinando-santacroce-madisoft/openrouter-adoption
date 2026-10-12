@@ -6,12 +6,12 @@
 | :---- | :---- |
 | Codice documento | MAD.TIS.SSR.03 |
 | Titolo | SSR - OpenRouter |
-| Versione | 1.2 |
+| Versione | 1.3 |
 | Data emissione | 10/07/2026 |
-| Ultimo aggiornamento | 25/09/2026 |
+| Ultimo aggiornamento | 12/10/2026 |
 | Autore / Proposer | Ferdinando Santacroce |
 | Revisore IT & Security | Pasquale Siciliano |
-| Stato | IN APPROVAZIONE |
+| Stato | APPROVATO |
 | Classificazione | Riservato - uso interno |
 | Prossima revisione | 25/09/2027, oppure prima in caso di cambio major version, licenza, vendor, modalità di esecuzione, telemetria, connettori o provider LLM. |
 
@@ -31,6 +31,7 @@
 | 1.0 | 10/07/2026 | Ferdinando Santacroce | Prima emissione dell'SSR. |
 | 1.1 | 25/09/2026 | Ferdinando Santacroce | Aggiornamento post-sperimentazione: dati raccolti, esito security e piano di adozione. |
 | 1.2 | 25/09/2026 | Ferdinando Santacroce | Recepiti i commenti di revisione del CTO sul documento originale: aggiunto il requisito di osservabilità dell'utilizzo; aperto il tema della review automatica delle PR di GitHub Copilot. |
+| 1.3 | 12/10/2026 | Ferdinando Santacroce | Approvazione della soluzione in riunione (CTO e CEO): aggiornato lo stato a "APPROVATO" e la sezione Decisione finale; confermati routing EU-only e ZDR. |
 
 ## Informazioni di base
 
@@ -98,7 +99,7 @@ Ottimizzazione di budget aziendale: sfruttando il suffisso `:floor` all'interno 
 
 - **Soluzione scelta:** OpenRouter Enterprise.
 - **Motivazione:** lo strumento supera i vincoli e le rigidità di GitHub Copilot. Offre garanzie giuridiche e infrastrutturali eccellenti per il trattamento dei dati in ambito europeo (EU API e ZDR) e un set di strumenti amministrativi (Workspaces e Budgeting) indispensabili per la governance tecnica di Madisoft.
-- **Approvazione Board:** DA COMPLETARE (data e firme CEO, CTO, IT & CyberSecurity).
+- **Approvazione:** approvata in riunione il 12/10/2026 da CTO (Francesco Trucchia) e CEO (Diego Moretti). Non è prevista una firma formale; l'approvazione è stata data in sede di meeting. Il budget è stato caricato dal CEO sul conto OpenRouter.
 
 ## Alternative considerate
 
@@ -116,5 +117,19 @@ Ottimizzazione di budget aziendale: sfruttando il suffisso `:floor` all'interno 
 - **Timeline di onboarding:** 1-2 mesi di sandbox controllata (Ferdinando e 3/4 dev) con investimento iniziale controllato di 200$ totali.
 - **Metriche di successo:** incremento della velocità di delivery sui refactoring complessi e mantenimento della spesa entro la soglia storica dei 20$/mese per utente una volta eseguito il rollout definitivo.
 - **Owner responsabile:** Ferdinando Santacroce.
-- **Condizione di compliance:** prima della firma va ottenuta conferma scritta che il piano Business includa il routing EU-only e la Zero Data Retention contrattuale.
-- **Prosecuzione approvata:** il piano operativo di introduzione (budget, configurazione, roll out e formazione, misurazione) è in [Piano di rollout: adozione OpenRouter](piano-rollout-openrouter.md).
+- **Condizione di compliance:** routing EU-only e Zero Data Retention confermati (riunione del 12/10/2026); il piano Business si sottoscrive con tali garanzie, responsabile Pasquale Siciliano.
+- **Prosecuzione approvata:** il piano operativo di introduzione (budget, configurazione, roll out e formazione, misurazione) è in [Piano di rollout: adozione OpenRouter](piano-rollout-openrouter.md); l'avvio operativo parte con il kickoff del 13/10/2026.
+
+## Tracciamento Jira
+
+Le attività dell'iniziativa OpenRouter sono tracciate nel progetto **STAFF** (Team Staff+):
+
+- [STAFF-118](https://madisoft.atlassian.net/browse/STAFF-118) - OpenRouter: adozione come AI gateway aziendale (Epica contenitore).
+- [STAFF-119](https://madisoft.atlassian.net/browse/STAFF-119) - ricerca informazioni e materiale di valutazione.
+- [STAFF-120](https://madisoft.atlassian.net/browse/STAFF-120) - creazione del pitch di adozione.
+- [STAFF-121](https://madisoft.atlassian.net/browse/STAFF-121) - presentazione del pitch a CEO e CTO.
+- [STAFF-122](https://madisoft.atlassian.net/browse/STAFF-122) - sperimentazione con il gruppo di sviluppo.
+- [STAFF-105](https://madisoft.atlassian.net/browse/STAFF-105) - redazione del report finale di sperimentazione.
+- [STAFF-123](https://madisoft.atlassian.net/browse/STAFF-123) - approvazione del piano di adozione.
+- [STAFF-124](https://madisoft.atlassian.net/browse/STAFF-124) - piano di rollout.
+- [STAFF-125](https://madisoft.atlassian.net/browse/STAFF-125) - linea guida server MCP locali e richiesta [IS-395](https://madisoft.atlassian.net/browse/IS-395).

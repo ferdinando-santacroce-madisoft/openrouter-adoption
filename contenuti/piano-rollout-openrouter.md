@@ -304,3 +304,13 @@ Output atteso: nota di fattibilità con l'architettura dell'integrazione (raccol
 - [Modelli disponibili in regione EU](https://openrouter.ai/models?region=eu)
 - [OpenRouter Documentation Portal](https://openrouter.ai/docs/)
 - [Offerta OpenRouter per Madisoft](https://docs.google.com/document/d/1UBShAQGmeq83RXyu8H53sxSQqabjQFiO)
+
+## 10. Tracciamento Jira
+
+Le attività dell'iniziativa OpenRouter sono tracciate nel progetto **STAFF** (Team Staff+):
+
+- [STAFF-118](https://madisoft.atlassian.net/browse/STAFF-118) - OpenRouter: adozione come AI gateway aziendale (Epica contenitore).
+- [STAFF-122](https://madisoft.atlassian.net/browse/STAFF-122) - sperimentazione con il gruppo di sviluppo.
+- [STAFF-105](https://madisoft.atlassian.net/browse/STAFF-105) - redazione del report finale di sperimentazione.
+- [STAFF-123](https://madisoft.atlassian.net/browse/STAFF-123) - approvazione del piano di adozione.
+- [STAFF-124](https://madisoft.atlassian.net/browse/STAFF-124) - piano di rollout (questa iniziativa).

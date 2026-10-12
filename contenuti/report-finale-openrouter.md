@@ -6,12 +6,12 @@
 
 | Campo | Valore |
 |---|---|
-| Data | 25/09/2026 (rev. 2.1) |
+| Data | 25/09/2026 (rev. 2.2) |
 | Autore / Owner | Ferdinando Santacroce |
 | Responsabile Iniziativa (PM/EM) | Ferdinando Santacroce |
 | Destinatario | Francesco Trucchia (CTO) · Diego Moretti (CEO) |
-| Stato | Finale — pronto per l'approvazione |
-| Riferimenti | [Pitch adozione OpenRouter](pitch-adozione-openrouter.md) · [SSR adozione OpenRouter](ssr-adozione-openrouter.md) · [IS-313](https://madisoft.atlassian.net/browse/IS-313) · [Qualifica Fornitore e DPIA](https://madisoft.atlassian.net/wiki/spaces/TIS/pages/528023559) |
+| Stato | Approvato (12/10/2026) |
+| Riferimenti | [Pitch adozione OpenRouter](pitch-adozione-openrouter.md) · [SSR adozione OpenRouter](ssr-adozione-openrouter.md) · [IS-313](https://madisoft.atlassian.net/browse/IS-313) · [Qualifica Fornitore e DPIA](https://madisoft.atlassian.net/wiki/spaces/TIS/pages/528023559) · [Epica Jira STAFF-118](https://madisoft.atlassian.net/browse/STAFF-118) |
 
 ---
 
@@ -30,8 +30,8 @@ Da luglio ad agosto 2026, 6 sviluppatori hanno usato OpenRouter nei flussi di sv
 - **Governance reale:** dashboard per workspace, chiavi dedicate, guardrail economici con blocchi automatici, classificatori di utilizzo. Un incidente di governance (40$ in 2 giorni per una chiave in un workspace non presidiato) è servito da lezione ed è stato risolto bloccando a zero il workspace di default.
 - **Compliance:** Zero Data Retention operativo; routing esclusivo EU disponibile con il passaggio al piano Business (71 modelli su 625 in regione EU, inclusi quelli usati); valutazione sicurezza [IS-313](https://madisoft.atlassian.net/browse/IS-313) e DPIA/Qualifica Fornitore approvate (Green) in data 05/08/2026.
 
-### Cosa chiediamo
-Approvazione del piano di adozione (sezione 13) e conferma dello spostamento del budget ricorrente attuale (ammontare pari a ~20$/mese/dev su GitHub Copilot) verso OpenRouter. Il costo di avvio (trial 200$) è già stato sostenuto.
+### Cosa chiediamo (esito)
+Il piano di adozione (sezione 13) e lo spostamento del budget ricorrente attuale (ammontare pari a ~20$/mese/dev su GitHub Copilot) verso OpenRouter sono stati **approvati in riunione il 12/10/2026** da CTO e CEO. Il costo di avvio (trial 200$) è già stato sostenuto e il budget è stato caricato dal CEO sul conto OpenRouter.
 
 ### Nota di trasparenza
 L'incidente di governance (40$) e la qualità non omogenea di alcuni provider sono criticità gestite e documentate in sezione 9; il classificatore usato per le metriche è euristico e va letto come indicatore di tendenza (bias dichiarato in sezione 3.2).
@@ -339,16 +339,16 @@ Il difetto più rilevante di GitHub Copilot per Madisoft è la durata dell'abbon
 
 ### 12.3 Stato di avanzamento e temi aperti
 - **ZDR:** già operativo.
-- **Routing esclusivo EU:** disponibile con il passaggio al piano Business (indicazione di OpenRouter del 25/09/2026). In regione EU sono pubblicati 71 modelli su 625 (~11%): presenti DeepSeek V4 Flash 0731, GLM 5.2/5.3, Kimi K2.6/K2.7, Gemini 3.5 Flash Lite e Sonnet 4.5; non disponibile DeepSeek V4 Pro. Il vincolo "solo modelli EU" non rende inutilizzabile il setup: i modelli del quotidiano ci sono. Elenco aggiornato: [openrouter.ai/models?region=eu](https://openrouter.ai/models?region=eu). Prima della firma va comunque ottenuta conferma scritta che il piano Business includa routing EU-only e ZDR contrattuale.
+- **Routing esclusivo EU:** disponibile con il passaggio al piano Business (indicazione di OpenRouter del 25/09/2026). In regione EU sono pubblicati 71 modelli su 625 (~11%): presenti DeepSeek V4 Flash 0731, GLM 5.2/5.3, Kimi K2.6/K2.7, Gemini 3.5 Flash Lite e Sonnet 4.5; non disponibile DeepSeek V4 Pro. Il vincolo "solo modelli EU" non rende inutilizzabile il setup: i modelli del quotidiano ci sono. Elenco aggiornato: [openrouter.ai/models?region=eu](https://openrouter.ai/models?region=eu). Routing EU-only e ZDR confermati (riunione del 12/10/2026); il piano Business si sottoscrive con tali garanzie.
 - **I/O logging:** al momento non applicabile all'endpoint EU (risolto a monte). Dibattito aperto su logging e monitoraggio: obbligo di tracciabilità NIS2 (IT-Security) vs rischi di privacy e di alterazione del comportamento (team). Decisione da formalizzare. Possibilità di inviare log esternamente (AWS/SIEM) da valutare quando disponibile per l'EU.
 - **Sandboxing degli agenti:** valutazione futura per isolare l'esecuzione degli agenti dal file system locale.
 
 ---
 
-## 13. Piano di adozione (in caso di approvazione)
+## 13. Piano di adozione (approvato)
 
 ### 13.1 Fasi
-A seguito del via libera di CTO e CEO, il primo passo è il passaggio al piano Business di OpenRouter: Ferdinando Santacroce e Pasquale Siciliano contattano OpenRouter, ottengono conferma scritta che il piano includa il routing esclusivo EU e la Zero Data Retention contrattuale, e, una volta confermato anche da Pasquale (referente cybersecurity), si procede alla sottoscrizione con il supporto del CEO (Diego Moretti). Da quel momento parte l'implementazione descritta di seguito.
+Approvato in riunione il 12/10/2026 da CTO e CEO. Il primo passo è il passaggio al piano Business di OpenRouter: Ferdinando Santacroce e Pasquale Siciliano contattano OpenRouter, ottengono conferma scritta che il piano includa il routing esclusivo EU e la Zero Data Retention contrattuale, e, una volta confermato anche da Pasquale (referente cybersecurity), si procede alla sottoscrizione con il supporto del CEO (Diego Moretti). Da quel momento parte l'implementazione descritta di seguito; l'avvio operativo inizia con il kickoff del 13/10/2026.
 
 | Fase | Attività | Timeline | Responsabile |
 |---|---|---|---|
@@ -382,16 +382,16 @@ A seguito del via libera di CTO e CEO, il primo passo è il passaggio al piano B
 
 ---
 
-## 14. Richiesta di approvazione
+## 14. Approvazione
 
-Richiesta: approvazione del piano di adozione descritto in sezione 13, del passaggio al piano Business di OpenRouter e del budget associato, con spostamento del budget ricorrente attualmente allocato su GitHub Copilot verso OpenRouter.
+Esito: il piano di adozione descritto in sezione 13, il passaggio al piano Business di OpenRouter e il budget associato sono stati **approvati in riunione il 12/10/2026** da CTO (Francesco Trucchia) e CEO (Diego Moretti), con spostamento del budget ricorrente da GitHub Copilot verso OpenRouter. Non è prevista una firma formale: l'approvazione è stata data in sede di meeting e il CEO ha caricato il budget sul conto OpenRouter.
 
-| Ruolo | Nome | Decisione | Data / Firma |
+| Ruolo | Nome | Decisione | Data |
 |---|---|---|---|
 | Owner | Ferdinando Santacroce | Proponente | 25/09/2026 |
-| CTO | Francesco Trucchia | [DA INSERIRE] | [DA INSERIRE] |
-| CEO | Diego Moretti | [DA INSERIRE] | [DA INSERIRE] |
-| IT & CyberSecurity | Pasquale Siciliano | [DA INSERIRE] | [DA INSERIRE] |
+| CTO | Francesco Trucchia | Approvato | 12/10/2026 |
+| CEO | Diego Moretti | Approvato (budget caricato) | 12/10/2026 |
+| IT & CyberSecurity | Pasquale Siciliano | Routing EU-only e ZDR confermati | 12/10/2026 |
 
 ---
 
@@ -408,10 +408,26 @@ Richiesta: approvazione del piano di adozione descritto in sezione 13, del passa
 - OpenRouter Documentation Portal
 - Modelli disponibili in regione EU (verificati il 25/09/2026): https://openrouter.ai/models?region=eu
 - Canale Slack `#prj-openrouter` (14/07 → 26/08/2026)
-- Epica Jira: **[NUV-18451](https://madisoft.atlassian.net/browse/NUV-18451)** "Sperimentare strumenti di Ai di supporto allo sviluppo"
+- Epica Jira: **[STAFF-118](https://madisoft.atlassian.net/browse/STAFF-118)** "OpenRouter: adozione come AI gateway aziendale"
 - Iniziativa Swarmia: [DA INSERIRE: link Swarmia]
 - Board Miro (workshop di ideazione) · classificatori configurati (L0-L5 Autonomy, Engineering Work)
 - Metriche classifier: vedi Appendice B (valori grezzi)
+
+---
+
+## Tracciamento Jira
+
+Le attività dell'iniziativa OpenRouter sono tracciate nel progetto **STAFF** (Team Staff+):
+
+- [STAFF-118](https://madisoft.atlassian.net/browse/STAFF-118) - OpenRouter: adozione come AI gateway aziendale (Epica contenitore).
+- [STAFF-119](https://madisoft.atlassian.net/browse/STAFF-119) - ricerca informazioni e materiale di valutazione.
+- [STAFF-120](https://madisoft.atlassian.net/browse/STAFF-120) - creazione del pitch di adozione.
+- [STAFF-121](https://madisoft.atlassian.net/browse/STAFF-121) - presentazione del pitch a CEO e CTO.
+- [STAFF-122](https://madisoft.atlassian.net/browse/STAFF-122) - sperimentazione con il gruppo di sviluppo.
+- [STAFF-105](https://madisoft.atlassian.net/browse/STAFF-105) - redazione del report finale di sperimentazione (questo documento).
+- [STAFF-123](https://madisoft.atlassian.net/browse/STAFF-123) - approvazione del piano di adozione.
+- [STAFF-124](https://madisoft.atlassian.net/browse/STAFF-124) - piano di rollout.
+- [STAFF-125](https://madisoft.atlassian.net/browse/STAFF-125) - linea guida server MCP locali e richiesta [IS-395](https://madisoft.atlassian.net/browse/IS-395).
 
 ---
 
