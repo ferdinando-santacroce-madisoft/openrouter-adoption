@@ -5,11 +5,11 @@
 | Campo | Valore |
 | :---- | :---- |
 | Titolo | Piano di rollout: adozione OpenRouter |
-| Versione | 0.4 (bozza) |
-| Data | 08/10/2026 |
+| Versione | 0.5 |
+| Data | 12/10/2026 |
 | Autore / Owner | Ferdinando Santacroce |
 | Destinatari | Diego Moretti (CEO), Francesco Trucchia (CTO), Pasquale Siciliano (IT & Security), team di sviluppo |
-| Stato | BOZZA: ossatura da completare |
+| Stato | APPROVATO: avvio operativo dal 13/10/2026 |
 | Classificazione | Riservato: uso interno |
 | Documenti correlati | [SSR - OpenRouter](ssr-adozione-openrouter.md), [Report finale: sperimentazione OpenRouter](report-finale-openrouter.md), [Pitch: adozione OpenRouter](pitch-adozione-openrouter.md) |
 
@@ -21,12 +21,15 @@
 | 0.2 | 01/10/2026 | Ferdinando Santacroce | Aggiunta l'attività di studio e analisi per l'integrazione OpenRouter - Swarmia (§4.1, §5.5), il principio guida in §5 (Swarmia come unico cruscotto) e il relativo punto aperto. |
 | 0.3 | 07/10/2026 | Ferdinando Santacroce | Adeguata la fee di ricarica all'8% (piano Business, routing EU-only e ZDR): aggiornati fabbisogno 2026 e stima 2027 (§2.2, §2.3, §2.4, §2.5). |
 | 0.4 | 08/10/2026 | Ferdinando Santacroce | Aggiunto il tema della review automatica delle PR come funzionalità Copilot da rimpiazzare (§2.1, §4.6, §6, §8). |
+| 0.5 | 12/10/2026 | Ferdinando Santacroce | Approvazione del piano in riunione. Confermate le 25 persone come popolazione target (in valutazione l'estensione a product manager, con eventuale integrazione di budget); Copilot mantenuto in parallelo fino a fine anno con checkpoint a fine novembre; confermate data residency EU e ZDR (§3.3); kickoff di rollout fissato al 13/10 con gli sperimentatori e gli AI Champion; confermato lo studio per il rimpiazzo della review automatica delle PR (§4.6). |
 
 ## 1. Scopo del documento
 
 Dopo la sperimentazione e la decisione di proseguire, questo documento definisce il piano operativo per introdurre OpenRouter in azienda. Non ripete la valutazione tecnica e di sicurezza, già coperta da SSR e Report finale, ma ne traduce le conclusioni in azioni: budget, configurazione della piattaforma, roll out e formazione, misurazione dell'impatto.
 
 Il piano copre sia la parte economica e di indirizzo sia la parte esecutiva. Dove serve una conferma esplicita, il punto è marcato con un richiamo all'attenzione del soggetto competente.
+
+Il piano è stato **approvato in riunione il 12/10/2026**. L'avvio operativo inizia con il kickoff del 13/10/2026, con i partecipanti alla sperimentazione e gli AI Champion.
 
 ### 1.1 Orizzonte temporale
 
@@ -48,7 +51,7 @@ Il rollout si considera completato quando sono soddisfatti tutti i punti seguent
 ### 2.1 Stato attuale: GitHub Copilot
 
 - Costo attuale: **20 $/mese per persona**.
-- Popolazione assunta: **25 persone**.
+- Popolazione assunta: **25 persone** (popolazione target confermata; in valutazione l'estensione a product manager, con eventuale integrazione di budget).
 - Costo ricorrente: 25 x 20 $ = **500 $/mese**, pari a **6.000 $/anno**.
 - L'abbonamento non copre solo l'IDE: include anche funzioni lato GitHub (review automatica e su richiesta delle PR, Copilot Chat, coding agent). Dismettendo Copilot si spengono tutte insieme; vanno censite e rimpiazzate (vedi §4.6).
 
@@ -88,14 +91,12 @@ Per semplicità si considerano i tre mesi che restano da qui a fine 2026: ottobr
 | Ottobre-dicembre 2026 | 1.500 $ | ~1.650 $ |
 | Anno 2027 | 6.000 $ | ~6.500 $ |
 
-L'iniziativa è **sostanzialmente neutra**: non aggiunge un costo nuovo, ma **sposta** il budget ricorrente oggi allocato su Copilot verso OpenRouter. L'unica differenza, con il piano Business, è la fee di ricarica dell'8% (120 $ per il trimestre 2026, 480 $ su base annua) e l'eventuale periodo di sovrapposizione dei due strumenti.
+L'iniziativa è **sostanzialmente neutra**: non aggiunge un costo nuovo, ma **sposta** il budget ricorrente oggi allocato su Copilot verso OpenRouter. L'unica differenza, con il piano Business, è la fee di ricarica dell'8% (120 $ per il trimestre 2026, 480 $ su base annua) e il periodo di sovrapposizione dei due strumenti, previsto fino a fine anno (§2.6).
 
-> **DA CONFERMARE con Diego**: la ricarica di ~1.650 $ per ottobre-dicembre 2026 e la stima di ~6.500 $ per il 2027.
+### 2.6 Ipotesi, decisioni e variabili da verificare
 
-### 2.6 Ipotesi e variabili da verificare
-
-> **DA DECIDERE**: 25 persone sono la popolazione target del rollout o solo il perimetro iniziale? Vista la natura del servizio, possiamo aggiungere e togliere persone quando vogliamo, ricalibrando il budget possibilmente.
-> **DA DECIDERE**: se mantenere Copilot in parallelo durante la transizione e per quanto (direi di tenerlo fino a fine anno).
+> **RISOLTO**: le 25 persone sono la **popolazione target** del rollout. È in valutazione l'estensione ai product manager. Vista la natura del servizio, possiamo aggiungere e togliere persone quando vogliamo, ricalibrando il budget.
+> **RISOLTO**: Copilot resta in parallelo **fino a fine anno**. A novembre 2026 un punto della situazione per decidere se dismetterlo definitivamente o mantenerlo.
 > **DA VERIFICARE**: fatturazione (modalità, valuta, etc.).
 
 ## 3. Piano di configurazione di OpenRouter
@@ -104,7 +105,7 @@ L'iniziativa è **sostanzialmente neutra**: non aggiunge un costo nuovo, ma **sp
 
 Ipotesi di partenza: un **workspace per team** (prodotto, platform, IT&Security, Staff+).
 
-> **DA DECIDERE**: numero e mappa dei workspace; naming convention; chi amministra i workspace (il "superadmin" di turno); come gestire account di persone che non fanno parte di un team (ad es. account di Francesco T. e Diego, eventuali account per designer, etc.).
+> **DA DEFINIRE**: numero e mappa dei workspace; naming convention; chi amministra i workspace (il "superadmin" di turno); come gestire account di persone che non fanno parte di un team (ad es. account di Francesco T. e Diego, eventuali account per designer, etc.). Questi punti si definiscono nella riunione di kickoff del 13/10/2026, con i partecipanti alla sperimentazione e gli AI Champion.
 
 ### 3.2 Guardrails e budget policies
 
@@ -123,7 +124,7 @@ Vincolo di conformità: **bloccare i modelli non europei** e mantenere il routin
 - Elenco aggiornato dei modelli disponibili in regione EU: https://openrouter.ai/models?region=eu
 - Al 25/09/2026 risultano 71 modelli su 625 (~11%): presenti DeepSeek V4 Flash, GLM 5.2/5.3, Kimi K2.6/K2.7, Gemini 3.5 Flash Lite, Sonnet 4.5.
 
-> **DA CONFERMARE con Pasquale**: conferma che il piano Business sia impostato con routing EU-only e Zero Data Retention contrattuale, prima della sottoscrizione.
+> **CONFERMATO**: data residency in Europa e Zero Data Retention confermate (riunione del 12/10/2026). Il piano Business si sottoscrive con routing EU-only e ZDR contrattuale; responsabile Pasquale Siciliano.
 
 ### 3.4 Classifier e osservabilità
 
@@ -147,15 +148,15 @@ La sperimentazione ha usato i classificatori di OpenRouter per taggare le genera
 | Fase | Attività | Timeline | Responsabile |
 | :---- | :---- | :---- | :---- |
 | 1 | Passaggio al piano Business e conferma scritta di routing EU-only e ZDR | Subito dopo l'approvazione | F. Santacroce + P. Siciliano |
-| 2 | Kickoff, comunicazione e configurazione guardrails e workspace | Ottobre 2026 | F. Santacroce |
+| 2 | Kickoff (13/10), comunicazione e configurazione guardrails e workspace | Ottobre 2026 | F. Santacroce |
 | 3 | Onboarding dei team e distribuzione chiavi | Ottobre 2026 | F. Santacroce + AI Champion |
 | 4 | Formazione iniziale e materiali how-to | Ottobre 2026 | F. Santacroce + AI Champion |
 | 5 | Spostamento del budget ricorrente da Copilot a OpenRouter | Al rollout | F. Santacroce + Diego Moretti |
 | 6 | Monitoraggio consumi e checkpoint periodici | Continuo | F. Santacroce + Francesco Trucchia |
 | 7 | Studio e analisi di fattibilità per l'integrazione OpenRouter - Swarmia (raccolta dei dati d'uso per le metriche AI) | Novembre 2026 | F. Santacroce + Francesco Trucchia |
 
-> **DA APPROFONDIRE**: ordine di onboarding dei team, dipendenze e criteri di ingresso per ciascuna fase (i criteri di uscita del rollout sono in 1.2).
-> **Con Diego**: sottoscrizione del piano Business e approvazione del budget associato.
+> **RISOLTO**: il kickoff del rollout si tiene il **13/10/2026** con i partecipanti alla sperimentazione e gli AI Champion; in quell'occasione si definiscono workspace, naming convention e organizzazione (§3.1, §4.4). Resta da approfondire l'ordine di onboarding dei team, le dipendenze e i criteri di ingresso per ciascuna fase (i criteri di uscita del rollout sono in 1.2).
+> **Con Diego**: sottoscrizione del piano Business (routing EU-only e ZDR). Budget approvato in riunione, con eventuale integrazione in caso di estensione della popolazione.
 
 ### 4.2 Integrazione con gli strumenti di sviluppo
 
@@ -182,6 +183,7 @@ Per ogni team va individuato un **AI Champion**: una persona di riferimento per 
 
 Rete di supporto di secondo livello: Nando e i partecipanti alla gilda sull'intelligenza artificiale.
 
+> **IN DEFINIZIONE**: la lista degli AI Champion per team sarà stabilita nella riunione del 13/10/2026; alcune persone si sono già offerte volontarie, altre vanno sollecitate a proporsi.
 > **DA DECIDERE**: criteri di selezione dell'AI Champion; come si riconosce il ruolo; carico atteso; canale di comunicazione (es. canale Slack dedicato); come si raccolgono i problemi ricorrenti per trasformarli in FAQ e guide.
 
 ### 4.5 Comunicazione e gestione del cambiamento
@@ -190,7 +192,7 @@ Rete di supporto di secondo livello: Nando e i partecipanti alla gilda sull'inte
 
 ### 4.6 Funzionalità Copilot da rimpiazzare: review automatica delle PR
 
-La dismissione di GitHub Copilot non spegne solo il completamento in IDE. L'abbonamento include funzioni usate in modo trasversale, prima fra tutte la **review automatica delle PR** direttamente su GitHub. Diversi sviluppatori la usano come primo filtro sulle pull request (ne è testimonianza la nota di Lorenzo Piersante riportata nel Report finale). Con la dismissione di Copilot queste review si interrompono: vanno censite le funzioni effettivamente in uso e definite le alternative.
+La dismissione di GitHub Copilot non spegne solo il completamento in IDE. L'abbonamento include funzioni usate in modo trasversale, prima fra tutte la **review automatica delle PR** direttamente su GitHub. Diversi sviluppatori la usano come primo filtro sulle pull request (ne è testimonianza la nota di Lorenzo Piersante riportata nel Report finale). Poiché Copilot resta attivo fino a fine anno (§2.6), la review continua a funzionare: il tempo a disposizione serve a decidere se replicare la funzionalità o abbandonarla.
 
 **Verifiche da fare:**
 
@@ -200,10 +202,11 @@ La dismissione di GitHub Copilot non spegne solo il completamento in IDE. L'abbo
 **Alternative da valutare:**
 
 - **tooling esterno** di code review (ad es. CodeRabbit, Greptile, Qodo Merge / PR-Agent): da confrontare su costo, residenza dei dati (EU/ZDR), integrazione con GitHub e qualità delle review;
-- **soluzione interna** in pipeline CI che chiama un modello via OpenRouter: il Report finale documenta un esperimento interno di PR review agentica via API (es. Kimi 3), con esito positivo su PR corpose. Riprende il tema già aperto nella SSR (Temi aperti dai commenti di revisione).
+- **soluzione interna** in pipeline CI che chiama un modello via OpenRouter: il Report finale documenta un esperimento interno di PR review agentica via API (es. Kimi 3), con esito positivo su PR corpose. Riprende il tema già aperto nella SSR (Temi aperti dai commenti di revisione);
+- **skill personali o agenti** che usano l'inferenza di OpenRouter, come alternativa leggera al tooling dedicato.
 
-> **DA VERIFICARE**: funzioni Copilot oltre l'IDE effettivamente in uso e cosa si perde con la dismissione (review automatica delle PR in primis).
-> **DA DECIDERE**: alternativa per la review automatica delle PR (tooling esterno o pipeline interna su OpenRouter) e relativo owner.
+> **DA VERIFICARE**: funzioni Copilot oltre l'IDE effettivamente in uso e cosa si perde con la dismissione (review automatica delle PR in primis). Con Copilot mantenuto fino a fine anno, la verifica può procedere senza urgenza.
+> **DA DECIDERE**: se replicare la review automatica delle PR (tooling esterno o pipeline interna su OpenRouter) oppure abbandonarla in favore di sistemi alternativi, ad esempio skill personali o agenti che usano l'inferenza di OpenRouter; definire il relativo owner.
 
 ## 5. Misurazione di adozione e impatto
 
@@ -258,7 +261,7 @@ Output atteso: nota di fattibilità con l'architettura dell'integrazione (raccol
 | Selezione di modelli costosi via auto-router | White-list modelli e uso di `:floor` |
 | Disomogeneità dei provider sullo stesso modello | Test di reattività prima dell'adozione per team |
 | Logging e tracciabilità (NIS2) contro rischi di privacy | Decisione formale condivisa con Pasquale |
-| Sovrapposizione Copilot e OpenRouter durante la transizione | Finestra di overlap breve e pianificata |
+| Sovrapposizione Copilot e OpenRouter durante la transizione | Copilot mantenuto fino a fine anno; checkpoint a novembre 2026 per la dismissione definitiva |
 | Perdita della review automatica delle PR con la dismissione di Copilot | Censimento delle funzioni in uso; alternativa con tooling esterno o pipeline interna su OpenRouter (§4.6) |
 | Adozione disomogenea tra i team | AI Champion per team e guide how-to dedicate |
 
@@ -270,24 +273,24 @@ Output atteso: nota di fattibilità con l'architettura dell'integrazione (raccol
 | Sponsor tecnico | Francesco Trucchia (CTO) | Indirizzo, coerenza con la Tech Strategy, metriche |
 | Approvatore budget | Diego Moretti (CEO) | Budget di spesa preventivata |
 | IT & Security | Pasquale Siciliano | Conformità EU/ZDR, sicurezza, NIS2 |
-| AI Champion | DA DEFINIRE (uno per team) | Primo supporto ai colleghi, raccolta feedback |
+| AI Champion | IN DEFINIZIONE: lista il 13/10/2026 (uno per team) | Primo supporto ai colleghi, raccolta feedback |
 | Rete di supporto | Partecipanti gilda AI | Secondo livello di supporto, materiali |
 
 ## 8. Riepilogo dei punti aperti
 
-> Questa sezione è un riepilogo sintetico dei punti marcati nel documento (da decidere, da verificare, da esplorare, da approfondire, da produrre). Per il dettaglio fanno fede i capitoli richiamati.
+> Questa sezione è un riepilogo sintetico dei punti marcati nel documento (da decidere, da verificare, da esplorare, da approfondire, da produrre, in definizione). Per il dettaglio fanno fede i capitoli richiamati.
 
-- **Budget (§2.5, §2.6)**: conferma della ricarica con Diego Moretti; fatturazione (modalità, valuta); popolazione target; mantenimento di Copilot fino a fine anno.
-- **Workspaces (§3.1)**: mappa e naming, chi amministra (superadmin).
+- **Budget (§2.5, §2.6)**: fatturazione (modalità, valuta); eventuale integrazione di budget se la popolazione si estende ai project manager e ai product manager. Popolazione target (25) confermata; Copilot mantenuto fino a fine anno.
+- **Workspaces (§3.1)**: mappa e naming, chi amministra (superadmin). Da definire nella riunione del 13/10/2026.
 - **Guardrails (§3.2)**: politica per persona/team/mix e relativi valori.
-- **Modelli EU e routing (§3.3, §6)**: conferma EU-only e ZDR con Pasquale; mappa dei modelli per caso d'uso; white-list e regole sull'auto-router.
+- **Modelli EU e routing (§3.3, §6)**: mappa dei modelli per caso d'uso; white-list e regole sull'auto-router. Routing EU-only e ZDR confermati.
 - **Classifier (§3.4)**: nuovi classificatori, dashboard e reportistica (all'attenzione di Francesco Trucchia, CTO).
 - **Chiavi API (§3.5)**: ciclo di vita e rotazione; disabilitare BYOK; logging e tracciabilità NIS2.
-- **Roll out (§4.1)**: ordine di onboarding, dipendenze e criteri di ingresso; sottoscrizione del piano e del budget con Diego Moretti.
+- **Roll out (§4.1)**: kickoff il 13/10/2026; ordine di onboarding, dipendenze e criteri di ingresso; sottoscrizione del piano Business con Diego Moretti.
 - **Percorsi di integrazione (§4.2)**: ricerca e guide how-to per A/B/C/D.
-- **Funzioni Copilot oltre l'IDE (§2.1, §4.6)**: censimento delle funzioni in uso (review automatica delle PR, Copilot Chat su GitHub, coding agent) e scelta dell'alternativa per la review automatica delle PR (tooling esterno o pipeline interna su OpenRouter).
+- **Funzioni Copilot oltre l'IDE (§2.1, §4.6)**: censimento delle funzioni in uso (review automatica delle PR, Copilot Chat su GitHub, coding agent) e decisione se replicare la review automatica delle PR (tooling esterno o pipeline interna su OpenRouter) oppure abbandonarla in favore di skill personali o agenti su OpenRouter.
 - **Formazione (§4.3)**: contenuti, durata, formato.
-- **AI Champion (§4.4)**: selezione, riconoscimento, carico, canale.
+- **AI Champion (§4.4)**: lista nella riunione del 13/10/2026; criteri di selezione, riconoscimento, carico, canale.
 - **Misurazione dell'impatto (§5.2, §5.4)**: indicatori, cadenza, soglie (all'attenzione di Francesco Trucchia, CTO).
 - **Integrazione Swarmia (§5.5)**: studio di fattibilità per riversare i dati d'uso di OpenRouter nelle metriche AI di Swarmia (attività di novembre 2026).
 - **Comunicazione (§4.5)**: piano e gestione del cambiamento.
